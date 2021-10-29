@@ -1,0 +1,77 @@
+-------------------- Breakout-ramNoFrameskip-v4 Log 1 --------------------
+Overall:
+- Steps: 2000
+- Episodes: 11
+Last 5 Episodes:
+- Mean episode length: 219.00000 +/- 77.37700
+- Mean episode reward: 2.20000 +/- 1.60000
+Last 1000 Steps:
+- Mean episode length: 165.83333 +/- 107.44210
+- Mean episode reward: 1.50000 +/- 1.80278
+
+-------------------- Breakout-ramNoFrameskip-v4 Log 2 --------------------
+Overall:
+- Steps: 4000
+- Episodes: 21
+Last 5 Episodes:
+- Mean episode length: 184.40000 +/- 43.47229
+- Mean episode reward: 1.40000 +/- 1.20000
+Last 1000 Steps:
+- Mean episode length: 142.00000 +/- 76.71655
+- Mean episode reward: 1.00000 +/- 1.19523
+
+-------------------- Breakout-ramNoFrameskip-v4 Log 3 --------------------
+Overall:
+- Steps: 6000
+- Episodes: 30
+Last 5 Episodes:
+- Mean episode length: 197.20000 +/- 63.77586
+- Mean episode reward: 1.60000 +/- 1.49666
+Last 1000 Steps:
+- Mean episode length: 165.83333 +/- 90.10996
+- Mean episode reward: 1.33333 +/- 1.49071
+
+-------------------- Breakout-ramNoFrameskip-v4 Log 4 --------------------
+Overall:
+- Steps: 8000
+- Episodes: 40
+Last 5 Episodes:
+- Mean episode length: 217.00000 +/- 55.59137
+- Mean episode reward: 2.20000 +/- 1.32665
+Last 1000 Steps:
+- Mean episode length: 165.83333 +/- 61.07759
+- Mean episode reward: 1.83333 +/- 1.06719
+
+-------------------- Breakout-ramNoFrameskip-v4 Log 5 --------------------
+Overall:
+- Steps: 10000
+- Episodes: 49
+Last 5 Episodes:
+- Mean episode length: 243.80000 +/- 98.03550
+- Mean episode reward: 2.60000 +/- 2.15407
+Last 1000 Steps:
+- Mean episode length: 165.83333 +/- 124.27579
+- Mean episode reward: 1.66667 +/- 2.05480
+
+-------------------- Breakout-ramNoFrameskip-v4 Log 6 --------------------
+Overall:
+- Steps: 12000
+- Episodes: 55
+Last 5 Episodes:
+- Mean episode length: 158.80000 +/- 75.60000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 385.50000
+- Mean episode reward: 0.00000 +/- 0.00000
+
+-------------------- Breakout-ramNoFrameskip-v4 Log 7 --------------------
+Overall:
+- Steps: 14000
+- Episodes: 56
+Last 5 Episodes:
+- Mean episode length: 676.40000 +/- 1018.93270
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 324.50000
+- Mean episode reward: 0.00000 +/- 0.00000
+

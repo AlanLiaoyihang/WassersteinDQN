@@ -1,0 +1,2200 @@
+-------------------- MountainCar-v0 Log 0 --------------------
+Overall:
+- Steps: 200
+- Episodes: 0
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 1 --------------------
+Overall:
+- Steps: 1200
+- Episodes: 5
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 2 --------------------
+Overall:
+- Steps: 2200
+- Episodes: 10
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 3 --------------------
+Overall:
+- Steps: 3200
+- Episodes: 15
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 4 --------------------
+Overall:
+- Steps: 4200
+- Episodes: 20
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 5 --------------------
+Overall:
+- Steps: 5200
+- Episodes: 25
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 6 --------------------
+Overall:
+- Steps: 6200
+- Episodes: 30
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 7 --------------------
+Overall:
+- Steps: 7200
+- Episodes: 35
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 8 --------------------
+Overall:
+- Steps: 8200
+- Episodes: 40
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 9 --------------------
+Overall:
+- Steps: 9200
+- Episodes: 45
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 10 --------------------
+Overall:
+- Steps: 10200
+- Episodes: 50
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 11 --------------------
+Overall:
+- Steps: 11200
+- Episodes: 55
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 12 --------------------
+Overall:
+- Steps: 12200
+- Episodes: 60
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 13 --------------------
+Overall:
+- Steps: 13200
+- Episodes: 65
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 14 --------------------
+Overall:
+- Steps: 14200
+- Episodes: 70
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 15 --------------------
+Overall:
+- Steps: 15200
+- Episodes: 75
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 16 --------------------
+Overall:
+- Steps: 16200
+- Episodes: 80
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 17 --------------------
+Overall:
+- Steps: 17200
+- Episodes: 85
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 18 --------------------
+Overall:
+- Steps: 18200
+- Episodes: 90
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 19 --------------------
+Overall:
+- Steps: 19200
+- Episodes: 95
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 20 --------------------
+Overall:
+- Steps: 20200
+- Episodes: 100
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 21 --------------------
+Overall:
+- Steps: 21200
+- Episodes: 105
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 22 --------------------
+Overall:
+- Steps: 22200
+- Episodes: 110
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 23 --------------------
+Overall:
+- Steps: 23200
+- Episodes: 115
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 24 --------------------
+Overall:
+- Steps: 24200
+- Episodes: 120
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 25 --------------------
+Overall:
+- Steps: 25200
+- Episodes: 125
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 26 --------------------
+Overall:
+- Steps: 26200
+- Episodes: 130
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 27 --------------------
+Overall:
+- Steps: 27200
+- Episodes: 135
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 28 --------------------
+Overall:
+- Steps: 28200
+- Episodes: 140
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 29 --------------------
+Overall:
+- Steps: 29200
+- Episodes: 145
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 30 --------------------
+Overall:
+- Steps: 30200
+- Episodes: 150
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 31 --------------------
+Overall:
+- Steps: 31200
+- Episodes: 155
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 32 --------------------
+Overall:
+- Steps: 32200
+- Episodes: 160
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 33 --------------------
+Overall:
+- Steps: 33200
+- Episodes: 165
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 34 --------------------
+Overall:
+- Steps: 34200
+- Episodes: 170
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 35 --------------------
+Overall:
+- Steps: 35200
+- Episodes: 175
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 36 --------------------
+Overall:
+- Steps: 36200
+- Episodes: 180
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 37 --------------------
+Overall:
+- Steps: 37200
+- Episodes: 185
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 38 --------------------
+Overall:
+- Steps: 38200
+- Episodes: 190
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 39 --------------------
+Overall:
+- Steps: 39200
+- Episodes: 195
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 40 --------------------
+Overall:
+- Steps: 40200
+- Episodes: 200
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 41 --------------------
+Overall:
+- Steps: 41200
+- Episodes: 205
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 42 --------------------
+Overall:
+- Steps: 42200
+- Episodes: 210
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 43 --------------------
+Overall:
+- Steps: 43200
+- Episodes: 215
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 44 --------------------
+Overall:
+- Steps: 44200
+- Episodes: 220
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 45 --------------------
+Overall:
+- Steps: 45200
+- Episodes: 225
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 46 --------------------
+Overall:
+- Steps: 46200
+- Episodes: 230
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 47 --------------------
+Overall:
+- Steps: 47200
+- Episodes: 235
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 48 --------------------
+Overall:
+- Steps: 48200
+- Episodes: 240
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 49 --------------------
+Overall:
+- Steps: 49200
+- Episodes: 245
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 50 --------------------
+Overall:
+- Steps: 50200
+- Episodes: 250
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 51 --------------------
+Overall:
+- Steps: 51200
+- Episodes: 255
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 52 --------------------
+Overall:
+- Steps: 52200
+- Episodes: 260
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 53 --------------------
+Overall:
+- Steps: 53200
+- Episodes: 265
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 54 --------------------
+Overall:
+- Steps: 54200
+- Episodes: 270
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 55 --------------------
+Overall:
+- Steps: 55200
+- Episodes: 275
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 56 --------------------
+Overall:
+- Steps: 56200
+- Episodes: 280
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 57 --------------------
+Overall:
+- Steps: 57200
+- Episodes: 285
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 58 --------------------
+Overall:
+- Steps: 58200
+- Episodes: 290
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 59 --------------------
+Overall:
+- Steps: 59200
+- Episodes: 295
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 60 --------------------
+Overall:
+- Steps: 60200
+- Episodes: 300
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 61 --------------------
+Overall:
+- Steps: 61200
+- Episodes: 305
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 62 --------------------
+Overall:
+- Steps: 62200
+- Episodes: 310
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 63 --------------------
+Overall:
+- Steps: 63200
+- Episodes: 315
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 64 --------------------
+Overall:
+- Steps: 64200
+- Episodes: 320
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 65 --------------------
+Overall:
+- Steps: 65200
+- Episodes: 325
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 66 --------------------
+Overall:
+- Steps: 66200
+- Episodes: 330
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 67 --------------------
+Overall:
+- Steps: 67200
+- Episodes: 335
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 68 --------------------
+Overall:
+- Steps: 68200
+- Episodes: 340
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 69 --------------------
+Overall:
+- Steps: 69200
+- Episodes: 345
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 70 --------------------
+Overall:
+- Steps: 70200
+- Episodes: 350
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 71 --------------------
+Overall:
+- Steps: 71200
+- Episodes: 355
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 72 --------------------
+Overall:
+- Steps: 72200
+- Episodes: 360
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 73 --------------------
+Overall:
+- Steps: 73200
+- Episodes: 365
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 74 --------------------
+Overall:
+- Steps: 74200
+- Episodes: 370
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 75 --------------------
+Overall:
+- Steps: 75200
+- Episodes: 375
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 76 --------------------
+Overall:
+- Steps: 76200
+- Episodes: 380
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 77 --------------------
+Overall:
+- Steps: 77200
+- Episodes: 385
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 78 --------------------
+Overall:
+- Steps: 78200
+- Episodes: 390
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 79 --------------------
+Overall:
+- Steps: 79200
+- Episodes: 395
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 80 --------------------
+Overall:
+- Steps: 80200
+- Episodes: 400
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 81 --------------------
+Overall:
+- Steps: 81200
+- Episodes: 405
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 82 --------------------
+Overall:
+- Steps: 82200
+- Episodes: 410
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 83 --------------------
+Overall:
+- Steps: 83200
+- Episodes: 415
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 84 --------------------
+Overall:
+- Steps: 84200
+- Episodes: 420
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 85 --------------------
+Overall:
+- Steps: 85200
+- Episodes: 425
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 86 --------------------
+Overall:
+- Steps: 86200
+- Episodes: 430
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 87 --------------------
+Overall:
+- Steps: 87200
+- Episodes: 435
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 88 --------------------
+Overall:
+- Steps: 88200
+- Episodes: 440
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 89 --------------------
+Overall:
+- Steps: 89200
+- Episodes: 445
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 90 --------------------
+Overall:
+- Steps: 90200
+- Episodes: 450
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 91 --------------------
+Overall:
+- Steps: 91200
+- Episodes: 455
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 92 --------------------
+Overall:
+- Steps: 92200
+- Episodes: 460
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 93 --------------------
+Overall:
+- Steps: 93200
+- Episodes: 465
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 94 --------------------
+Overall:
+- Steps: 94200
+- Episodes: 470
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 95 --------------------
+Overall:
+- Steps: 95200
+- Episodes: 475
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 96 --------------------
+Overall:
+- Steps: 96200
+- Episodes: 480
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 97 --------------------
+Overall:
+- Steps: 97200
+- Episodes: 485
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 98 --------------------
+Overall:
+- Steps: 98200
+- Episodes: 490
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 99 --------------------
+Overall:
+- Steps: 99200
+- Episodes: 495
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 100 --------------------
+Overall:
+- Steps: 100200
+- Episodes: 500
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 101 --------------------
+Overall:
+- Steps: 101200
+- Episodes: 505
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 102 --------------------
+Overall:
+- Steps: 102200
+- Episodes: 510
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 103 --------------------
+Overall:
+- Steps: 103200
+- Episodes: 515
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 104 --------------------
+Overall:
+- Steps: 104200
+- Episodes: 520
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 105 --------------------
+Overall:
+- Steps: 105200
+- Episodes: 525
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 106 --------------------
+Overall:
+- Steps: 106200
+- Episodes: 530
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 107 --------------------
+Overall:
+- Steps: 107200
+- Episodes: 535
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 108 --------------------
+Overall:
+- Steps: 108200
+- Episodes: 540
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 109 --------------------
+Overall:
+- Steps: 109200
+- Episodes: 545
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 110 --------------------
+Overall:
+- Steps: 110200
+- Episodes: 550
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 111 --------------------
+Overall:
+- Steps: 111200
+- Episodes: 555
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 112 --------------------
+Overall:
+- Steps: 112200
+- Episodes: 560
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 113 --------------------
+Overall:
+- Steps: 113200
+- Episodes: 565
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 114 --------------------
+Overall:
+- Steps: 114200
+- Episodes: 570
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 115 --------------------
+Overall:
+- Steps: 115200
+- Episodes: 575
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 116 --------------------
+Overall:
+- Steps: 116200
+- Episodes: 580
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 117 --------------------
+Overall:
+- Steps: 117200
+- Episodes: 585
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 118 --------------------
+Overall:
+- Steps: 118200
+- Episodes: 590
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 119 --------------------
+Overall:
+- Steps: 119200
+- Episodes: 595
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 120 --------------------
+Overall:
+- Steps: 120200
+- Episodes: 600
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 121 --------------------
+Overall:
+- Steps: 121200
+- Episodes: 605
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 122 --------------------
+Overall:
+- Steps: 122200
+- Episodes: 610
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 123 --------------------
+Overall:
+- Steps: 123200
+- Episodes: 615
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 124 --------------------
+Overall:
+- Steps: 124200
+- Episodes: 620
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 125 --------------------
+Overall:
+- Steps: 125200
+- Episodes: 625
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 126 --------------------
+Overall:
+- Steps: 126200
+- Episodes: 630
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 127 --------------------
+Overall:
+- Steps: 127200
+- Episodes: 635
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 128 --------------------
+Overall:
+- Steps: 128200
+- Episodes: 640
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 129 --------------------
+Overall:
+- Steps: 129200
+- Episodes: 645
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 130 --------------------
+Overall:
+- Steps: 130200
+- Episodes: 650
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 131 --------------------
+Overall:
+- Steps: 131200
+- Episodes: 655
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 132 --------------------
+Overall:
+- Steps: 132200
+- Episodes: 660
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 133 --------------------
+Overall:
+- Steps: 133200
+- Episodes: 665
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 134 --------------------
+Overall:
+- Steps: 134200
+- Episodes: 670
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 135 --------------------
+Overall:
+- Steps: 135200
+- Episodes: 675
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 136 --------------------
+Overall:
+- Steps: 136200
+- Episodes: 680
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 137 --------------------
+Overall:
+- Steps: 137200
+- Episodes: 685
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 138 --------------------
+Overall:
+- Steps: 138200
+- Episodes: 690
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 139 --------------------
+Overall:
+- Steps: 139200
+- Episodes: 695
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 140 --------------------
+Overall:
+- Steps: 140200
+- Episodes: 700
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 141 --------------------
+Overall:
+- Steps: 141200
+- Episodes: 705
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 142 --------------------
+Overall:
+- Steps: 142200
+- Episodes: 710
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 143 --------------------
+Overall:
+- Steps: 143200
+- Episodes: 715
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 144 --------------------
+Overall:
+- Steps: 144200
+- Episodes: 720
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 145 --------------------
+Overall:
+- Steps: 145200
+- Episodes: 725
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 146 --------------------
+Overall:
+- Steps: 146200
+- Episodes: 730
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 147 --------------------
+Overall:
+- Steps: 147200
+- Episodes: 735
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 148 --------------------
+Overall:
+- Steps: 148200
+- Episodes: 740
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 149 --------------------
+Overall:
+- Steps: 149200
+- Episodes: 745
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 150 --------------------
+Overall:
+- Steps: 150200
+- Episodes: 750
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 151 --------------------
+Overall:
+- Steps: 151200
+- Episodes: 755
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 152 --------------------
+Overall:
+- Steps: 152200
+- Episodes: 760
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 153 --------------------
+Overall:
+- Steps: 153200
+- Episodes: 765
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 154 --------------------
+Overall:
+- Steps: 154200
+- Episodes: 770
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 155 --------------------
+Overall:
+- Steps: 155200
+- Episodes: 775
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 156 --------------------
+Overall:
+- Steps: 156200
+- Episodes: 780
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 157 --------------------
+Overall:
+- Steps: 157200
+- Episodes: 785
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 158 --------------------
+Overall:
+- Steps: 158200
+- Episodes: 790
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 159 --------------------
+Overall:
+- Steps: 159200
+- Episodes: 795
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 160 --------------------
+Overall:
+- Steps: 160200
+- Episodes: 800
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 161 --------------------
+Overall:
+- Steps: 161200
+- Episodes: 805
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 162 --------------------
+Overall:
+- Steps: 162200
+- Episodes: 810
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 163 --------------------
+Overall:
+- Steps: 163200
+- Episodes: 815
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 164 --------------------
+Overall:
+- Steps: 164200
+- Episodes: 820
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 165 --------------------
+Overall:
+- Steps: 165200
+- Episodes: 825
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 166 --------------------
+Overall:
+- Steps: 166200
+- Episodes: 830
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 167 --------------------
+Overall:
+- Steps: 167200
+- Episodes: 835
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 168 --------------------
+Overall:
+- Steps: 168200
+- Episodes: 840
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 169 --------------------
+Overall:
+- Steps: 169200
+- Episodes: 845
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 170 --------------------
+Overall:
+- Steps: 170200
+- Episodes: 850
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 171 --------------------
+Overall:
+- Steps: 171200
+- Episodes: 855
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 172 --------------------
+Overall:
+- Steps: 172200
+- Episodes: 860
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 173 --------------------
+Overall:
+- Steps: 173200
+- Episodes: 865
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 174 --------------------
+Overall:
+- Steps: 174200
+- Episodes: 870
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 175 --------------------
+Overall:
+- Steps: 175200
+- Episodes: 875
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 176 --------------------
+Overall:
+- Steps: 176200
+- Episodes: 880
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 177 --------------------
+Overall:
+- Steps: 177200
+- Episodes: 885
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 178 --------------------
+Overall:
+- Steps: 178200
+- Episodes: 890
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 179 --------------------
+Overall:
+- Steps: 179200
+- Episodes: 895
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 180 --------------------
+Overall:
+- Steps: 180200
+- Episodes: 900
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 181 --------------------
+Overall:
+- Steps: 181200
+- Episodes: 905
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 182 --------------------
+Overall:
+- Steps: 182200
+- Episodes: 910
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 183 --------------------
+Overall:
+- Steps: 183200
+- Episodes: 915
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 184 --------------------
+Overall:
+- Steps: 184200
+- Episodes: 920
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 185 --------------------
+Overall:
+- Steps: 185200
+- Episodes: 925
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 186 --------------------
+Overall:
+- Steps: 186200
+- Episodes: 930
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 187 --------------------
+Overall:
+- Steps: 187200
+- Episodes: 935
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 188 --------------------
+Overall:
+- Steps: 188200
+- Episodes: 940
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 189 --------------------
+Overall:
+- Steps: 189200
+- Episodes: 945
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 190 --------------------
+Overall:
+- Steps: 190200
+- Episodes: 950
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 191 --------------------
+Overall:
+- Steps: 191200
+- Episodes: 955
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 192 --------------------
+Overall:
+- Steps: 192200
+- Episodes: 960
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 193 --------------------
+Overall:
+- Steps: 193200
+- Episodes: 965
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 194 --------------------
+Overall:
+- Steps: 194200
+- Episodes: 970
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 195 --------------------
+Overall:
+- Steps: 195200
+- Episodes: 975
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 196 --------------------
+Overall:
+- Steps: 196200
+- Episodes: 980
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 197 --------------------
+Overall:
+- Steps: 197200
+- Episodes: 985
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 198 --------------------
+Overall:
+- Steps: 198200
+- Episodes: 990
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+
+-------------------- MountainCar-v0 Log 199 --------------------
+Overall:
+- Steps: 199200
+- Episodes: 995
+Last 5 Episodes:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+Last 400 Steps:
+- Mean episode length: 199.00000 +/- 0.00000
+- Mean episode reward: -199.00000 +/- 0.00000
+

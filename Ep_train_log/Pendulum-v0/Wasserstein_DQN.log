@@ -1,0 +1,1100 @@
+-------------------- Pendulum-v0 Log 0 --------------------
+Overall:
+- Steps: 200
+- Episodes: 0
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1273.63 +/- 0.00
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1273.63 +/- 0.00
+
+-------------------- Pendulum-v0 Log 1 --------------------
+Overall:
+- Steps: 2200
+- Episodes: 10
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1510.54 +/- 205.82
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1421.14 +/- 260.39
+
+-------------------- Pendulum-v0 Log 2 --------------------
+Overall:
+- Steps: 4200
+- Episodes: 20
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1596.58 +/- 67.15
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1603.84 +/- 62.82
+
+-------------------- Pendulum-v0 Log 3 --------------------
+Overall:
+- Steps: 6200
+- Episodes: 30
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1563.52 +/- 77.34
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1607.96 +/- 60.29
+
+-------------------- Pendulum-v0 Log 4 --------------------
+Overall:
+- Steps: 8200
+- Episodes: 40
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1483.11 +/- 153.49
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1412.55 +/- 140.98
+
+-------------------- Pendulum-v0 Log 5 --------------------
+Overall:
+- Steps: 10200
+- Episodes: 50
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1455.02 +/- 151.63
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1388.45 +/- 178.13
+
+-------------------- Pendulum-v0 Log 6 --------------------
+Overall:
+- Steps: 12200
+- Episodes: 60
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1267.30 +/- 149.38
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1173.76 +/- 135.97
+
+-------------------- Pendulum-v0 Log 7 --------------------
+Overall:
+- Steps: 14200
+- Episodes: 70
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1353.95 +/- 131.58
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1380.84 +/- 96.72
+
+-------------------- Pendulum-v0 Log 8 --------------------
+Overall:
+- Steps: 16200
+- Episodes: 80
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1330.79 +/- 79.83
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1294.69 +/- 80.11
+
+-------------------- Pendulum-v0 Log 9 --------------------
+Overall:
+- Steps: 18200
+- Episodes: 90
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1221.30 +/- 105.76
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1181.28 +/- 48.04
+
+-------------------- Pendulum-v0 Log 10 --------------------
+Overall:
+- Steps: 20200
+- Episodes: 100
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1143.30 +/- 135.06
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1172.75 +/- 134.25
+
+-------------------- Pendulum-v0 Log 11 --------------------
+Overall:
+- Steps: 22200
+- Episodes: 110
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -973.70 +/- 95.16
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1012.19 +/- 36.27
+
+-------------------- Pendulum-v0 Log 12 --------------------
+Overall:
+- Steps: 24200
+- Episodes: 120
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -980.90 +/- 106.61
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -965.77 +/- 139.00
+
+-------------------- Pendulum-v0 Log 13 --------------------
+Overall:
+- Steps: 26200
+- Episodes: 130
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -825.01 +/- 181.23
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -793.40 +/- 241.48
+
+-------------------- Pendulum-v0 Log 14 --------------------
+Overall:
+- Steps: 28200
+- Episodes: 140
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -726.51 +/- 265.65
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -620.17 +/- 278.90
+
+-------------------- Pendulum-v0 Log 15 --------------------
+Overall:
+- Steps: 30200
+- Episodes: 150
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -393.39 +/- 288.82
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -330.71 +/- 283.64
+
+-------------------- Pendulum-v0 Log 16 --------------------
+Overall:
+- Steps: 32200
+- Episodes: 160
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -584.02 +/- 339.52
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -714.33 +/- 359.93
+
+-------------------- Pendulum-v0 Log 17 --------------------
+Overall:
+- Steps: 34200
+- Episodes: 170
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -710.11 +/- 378.41
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -805.95 +/- 377.35
+
+-------------------- Pendulum-v0 Log 18 --------------------
+Overall:
+- Steps: 36200
+- Episodes: 180
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -317.01 +/- 238.99
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -429.71 +/- 291.97
+
+-------------------- Pendulum-v0 Log 19 --------------------
+Overall:
+- Steps: 38200
+- Episodes: 190
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -483.69 +/- 371.70
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -332.64 +/- 286.78
+
+-------------------- Pendulum-v0 Log 20 --------------------
+Overall:
+- Steps: 40200
+- Episodes: 200
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -478.90 +/- 250.14
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -603.81 +/- 247.80
+
+-------------------- Pendulum-v0 Log 21 --------------------
+Overall:
+- Steps: 42200
+- Episodes: 210
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -295.36 +/- 214.63
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -355.11 +/- 97.71
+
+-------------------- Pendulum-v0 Log 22 --------------------
+Overall:
+- Steps: 44200
+- Episodes: 220
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -266.02 +/- 178.52
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -202.67 +/- 123.33
+
+-------------------- Pendulum-v0 Log 23 --------------------
+Overall:
+- Steps: 46200
+- Episodes: 230
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -252.20 +/- 145.07
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -204.51 +/- 169.34
+
+-------------------- Pendulum-v0 Log 24 --------------------
+Overall:
+- Steps: 48200
+- Episodes: 240
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -377.09 +/- 292.80
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -350.37 +/- 301.78
+
+-------------------- Pendulum-v0 Log 25 --------------------
+Overall:
+- Steps: 50200
+- Episodes: 250
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -367.98 +/- 241.70
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -383.90 +/- 291.44
+
+-------------------- Pendulum-v0 Log 26 --------------------
+Overall:
+- Steps: 52200
+- Episodes: 260
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -405.88 +/- 266.20
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -607.47 +/- 238.63
+
+-------------------- Pendulum-v0 Log 27 --------------------
+Overall:
+- Steps: 54200
+- Episodes: 270
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -742.80 +/- 382.72
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -873.44 +/- 244.06
+
+-------------------- Pendulum-v0 Log 28 --------------------
+Overall:
+- Steps: 56200
+- Episodes: 280
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -810.81 +/- 401.62
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -777.80 +/- 480.24
+
+-------------------- Pendulum-v0 Log 29 --------------------
+Overall:
+- Steps: 58200
+- Episodes: 290
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -362.70 +/- 414.58
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -570.91 +/- 498.78
+
+-------------------- Pendulum-v0 Log 30 --------------------
+Overall:
+- Steps: 60200
+- Episodes: 300
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -765.63 +/- 477.44
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -760.65 +/- 384.91
+
+-------------------- Pendulum-v0 Log 31 --------------------
+Overall:
+- Steps: 62200
+- Episodes: 310
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -862.62 +/- 405.89
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -708.81 +/- 337.29
+
+-------------------- Pendulum-v0 Log 32 --------------------
+Overall:
+- Steps: 64200
+- Episodes: 320
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -596.61 +/- 428.49
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -487.65 +/- 347.15
+
+-------------------- Pendulum-v0 Log 33 --------------------
+Overall:
+- Steps: 66200
+- Episodes: 330
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -773.62 +/- 457.52
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1016.23 +/- 301.34
+
+-------------------- Pendulum-v0 Log 34 --------------------
+Overall:
+- Steps: 68200
+- Episodes: 340
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -624.98 +/- 397.22
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -440.27 +/- 338.48
+
+-------------------- Pendulum-v0 Log 35 --------------------
+Overall:
+- Steps: 70200
+- Episodes: 350
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -520.11 +/- 425.59
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -736.51 +/- 364.64
+
+-------------------- Pendulum-v0 Log 36 --------------------
+Overall:
+- Steps: 72200
+- Episodes: 360
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -926.70 +/- 311.13
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1044.34 +/- 59.85
+
+-------------------- Pendulum-v0 Log 37 --------------------
+Overall:
+- Steps: 74200
+- Episodes: 370
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -643.44 +/- 429.90
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -752.29 +/- 424.43
+
+-------------------- Pendulum-v0 Log 38 --------------------
+Overall:
+- Steps: 76200
+- Episodes: 380
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -636.94 +/- 469.03
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -534.17 +/- 457.57
+
+-------------------- Pendulum-v0 Log 39 --------------------
+Overall:
+- Steps: 78200
+- Episodes: 390
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -445.83 +/- 318.78
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -562.71 +/- 280.67
+
+-------------------- Pendulum-v0 Log 40 --------------------
+Overall:
+- Steps: 80200
+- Episodes: 400
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -655.32 +/- 464.69
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -742.71 +/- 555.72
+
+-------------------- Pendulum-v0 Log 41 --------------------
+Overall:
+- Steps: 82200
+- Episodes: 410
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -753.43 +/- 417.48
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -648.23 +/- 347.79
+
+-------------------- Pendulum-v0 Log 42 --------------------
+Overall:
+- Steps: 84200
+- Episodes: 420
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -506.50 +/- 341.29
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -576.73 +/- 355.96
+
+-------------------- Pendulum-v0 Log 43 --------------------
+Overall:
+- Steps: 86200
+- Episodes: 430
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -522.20 +/- 404.73
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -431.94 +/- 448.53
+
+-------------------- Pendulum-v0 Log 44 --------------------
+Overall:
+- Steps: 88200
+- Episodes: 440
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -623.02 +/- 437.80
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -547.68 +/- 377.26
+
+-------------------- Pendulum-v0 Log 45 --------------------
+Overall:
+- Steps: 90200
+- Episodes: 450
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -536.36 +/- 303.61
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -482.63 +/- 256.51
+
+-------------------- Pendulum-v0 Log 46 --------------------
+Overall:
+- Steps: 92200
+- Episodes: 460
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -583.03 +/- 417.63
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -686.57 +/- 410.56
+
+-------------------- Pendulum-v0 Log 47 --------------------
+Overall:
+- Steps: 94200
+- Episodes: 470
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -519.31 +/- 243.90
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -670.33 +/- 235.90
+
+-------------------- Pendulum-v0 Log 48 --------------------
+Overall:
+- Steps: 96200
+- Episodes: 480
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -499.84 +/- 356.95
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -723.45 +/- 362.41
+
+-------------------- Pendulum-v0 Log 49 --------------------
+Overall:
+- Steps: 98200
+- Episodes: 490
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -413.11 +/- 250.29
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -296.37 +/- 99.32
+
+-------------------- Pendulum-v0 Log 50 --------------------
+Overall:
+- Steps: 100200
+- Episodes: 500
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -384.22 +/- 171.80
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -446.61 +/- 101.76
+
+-------------------- Pendulum-v0 Log 51 --------------------
+Overall:
+- Steps: 102200
+- Episodes: 510
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -473.42 +/- 414.26
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -514.59 +/- 436.41
+
+-------------------- Pendulum-v0 Log 52 --------------------
+Overall:
+- Steps: 104200
+- Episodes: 520
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -435.11 +/- 332.23
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -346.13 +/- 346.76
+
+-------------------- Pendulum-v0 Log 53 --------------------
+Overall:
+- Steps: 106200
+- Episodes: 530
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -536.78 +/- 372.60
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -772.14 +/- 275.99
+
+-------------------- Pendulum-v0 Log 54 --------------------
+Overall:
+- Steps: 108200
+- Episodes: 540
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -611.51 +/- 338.74
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -903.90 +/- 207.58
+
+-------------------- Pendulum-v0 Log 55 --------------------
+Overall:
+- Steps: 110200
+- Episodes: 550
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -555.17 +/- 431.84
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -662.13 +/- 496.07
+
+-------------------- Pendulum-v0 Log 56 --------------------
+Overall:
+- Steps: 112200
+- Episodes: 560
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -508.30 +/- 365.26
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -503.08 +/- 318.70
+
+-------------------- Pendulum-v0 Log 57 --------------------
+Overall:
+- Steps: 114200
+- Episodes: 570
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -644.25 +/- 398.29
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -450.95 +/- 390.15
+
+-------------------- Pendulum-v0 Log 58 --------------------
+Overall:
+- Steps: 116200
+- Episodes: 580
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -850.60 +/- 265.52
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -688.73 +/- 297.55
+
+-------------------- Pendulum-v0 Log 59 --------------------
+Overall:
+- Steps: 118200
+- Episodes: 590
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -366.16 +/- 277.01
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -355.07 +/- 314.48
+
+-------------------- Pendulum-v0 Log 60 --------------------
+Overall:
+- Steps: 120200
+- Episodes: 600
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -727.80 +/- 333.49
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -578.70 +/- 331.37
+
+-------------------- Pendulum-v0 Log 61 --------------------
+Overall:
+- Steps: 122200
+- Episodes: 610
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -627.33 +/- 318.74
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -656.40 +/- 238.63
+
+-------------------- Pendulum-v0 Log 62 --------------------
+Overall:
+- Steps: 124200
+- Episodes: 620
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -674.05 +/- 438.28
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -700.13 +/- 484.36
+
+-------------------- Pendulum-v0 Log 63 --------------------
+Overall:
+- Steps: 126200
+- Episodes: 630
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -514.00 +/- 309.31
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -404.62 +/- 282.24
+
+-------------------- Pendulum-v0 Log 64 --------------------
+Overall:
+- Steps: 128200
+- Episodes: 640
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -554.63 +/- 369.06
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -447.80 +/- 364.00
+
+-------------------- Pendulum-v0 Log 65 --------------------
+Overall:
+- Steps: 130200
+- Episodes: 650
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -622.17 +/- 426.93
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -773.82 +/- 416.22
+
+-------------------- Pendulum-v0 Log 66 --------------------
+Overall:
+- Steps: 132200
+- Episodes: 660
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -603.57 +/- 267.69
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -597.07 +/- 295.21
+
+-------------------- Pendulum-v0 Log 67 --------------------
+Overall:
+- Steps: 134200
+- Episodes: 670
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -423.44 +/- 319.35
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -423.59 +/- 324.42
+
+-------------------- Pendulum-v0 Log 68 --------------------
+Overall:
+- Steps: 136200
+- Episodes: 680
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -340.87 +/- 312.21
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -222.69 +/- 144.40
+
+-------------------- Pendulum-v0 Log 69 --------------------
+Overall:
+- Steps: 138200
+- Episodes: 690
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -527.67 +/- 352.28
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -484.23 +/- 396.93
+
+-------------------- Pendulum-v0 Log 70 --------------------
+Overall:
+- Steps: 140200
+- Episodes: 700
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -542.00 +/- 330.27
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -501.52 +/- 324.79
+
+-------------------- Pendulum-v0 Log 71 --------------------
+Overall:
+- Steps: 142200
+- Episodes: 710
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -456.15 +/- 418.80
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -510.79 +/- 519.45
+
+-------------------- Pendulum-v0 Log 72 --------------------
+Overall:
+- Steps: 144200
+- Episodes: 720
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -350.60 +/- 323.08
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -507.01 +/- 388.50
+
+-------------------- Pendulum-v0 Log 73 --------------------
+Overall:
+- Steps: 146200
+- Episodes: 730
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -335.39 +/- 330.73
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -220.85 +/- 89.79
+
+-------------------- Pendulum-v0 Log 74 --------------------
+Overall:
+- Steps: 148200
+- Episodes: 740
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -491.71 +/- 390.68
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -417.75 +/- 273.53
+
+-------------------- Pendulum-v0 Log 75 --------------------
+Overall:
+- Steps: 150200
+- Episodes: 750
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -556.58 +/- 444.55
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -429.74 +/- 433.53
+
+-------------------- Pendulum-v0 Log 76 --------------------
+Overall:
+- Steps: 152200
+- Episodes: 760
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -918.29 +/- 518.69
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -1023.77 +/- 503.91
+
+-------------------- Pendulum-v0 Log 77 --------------------
+Overall:
+- Steps: 154200
+- Episodes: 770
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -668.66 +/- 313.70
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -702.46 +/- 238.72
+
+-------------------- Pendulum-v0 Log 78 --------------------
+Overall:
+- Steps: 156200
+- Episodes: 780
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -568.64 +/- 386.05
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -422.63 +/- 290.39
+
+-------------------- Pendulum-v0 Log 79 --------------------
+Overall:
+- Steps: 158200
+- Episodes: 790
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -536.36 +/- 434.94
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -671.18 +/- 493.36
+
+-------------------- Pendulum-v0 Log 80 --------------------
+Overall:
+- Steps: 160200
+- Episodes: 800
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -261.16 +/- 231.76
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -172.08 +/- 121.11
+
+-------------------- Pendulum-v0 Log 81 --------------------
+Overall:
+- Steps: 162200
+- Episodes: 810
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -393.17 +/- 371.17
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -123.32 +/- 76.94
+
+-------------------- Pendulum-v0 Log 82 --------------------
+Overall:
+- Steps: 164200
+- Episodes: 820
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -514.73 +/- 273.15
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -451.23 +/- 303.30
+
+-------------------- Pendulum-v0 Log 83 --------------------
+Overall:
+- Steps: 166200
+- Episodes: 830
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -452.62 +/- 356.37
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -364.53 +/- 326.39
+
+-------------------- Pendulum-v0 Log 84 --------------------
+Overall:
+- Steps: 168200
+- Episodes: 840
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -514.82 +/- 333.14
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -579.87 +/- 383.78
+
+-------------------- Pendulum-v0 Log 85 --------------------
+Overall:
+- Steps: 170200
+- Episodes: 850
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -184.13 +/- 165.08
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -174.47 +/- 225.32
+
+-------------------- Pendulum-v0 Log 86 --------------------
+Overall:
+- Steps: 172200
+- Episodes: 860
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -324.80 +/- 317.88
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -172.85 +/- 163.21
+
+-------------------- Pendulum-v0 Log 87 --------------------
+Overall:
+- Steps: 174200
+- Episodes: 870
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -367.12 +/- 310.17
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -516.47 +/- 366.68
+
+-------------------- Pendulum-v0 Log 88 --------------------
+Overall:
+- Steps: 176200
+- Episodes: 880
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -310.66 +/- 332.69
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -283.14 +/- 322.41
+
+-------------------- Pendulum-v0 Log 89 --------------------
+Overall:
+- Steps: 178200
+- Episodes: 890
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -504.19 +/- 230.14
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -584.76 +/- 179.16
+
+-------------------- Pendulum-v0 Log 90 --------------------
+Overall:
+- Steps: 180200
+- Episodes: 900
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -547.77 +/- 436.30
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -551.06 +/- 499.30
+
+-------------------- Pendulum-v0 Log 91 --------------------
+Overall:
+- Steps: 182200
+- Episodes: 910
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -356.91 +/- 430.12
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -363.69 +/- 540.89
+
+-------------------- Pendulum-v0 Log 92 --------------------
+Overall:
+- Steps: 184200
+- Episodes: 920
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -743.67 +/- 358.43
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -620.88 +/- 449.86
+
+-------------------- Pendulum-v0 Log 93 --------------------
+Overall:
+- Steps: 186200
+- Episodes: 930
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -418.54 +/- 360.89
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -299.53 +/- 234.33
+
+-------------------- Pendulum-v0 Log 94 --------------------
+Overall:
+- Steps: 188200
+- Episodes: 940
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -513.42 +/- 527.95
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -501.57 +/- 537.39
+
+-------------------- Pendulum-v0 Log 95 --------------------
+Overall:
+- Steps: 190200
+- Episodes: 950
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -357.59 +/- 346.73
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -466.90 +/- 458.60
+
+-------------------- Pendulum-v0 Log 96 --------------------
+Overall:
+- Steps: 192200
+- Episodes: 960
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -336.49 +/- 317.33
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -331.19 +/- 302.32
+
+-------------------- Pendulum-v0 Log 97 --------------------
+Overall:
+- Steps: 194200
+- Episodes: 970
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -404.33 +/- 245.39
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -384.80 +/- 289.04
+
+-------------------- Pendulum-v0 Log 98 --------------------
+Overall:
+- Steps: 196200
+- Episodes: 980
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -480.82 +/- 319.59
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -385.58 +/- 234.61
+
+-------------------- Pendulum-v0 Log 99 --------------------
+Overall:
+- Steps: 198200
+- Episodes: 990
+Last 10 Episodes:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -469.61 +/- 314.58
+Last 1000 Steps:
+- Mean episode length: 199.00 +/- 0.00
+- Mean episode reward: -429.33 +/- 271.68
+

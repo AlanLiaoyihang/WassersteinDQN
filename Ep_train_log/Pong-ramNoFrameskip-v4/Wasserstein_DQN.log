@@ -1,0 +1,484 @@
+-------------------- Pong-ramNoFrameskip-v4 Log 1 --------------------
+Overall:
+- Steps: 2000
+- Episodes: 2
+Last 5 Episodes:
+- Mean episode length: 758.50000 +/- 1.50000
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 18.50000
+- Mean episode reward: -13.50000 +/- 0.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 2 --------------------
+Overall:
+- Steps: 4000
+- Episodes: 5
+Last 5 Episodes:
+- Mean episode length: 758.00000 +/- 1.67332
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 307.87912
+- Mean episode reward: -8.66667 +/- 8.17856
+
+-------------------- Pong-ramNoFrameskip-v4 Log 3 --------------------
+Overall:
+- Steps: 6000
+- Episodes: 7
+Last 5 Episodes:
+- Mean episode length: 757.20000 +/- 1.46969
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 190.50000
+- Mean episode reward: -13.50000 +/- 5.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 4 --------------------
+Overall:
+- Steps: 8000
+- Episodes: 10
+Last 5 Episodes:
+- Mean episode length: 758.60000 +/- 2.87054
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 92.50000
+- Mean episode reward: -13.00000 +/- 3.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 5 --------------------
+Overall:
+- Steps: 10000
+- Episodes: 13
+Last 5 Episodes:
+- Mean episode length: 760.00000 +/- 2.00000
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 302.25964
+- Mean episode reward: -8.33333 +/- 8.25967
+
+-------------------- Pong-ramNoFrameskip-v4 Log 6 --------------------
+Overall:
+- Steps: 12000
+- Episodes: 15
+Last 5 Episodes:
+- Mean episode length: 776.80000 +/- 35.61685
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 18.50000
+- Mean episode reward: -12.50000 +/- 1.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 7 --------------------
+Overall:
+- Steps: 14000
+- Episodes: 18
+Last 5 Episodes:
+- Mean episode length: 776.60000 +/- 35.74129
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 314.71610
+- Mean episode reward: -8.66667 +/- 8.37987
+
+-------------------- Pong-ramNoFrameskip-v4 Log 8 --------------------
+Overall:
+- Steps: 16000
+- Episodes: 20
+Last 5 Episodes:
+- Mean episode length: 816.80000 +/- 115.11976
+- Mean episode reward: -19.60000 +/- 0.80000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 70.50000
+- Mean episode reward: -13.50000 +/- 2.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 9 --------------------
+Overall:
+- Steps: 18000
+- Episodes: 23
+Last 5 Episodes:
+- Mean episode length: 817.40000 +/- 114.82265
+- Mean episode reward: -19.60000 +/- 0.80000
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 301.62375
+- Mean episode reward: -8.33333 +/- 8.25967
+
+-------------------- Pong-ramNoFrameskip-v4 Log 10 --------------------
+Overall:
+- Steps: 20000
+- Episodes: 25
+Last 5 Episodes:
+- Mean episode length: 759.20000 +/- 2.13542
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 128.50000
+- Mean episode reward: -13.50000 +/- 3.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 11 --------------------
+Overall:
+- Steps: 22000
+- Episodes: 28
+Last 5 Episodes:
+- Mean episode length: 758.60000 +/- 1.74356
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 149.50000
+- Mean episode reward: -13.50000 +/- 4.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 12 --------------------
+Overall:
+- Steps: 24000
+- Episodes: 30
+Last 5 Episodes:
+- Mean episode length: 776.80000 +/- 35.16476
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 239.50000
+- Mean episode reward: -13.00000 +/- 7.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 13 --------------------
+Overall:
+- Steps: 26000
+- Episodes: 33
+Last 5 Episodes:
+- Mean episode length: 778.00000 +/- 34.54273
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 44.50000
+- Mean episode reward: -13.50000 +/- 1.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 14 --------------------
+Overall:
+- Steps: 28000
+- Episodes: 36
+Last 5 Episodes:
+- Mean episode length: 761.20000 +/- 1.46969
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 306.42708
+- Mean episode reward: -8.33333 +/- 8.34000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 15 --------------------
+Overall:
+- Steps: 30000
+- Episodes: 38
+Last 5 Episodes:
+- Mean episode length: 760.80000 +/- 1.46969
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 146.50000
+- Mean episode reward: -13.50000 +/- 3.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 16 --------------------
+Overall:
+- Steps: 32000
+- Episodes: 41
+Last 5 Episodes:
+- Mean episode length: 760.00000 +/- 1.09545
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 135.50000
+- Mean episode reward: -13.50000 +/- 4.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 17 --------------------
+Overall:
+- Steps: 34000
+- Episodes: 44
+Last 5 Episodes:
+- Mean episode length: 758.80000 +/- 1.93907
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 300.62638
+- Mean episode reward: -8.33333 +/- 8.34000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 18 --------------------
+Overall:
+- Steps: 36000
+- Episodes: 46
+Last 5 Episodes:
+- Mean episode length: 759.00000 +/- 2.60768
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 64.50000
+- Mean episode reward: -13.50000 +/- 1.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 19 --------------------
+Overall:
+- Steps: 38000
+- Episodes: 49
+Last 5 Episodes:
+- Mean episode length: 759.80000 +/- 2.13542
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 216.50000
+- Mean episode reward: -13.50000 +/- 6.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 20 --------------------
+Overall:
+- Steps: 40000
+- Episodes: 51
+Last 5 Episodes:
+- Mean episode length: 772.40000 +/- 24.37704
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 197.50000
+- Mean episode reward: -11.00000 +/- 3.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 21 --------------------
+Overall:
+- Steps: 42000
+- Episodes: 54
+Last 5 Episodes:
+- Mean episode length: 810.00000 +/- 45.47527
+- Mean episode reward: -19.80000 +/- 0.40000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 271.50000
+- Mean episode reward: -11.00000 +/- 9.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 22 --------------------
+Overall:
+- Steps: 44000
+- Episodes: 56
+Last 5 Episodes:
+- Mean episode length: 813.00000 +/- 47.22288
+- Mean episode reward: -19.60000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 127.50000
+- Mean episode reward: -12.00000 +/- 2.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 23 --------------------
+Overall:
+- Steps: 46000
+- Episodes: 59
+Last 5 Episodes:
+- Mean episode length: 815.60000 +/- 28.21772
+- Mean episode reward: -19.60000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 346.86244
+- Mean episode reward: -7.66667 +/- 8.80656
+
+-------------------- Pong-ramNoFrameskip-v4 Log 24 --------------------
+Overall:
+- Steps: 48000
+- Episodes: 61
+Last 5 Episodes:
+- Mean episode length: 870.20000 +/- 59.64025
+- Mean episode reward: -19.40000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 228.50000
+- Mean episode reward: -10.00000 +/- 5.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 25 --------------------
+Overall:
+- Steps: 50000
+- Episodes: 63
+Last 5 Episodes:
+- Mean episode length: 928.40000 +/- 116.68865
+- Mean episode reward: -19.40000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 181.50000
+- Mean episode reward: -9.00000 +/- 2.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 26 --------------------
+Overall:
+- Steps: 52000
+- Episodes: 65
+Last 5 Episodes:
+- Mean episode length: 908.60000 +/- 129.03271
+- Mean episode reward: -19.40000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 200.50000
+- Mean episode reward: -12.50000 +/- 4.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 27 --------------------
+Overall:
+- Steps: 54000
+- Episodes: 68
+Last 5 Episodes:
+- Mean episode length: 819.40000 +/- 34.37208
+- Mean episode reward: -19.80000 +/- 0.40000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 283.50000
+- Mean episode reward: -12.50000 +/- 7.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 28 --------------------
+Overall:
+- Steps: 56000
+- Episodes: 70
+Last 5 Episodes:
+- Mean episode length: 803.20000 +/- 41.83491
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 179.50000
+- Mean episode reward: -13.00000 +/- 5.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 29 --------------------
+Overall:
+- Steps: 58000
+- Episodes: 73
+Last 5 Episodes:
+- Mean episode length: 766.60000 +/- 9.47840
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 121.50000
+- Mean episode reward: -13.00000 +/- 4.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 30 --------------------
+Overall:
+- Steps: 60000
+- Episodes: 75
+Last 5 Episodes:
+- Mean episode length: 783.40000 +/- 29.65535
+- Mean episode reward: -19.80000 +/- 0.40000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 257.50000
+- Mean episode reward: -11.50000 +/- 8.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 31 --------------------
+Overall:
+- Steps: 62000
+- Episodes: 78
+Last 5 Episodes:
+- Mean episode length: 799.60000 +/- 32.06618
+- Mean episode reward: -19.60000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 124.50000
+- Mean episode reward: -12.00000 +/- 4.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 32 --------------------
+Overall:
+- Steps: 64000
+- Episodes: 80
+Last 5 Episodes:
+- Mean episode length: 837.60000 +/- 61.45763
+- Mean episode reward: -19.60000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 64.50000
+- Mean episode reward: -11.00000 +/- 0.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 33 --------------------
+Overall:
+- Steps: 66000
+- Episodes: 82
+Last 5 Episodes:
+- Mean episode length: 946.60000 +/- 90.97384
+- Mean episode reward: -19.20000 +/- 0.40000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 25.50000
+- Mean episode reward: -11.00000 +/- 0.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 34 --------------------
+Overall:
+- Steps: 68000
+- Episodes: 85
+Last 5 Episodes:
+- Mean episode length: 903.00000 +/- 120.62670
+- Mean episode reward: -19.60000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 323.89333
+- Mean episode reward: -7.66667 +/- 8.80656
+
+-------------------- Pong-ramNoFrameskip-v4 Log 35 --------------------
+Overall:
+- Steps: 70000
+- Episodes: 87
+Last 5 Episodes:
+- Mean episode length: 798.80000 +/- 18.60538
+- Mean episode reward: -20.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 24.50000
+- Mean episode reward: -11.50000 +/- 2.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 36 --------------------
+Overall:
+- Steps: 72000
+- Episodes: 89
+Last 5 Episodes:
+- Mean episode length: 834.60000 +/- 64.85245
+- Mean episode reward: -19.80000 +/- 0.40000
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 152.50000
+- Mean episode reward: -9.00000 +/- 3.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 37 --------------------
+Overall:
+- Steps: 74000
+- Episodes: 92
+Last 5 Episodes:
+- Mean episode length: 863.40000 +/- 62.60863
+- Mean episode reward: -19.40000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 363.79145
+- Mean episode reward: -7.33333 +/- 8.34000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 38 --------------------
+Overall:
+- Steps: 76000
+- Episodes: 94
+Last 5 Episodes:
+- Mean episode length: 815.40000 +/- 50.78425
+- Mean episode reward: -19.60000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 70.50000
+- Mean episode reward: -12.00000 +/- 0.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 39 --------------------
+Overall:
+- Steps: 78000
+- Episodes: 97
+Last 5 Episodes:
+- Mean episode length: 819.60000 +/- 47.46620
+- Mean episode reward: -19.60000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 404.00110
+- Mean episode reward: -6.66667 +/- 8.73053
+
+-------------------- Pong-ramNoFrameskip-v4 Log 40 --------------------
+Overall:
+- Steps: 80000
+- Episodes: 99
+Last 5 Episodes:
+- Mean episode length: 865.60000 +/- 61.13788
+- Mean episode reward: -19.40000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 262.50000
+- Mean episode reward: -10.00000 +/- 5.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 41 --------------------
+Overall:
+- Steps: 82000
+- Episodes: 101
+Last 5 Episodes:
+- Mean episode length: 896.80000 +/- 59.18581
+- Mean episode reward: -19.40000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 33.50000
+- Mean episode reward: -10.50000 +/- 0.50000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 42 --------------------
+Overall:
+- Steps: 84000
+- Episodes: 104
+Last 5 Episodes:
+- Mean episode length: 833.20000 +/- 68.77907
+- Mean episode reward: -19.80000 +/- 0.40000
+Last 1000 Steps:
+- Mean episode length: 332.66667 +/- 314.97548
+- Mean episode reward: -8.33333 +/- 8.34000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 43 --------------------
+Overall:
+- Steps: 86000
+- Episodes: 106
+Last 5 Episodes:
+- Mean episode length: 845.80000 +/- 81.30289
+- Mean episode reward: -19.60000 +/- 0.48990
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 267.50000
+- Mean episode reward: -9.00000 +/- 7.00000
+
+-------------------- Pong-ramNoFrameskip-v4 Log 44 --------------------
+Overall:
+- Steps: 88000
+- Episodes: 108
+Last 5 Episodes:
+- Mean episode length: 895.60000 +/- 84.60875
+- Mean episode reward: -19.00000 +/- 0.63246
+Last 1000 Steps:
+- Mean episode length: 499.50000 +/- 140.50000
+- Mean episode reward: -12.50000 +/- 3.50000
+

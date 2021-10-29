@@ -1,0 +1,2200 @@
+-------------------- Acrobot-v1 Log 0 --------------------
+Overall:
+- Steps: 500
+- Episodes: 0
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 1 --------------------
+Overall:
+- Steps: 3000
+- Episodes: 5
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 2 --------------------
+Overall:
+- Steps: 5500
+- Episodes: 10
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 3 --------------------
+Overall:
+- Steps: 8000
+- Episodes: 15
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 4 --------------------
+Overall:
+- Steps: 10500
+- Episodes: 20
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 5 --------------------
+Overall:
+- Steps: 13000
+- Episodes: 25
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 6 --------------------
+Overall:
+- Steps: 15500
+- Episodes: 30
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 7 --------------------
+Overall:
+- Steps: 18000
+- Episodes: 35
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 8 --------------------
+Overall:
+- Steps: 20500
+- Episodes: 40
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 9 --------------------
+Overall:
+- Steps: 23000
+- Episodes: 45
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 10 --------------------
+Overall:
+- Steps: 25500
+- Episodes: 50
+Last 5 Episodes:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+Last 1000 Steps:
+- Mean episode length: 499.00000 +/- 0.00000
+- Mean episode reward: -499.00000 +/- 0.00000
+
+-------------------- Acrobot-v1 Log 11 --------------------
+Overall:
+- Steps: 27367
+- Episodes: 55
+Last 5 Episodes:
+- Mean episode length: 372.40000 +/- 123.41734
+- Mean episode reward: -372.40000 +/- 123.41734
+Last 1000 Steps:
+- Mean episode length: 332.33333 +/- 128.69689
+- Mean episode reward: -332.33333 +/- 128.69689
+
+-------------------- Acrobot-v1 Log 12 --------------------
+Overall:
+- Steps: 28193
+- Episodes: 60
+Last 5 Episodes:
+- Mean episode length: 164.20000 +/- 41.80622
+- Mean episode reward: -164.20000 +/- 41.80622
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 65.41828
+- Mean episode reward: -141.85714 +/- 65.41828
+
+-------------------- Acrobot-v1 Log 13 --------------------
+Overall:
+- Steps: 29063
+- Episodes: 65
+Last 5 Episodes:
+- Mean episode length: 173.00000 +/- 36.81304
+- Mean episode reward: -173.00000 +/- 36.81304
+Last 1000 Steps:
+- Mean episode length: 165.66667 +/- 37.39281
+- Mean episode reward: -165.66667 +/- 37.39281
+
+-------------------- Acrobot-v1 Log 14 --------------------
+Overall:
+- Steps: 29781
+- Episodes: 70
+Last 5 Episodes:
+- Mean episode length: 142.60000 +/- 22.04178
+- Mean episode reward: -142.60000 +/- 22.04178
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 30.44634
+- Mean episode reward: -141.85714 +/- 30.44634
+
+-------------------- Acrobot-v1 Log 15 --------------------
+Overall:
+- Steps: 30344
+- Episodes: 75
+Last 5 Episodes:
+- Mean episode length: 111.60000 +/- 20.26425
+- Mean episode reward: -111.60000 +/- 20.26425
+Last 1000 Steps:
+- Mean episode length: 124.00000 +/- 29.76575
+- Mean episode reward: -124.00000 +/- 29.76575
+
+-------------------- Acrobot-v1 Log 16 --------------------
+Overall:
+- Steps: 30819
+- Episodes: 80
+Last 5 Episodes:
+- Mean episode length: 94.00000 +/- 10.95445
+- Mean episode reward: -94.00000 +/- 10.95445
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 12.01666
+- Mean episode reward: -99.00000 +/- 12.01666
+
+-------------------- Acrobot-v1 Log 17 --------------------
+Overall:
+- Steps: 31451
+- Episodes: 85
+Last 5 Episodes:
+- Mean episode length: 125.40000 +/- 52.22107
+- Mean episode reward: -125.40000 +/- 52.22107
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 42.85491
+- Mean episode reward: -110.11111 +/- 42.85491
+
+-------------------- Acrobot-v1 Log 18 --------------------
+Overall:
+- Steps: 31928
+- Episodes: 90
+Last 5 Episodes:
+- Mean episode length: 94.40000 +/- 19.97599
+- Mean episode reward: -94.40000 +/- 19.97599
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 43.67161
+- Mean episode reward: -110.11111 +/- 43.67161
+
+-------------------- Acrobot-v1 Log 19 --------------------
+Overall:
+- Steps: 32517
+- Episodes: 95
+Last 5 Episodes:
+- Mean episode length: 116.80000 +/- 21.21697
+- Mean episode reward: -116.80000 +/- 21.21697
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 32.28622
+- Mean episode reward: -99.00000 +/- 32.28622
+
+-------------------- Acrobot-v1 Log 20 --------------------
+Overall:
+- Steps: 33056
+- Episodes: 100
+Last 5 Episodes:
+- Mean episode length: 106.80000 +/- 15.28921
+- Mean episode reward: -106.80000 +/- 15.28921
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 23.87209
+- Mean episode reward: -110.11111 +/- 23.87209
+
+-------------------- Acrobot-v1 Log 21 --------------------
+Overall:
+- Steps: 33557
+- Episodes: 105
+Last 5 Episodes:
+- Mean episode length: 99.20000 +/- 12.49640
+- Mean episode reward: -99.20000 +/- 12.49640
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 19.21978
+- Mean episode reward: -99.00000 +/- 19.21978
+
+-------------------- Acrobot-v1 Log 22 --------------------
+Overall:
+- Steps: 34006
+- Episodes: 110
+Last 5 Episodes:
+- Mean episode length: 88.80000 +/- 10.16661
+- Mean episode reward: -88.80000 +/- 10.16661
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 17.60400
+- Mean episode reward: -89.90909 +/- 17.60400
+
+-------------------- Acrobot-v1 Log 23 --------------------
+Overall:
+- Steps: 34482
+- Episodes: 115
+Last 5 Episodes:
+- Mean episode length: 94.20000 +/- 15.09172
+- Mean episode reward: -94.20000 +/- 15.09172
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 13.50727
+- Mean episode reward: -89.90909 +/- 13.50727
+
+-------------------- Acrobot-v1 Log 24 --------------------
+Overall:
+- Steps: 34926
+- Episodes: 120
+Last 5 Episodes:
+- Mean episode length: 87.80000 +/- 9.43186
+- Mean episode reward: -87.80000 +/- 9.43186
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 12.85199
+- Mean episode reward: -89.90909 +/- 12.85199
+
+-------------------- Acrobot-v1 Log 25 --------------------
+Overall:
+- Steps: 35351
+- Episodes: 125
+Last 5 Episodes:
+- Mean episode length: 84.00000 +/- 14.42221
+- Mean episode reward: -84.00000 +/- 14.42221
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 14.13231
+- Mean episode reward: -82.33333 +/- 14.13231
+
+-------------------- Acrobot-v1 Log 26 --------------------
+Overall:
+- Steps: 35860
+- Episodes: 130
+Last 5 Episodes:
+- Mean episode length: 100.80000 +/- 18.75527
+- Mean episode reward: -100.80000 +/- 18.75527
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 19.50969
+- Mean episode reward: -89.90909 +/- 19.50969
+
+-------------------- Acrobot-v1 Log 27 --------------------
+Overall:
+- Steps: 36308
+- Episodes: 135
+Last 5 Episodes:
+- Mean episode length: 88.60000 +/- 10.91055
+- Mean episode reward: -88.60000 +/- 10.91055
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 21.84846
+- Mean episode reward: -89.90909 +/- 21.84846
+
+-------------------- Acrobot-v1 Log 28 --------------------
+Overall:
+- Steps: 36955
+- Episodes: 140
+Last 5 Episodes:
+- Mean episode length: 128.40000 +/- 80.80990
+- Mean episode reward: -128.40000 +/- 80.80990
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 64.59179
+- Mean episode reward: -110.11111 +/- 64.59179
+
+-------------------- Acrobot-v1 Log 29 --------------------
+Overall:
+- Steps: 37591
+- Episodes: 145
+Last 5 Episodes:
+- Mean episode length: 126.20000 +/- 69.83810
+- Mean episode reward: -126.20000 +/- 69.83810
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 85.83610
+- Mean episode reward: -141.85714 +/- 85.83610
+
+-------------------- Acrobot-v1 Log 30 --------------------
+Overall:
+- Steps: 38022
+- Episodes: 150
+Last 5 Episodes:
+- Mean episode length: 85.20000 +/- 3.31059
+- Mean episode reward: -85.20000 +/- 3.31059
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 61.32047
+- Mean episode reward: -99.00000 +/- 61.32047
+
+-------------------- Acrobot-v1 Log 31 --------------------
+Overall:
+- Steps: 38497
+- Episodes: 155
+Last 5 Episodes:
+- Mean episode length: 94.00000 +/- 21.60555
+- Mean episode reward: -94.00000 +/- 21.60555
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 27.80687
+- Mean episode reward: -82.33333 +/- 27.80687
+
+-------------------- Acrobot-v1 Log 32 --------------------
+Overall:
+- Steps: 39017
+- Episodes: 160
+Last 5 Episodes:
+- Mean episode length: 103.00000 +/- 20.00000
+- Mean episode reward: -103.00000 +/- 20.00000
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 33.91823
+- Mean episode reward: -89.90909 +/- 33.91823
+
+-------------------- Acrobot-v1 Log 33 --------------------
+Overall:
+- Steps: 39445
+- Episodes: 165
+Last 5 Episodes:
+- Mean episode length: 84.60000 +/- 12.56344
+- Mean episode reward: -84.60000 +/- 12.56344
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 21.95224
+- Mean episode reward: -89.90909 +/- 21.95224
+
+-------------------- Acrobot-v1 Log 34 --------------------
+Overall:
+- Steps: 39907
+- Episodes: 170
+Last 5 Episodes:
+- Mean episode length: 91.40000 +/- 9.64572
+- Mean episode reward: -91.40000 +/- 9.64572
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 23.84790
+- Mean episode reward: -82.33333 +/- 23.84790
+
+-------------------- Acrobot-v1 Log 35 --------------------
+Overall:
+- Steps: 40541
+- Episodes: 175
+Last 5 Episodes:
+- Mean episode length: 125.80000 +/- 84.43791
+- Mean episode reward: -125.80000 +/- 84.43791
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 65.71562
+- Mean episode reward: -110.11111 +/- 65.71562
+
+-------------------- Acrobot-v1 Log 36 --------------------
+Overall:
+- Steps: 41082
+- Episodes: 180
+Last 5 Episodes:
+- Mean episode length: 107.20000 +/- 32.73775
+- Mean episode reward: -107.20000 +/- 32.73775
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 27.03701
+- Mean episode reward: -99.00000 +/- 27.03701
+
+-------------------- Acrobot-v1 Log 37 --------------------
+Overall:
+- Steps: 41483
+- Episodes: 185
+Last 5 Episodes:
+- Mean episode length: 79.20000 +/- 7.13863
+- Mean episode reward: -79.20000 +/- 7.13863
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 28.22782
+- Mean episode reward: -89.90909 +/- 28.22782
+
+-------------------- Acrobot-v1 Log 38 --------------------
+Overall:
+- Steps: 41862
+- Episodes: 190
+Last 5 Episodes:
+- Mean episode length: 74.80000 +/- 7.83326
+- Mean episode reward: -74.80000 +/- 7.83326
+Last 1000 Steps:
+- Mean episode length: 75.92308 +/- 21.79789
+- Mean episode reward: -75.92308 +/- 21.79789
+
+-------------------- Acrobot-v1 Log 39 --------------------
+Overall:
+- Steps: 42323
+- Episodes: 195
+Last 5 Episodes:
+- Mean episode length: 91.20000 +/- 24.02832
+- Mean episode reward: -91.20000 +/- 24.02832
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 18.01543
+- Mean episode reward: -82.33333 +/- 18.01543
+
+-------------------- Acrobot-v1 Log 40 --------------------
+Overall:
+- Steps: 42755
+- Episodes: 200
+Last 5 Episodes:
+- Mean episode length: 85.40000 +/- 16.88313
+- Mean episode reward: -85.40000 +/- 16.88313
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 27.04420
+- Mean episode reward: -82.33333 +/- 27.04420
+
+-------------------- Acrobot-v1 Log 41 --------------------
+Overall:
+- Steps: 43172
+- Episodes: 205
+Last 5 Episodes:
+- Mean episode length: 82.40000 +/- 11.90966
+- Mean episode reward: -82.40000 +/- 11.90966
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 13.87043
+- Mean episode reward: -82.33333 +/- 13.87043
+
+-------------------- Acrobot-v1 Log 42 --------------------
+Overall:
+- Steps: 43609
+- Episodes: 210
+Last 5 Episodes:
+- Mean episode length: 86.40000 +/- 11.46473
+- Mean episode reward: -86.40000 +/- 11.46473
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 11.79925
+- Mean episode reward: -82.33333 +/- 11.79925
+
+-------------------- Acrobot-v1 Log 43 --------------------
+Overall:
+- Steps: 44088
+- Episodes: 215
+Last 5 Episodes:
+- Mean episode length: 94.80000 +/- 7.83326
+- Mean episode reward: -94.80000 +/- 7.83326
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 10.41375
+- Mean episode reward: -89.90909 +/- 10.41375
+
+-------------------- Acrobot-v1 Log 44 --------------------
+Overall:
+- Steps: 44566
+- Episodes: 220
+Last 5 Episodes:
+- Mean episode length: 94.60000 +/- 16.32912
+- Mean episode reward: -94.60000 +/- 16.32912
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 19.45837
+- Mean episode reward: -89.90909 +/- 19.45837
+
+-------------------- Acrobot-v1 Log 45 --------------------
+Overall:
+- Steps: 44997
+- Episodes: 225
+Last 5 Episodes:
+- Mean episode length: 85.20000 +/- 10.97998
+- Mean episode reward: -85.20000 +/- 10.97998
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 14.00295
+- Mean episode reward: -89.90909 +/- 14.00295
+
+-------------------- Acrobot-v1 Log 46 --------------------
+Overall:
+- Steps: 45549
+- Episodes: 230
+Last 5 Episodes:
+- Mean episode length: 109.40000 +/- 40.42573
+- Mean episode reward: -109.40000 +/- 40.42573
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 38.43165
+- Mean episode reward: -89.90909 +/- 38.43165
+
+-------------------- Acrobot-v1 Log 47 --------------------
+Overall:
+- Steps: 45997
+- Episodes: 235
+Last 5 Episodes:
+- Mean episode length: 88.60000 +/- 11.87603
+- Mean episode reward: -88.60000 +/- 11.87603
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 31.55630
+- Mean episode reward: -99.00000 +/- 31.55630
+
+-------------------- Acrobot-v1 Log 48 --------------------
+Overall:
+- Steps: 46483
+- Episodes: 240
+Last 5 Episodes:
+- Mean episode length: 96.20000 +/- 10.83328
+- Mean episode reward: -96.20000 +/- 10.83328
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 13.87905
+- Mean episode reward: -89.90909 +/- 13.87905
+
+-------------------- Acrobot-v1 Log 49 --------------------
+Overall:
+- Steps: 47032
+- Episodes: 245
+Last 5 Episodes:
+- Mean episode length: 108.80000 +/- 12.12271
+- Mean episode reward: -108.80000 +/- 12.12271
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 15.38181
+- Mean episode reward: -99.00000 +/- 15.38181
+
+-------------------- Acrobot-v1 Log 50 --------------------
+Overall:
+- Steps: 47498
+- Episodes: 250
+Last 5 Episodes:
+- Mean episode length: 92.20000 +/- 4.83322
+- Mean episode reward: -92.20000 +/- 4.83322
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 12.79844
+- Mean episode reward: -99.00000 +/- 12.79844
+
+-------------------- Acrobot-v1 Log 51 --------------------
+Overall:
+- Steps: 47971
+- Episodes: 255
+Last 5 Episodes:
+- Mean episode length: 93.60000 +/- 18.11739
+- Mean episode reward: -93.60000 +/- 18.11739
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 15.80250
+- Mean episode reward: -89.90909 +/- 15.80250
+
+-------------------- Acrobot-v1 Log 52 --------------------
+Overall:
+- Steps: 48422
+- Episodes: 260
+Last 5 Episodes:
+- Mean episode length: 89.20000 +/- 7.65245
+- Mean episode reward: -89.20000 +/- 7.65245
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 14.22836
+- Mean episode reward: -89.90909 +/- 14.22836
+
+-------------------- Acrobot-v1 Log 53 --------------------
+Overall:
+- Steps: 48976
+- Episodes: 265
+Last 5 Episodes:
+- Mean episode length: 109.80000 +/- 20.37057
+- Mean episode reward: -109.80000 +/- 20.37057
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 18.59032
+- Mean episode reward: -99.00000 +/- 18.59032
+
+-------------------- Acrobot-v1 Log 54 --------------------
+Overall:
+- Steps: 49472
+- Episodes: 270
+Last 5 Episodes:
+- Mean episode length: 98.20000 +/- 20.48805
+- Mean episode reward: -98.20000 +/- 20.48805
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 29.08608
+- Mean episode reward: -99.00000 +/- 29.08608
+
+-------------------- Acrobot-v1 Log 55 --------------------
+Overall:
+- Steps: 49953
+- Episodes: 275
+Last 5 Episodes:
+- Mean episode length: 95.20000 +/- 4.95580
+- Mean episode reward: -95.20000 +/- 4.95580
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 25.79096
+- Mean episode reward: -89.90909 +/- 25.79096
+
+-------------------- Acrobot-v1 Log 56 --------------------
+Overall:
+- Steps: 50421
+- Episodes: 280
+Last 5 Episodes:
+- Mean episode length: 92.60000 +/- 16.46329
+- Mean episode reward: -92.60000 +/- 16.46329
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 17.18062
+- Mean episode reward: -89.90909 +/- 17.18062
+
+-------------------- Acrobot-v1 Log 57 --------------------
+Overall:
+- Steps: 51049
+- Episodes: 285
+Last 5 Episodes:
+- Mean episode length: 124.60000 +/- 67.58284
+- Mean episode reward: -124.60000 +/- 67.58284
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 54.54548
+- Mean episode reward: -110.11111 +/- 54.54548
+
+-------------------- Acrobot-v1 Log 58 --------------------
+Overall:
+- Steps: 51587
+- Episodes: 290
+Last 5 Episodes:
+- Mean episode length: 106.60000 +/- 10.34601
+- Mean episode reward: -106.60000 +/- 10.34601
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 27.06143
+- Mean episode reward: -110.11111 +/- 27.06143
+
+-------------------- Acrobot-v1 Log 59 --------------------
+Overall:
+- Steps: 52056
+- Episodes: 295
+Last 5 Episodes:
+- Mean episode length: 92.80000 +/- 13.07517
+- Mean episode reward: -92.80000 +/- 13.07517
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 14.00714
+- Mean episode reward: -99.00000 +/- 14.00714
+
+-------------------- Acrobot-v1 Log 60 --------------------
+Overall:
+- Steps: 52485
+- Episodes: 300
+Last 5 Episodes:
+- Mean episode length: 84.80000 +/- 14.45545
+- Mean episode reward: -84.80000 +/- 14.45545
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 14.12576
+- Mean episode reward: -89.90909 +/- 14.12576
+
+-------------------- Acrobot-v1 Log 61 --------------------
+Overall:
+- Steps: 52931
+- Episodes: 305
+Last 5 Episodes:
+- Mean episode length: 88.20000 +/- 9.70361
+- Mean episode reward: -88.20000 +/- 9.70361
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 16.15206
+- Mean episode reward: -82.33333 +/- 16.15206
+
+-------------------- Acrobot-v1 Log 62 --------------------
+Overall:
+- Steps: 53379
+- Episodes: 310
+Last 5 Episodes:
+- Mean episode length: 88.60000 +/- 7.65768
+- Mean episode reward: -88.60000 +/- 7.65768
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 19.45222
+- Mean episode reward: -82.33333 +/- 19.45222
+
+-------------------- Acrobot-v1 Log 63 --------------------
+Overall:
+- Steps: 53875
+- Episodes: 315
+Last 5 Episodes:
+- Mean episode length: 98.20000 +/- 18.49757
+- Mean episode reward: -98.20000 +/- 18.49757
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 18.02753
+- Mean episode reward: -89.90909 +/- 18.02753
+
+-------------------- Acrobot-v1 Log 64 --------------------
+Overall:
+- Steps: 54351
+- Episodes: 320
+Last 5 Episodes:
+- Mean episode length: 94.20000 +/- 12.46435
+- Mean episode reward: -94.20000 +/- 12.46435
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 25.01074
+- Mean episode reward: -89.90909 +/- 25.01074
+
+-------------------- Acrobot-v1 Log 65 --------------------
+Overall:
+- Steps: 54812
+- Episodes: 325
+Last 5 Episodes:
+- Mean episode length: 91.20000 +/- 13.60000
+- Mean episode reward: -91.20000 +/- 13.60000
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 15.31757
+- Mean episode reward: -89.90909 +/- 15.31757
+
+-------------------- Acrobot-v1 Log 66 --------------------
+Overall:
+- Steps: 55293
+- Episodes: 330
+Last 5 Episodes:
+- Mean episode length: 95.20000 +/- 9.94786
+- Mean episode reward: -95.20000 +/- 9.94786
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 15.52391
+- Mean episode reward: -89.90909 +/- 15.52391
+
+-------------------- Acrobot-v1 Log 67 --------------------
+Overall:
+- Steps: 55792
+- Episodes: 335
+Last 5 Episodes:
+- Mean episode length: 98.80000 +/- 20.75958
+- Mean episode reward: -98.80000 +/- 20.75958
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 27.32450
+- Mean episode reward: -89.90909 +/- 27.32450
+
+-------------------- Acrobot-v1 Log 68 --------------------
+Overall:
+- Steps: 56270
+- Episodes: 340
+Last 5 Episodes:
+- Mean episode length: 94.60000 +/- 13.89388
+- Mean episode reward: -94.60000 +/- 13.89388
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 27.36439
+- Mean episode reward: -89.90909 +/- 27.36439
+
+-------------------- Acrobot-v1 Log 69 --------------------
+Overall:
+- Steps: 56687
+- Episodes: 345
+Last 5 Episodes:
+- Mean episode length: 82.40000 +/- 5.95315
+- Mean episode reward: -82.40000 +/- 5.95315
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 21.71149
+- Mean episode reward: -82.33333 +/- 21.71149
+
+-------------------- Acrobot-v1 Log 70 --------------------
+Overall:
+- Steps: 57143
+- Episodes: 350
+Last 5 Episodes:
+- Mean episode length: 90.20000 +/- 8.37616
+- Mean episode reward: -90.20000 +/- 8.37616
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 15.07942
+- Mean episode reward: -82.33333 +/- 15.07942
+
+-------------------- Acrobot-v1 Log 71 --------------------
+Overall:
+- Steps: 57669
+- Episodes: 355
+Last 5 Episodes:
+- Mean episode length: 104.20000 +/- 22.00364
+- Mean episode reward: -104.20000 +/- 22.00364
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 28.77643
+- Mean episode reward: -89.90909 +/- 28.77643
+
+-------------------- Acrobot-v1 Log 72 --------------------
+Overall:
+- Steps: 58122
+- Episodes: 360
+Last 5 Episodes:
+- Mean episode length: 89.60000 +/- 11.72348
+- Mean episode reward: -89.60000 +/- 11.72348
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 28.63074
+- Mean episode reward: -89.90909 +/- 28.63074
+
+-------------------- Acrobot-v1 Log 73 --------------------
+Overall:
+- Steps: 58815
+- Episodes: 365
+Last 5 Episodes:
+- Mean episode length: 137.60000 +/- 48.31811
+- Mean episode reward: -137.60000 +/- 48.31811
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 52.89916
+- Mean episode reward: -110.11111 +/- 52.89916
+
+-------------------- Acrobot-v1 Log 74 --------------------
+Overall:
+- Steps: 59257
+- Episodes: 370
+Last 5 Episodes:
+- Mean episode length: 87.40000 +/- 10.83697
+- Mean episode reward: -87.40000 +/- 10.83697
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 41.39631
+- Mean episode reward: -110.11111 +/- 41.39631
+
+-------------------- Acrobot-v1 Log 75 --------------------
+Overall:
+- Steps: 59748
+- Episodes: 375
+Last 5 Episodes:
+- Mean episode length: 97.20000 +/- 13.39254
+- Mean episode reward: -97.20000 +/- 13.39254
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 14.62535
+- Mean episode reward: -89.90909 +/- 14.62535
+
+-------------------- Acrobot-v1 Log 76 --------------------
+Overall:
+- Steps: 60289
+- Episodes: 380
+Last 5 Episodes:
+- Mean episode length: 107.20000 +/- 31.13455
+- Mean episode reward: -107.20000 +/- 31.13455
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 29.20274
+- Mean episode reward: -99.00000 +/- 29.20274
+
+-------------------- Acrobot-v1 Log 77 --------------------
+Overall:
+- Steps: 60779
+- Episodes: 385
+Last 5 Episodes:
+- Mean episode length: 97.00000 +/- 8.17313
+- Mean episode reward: -97.00000 +/- 8.17313
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 15.31013
+- Mean episode reward: -99.00000 +/- 15.31013
+
+-------------------- Acrobot-v1 Log 78 --------------------
+Overall:
+- Steps: 61240
+- Episodes: 390
+Last 5 Episodes:
+- Mean episode length: 91.20000 +/- 13.24236
+- Mean episode reward: -91.20000 +/- 13.24236
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 17.12762
+- Mean episode reward: -89.90909 +/- 17.12762
+
+-------------------- Acrobot-v1 Log 79 --------------------
+Overall:
+- Steps: 61697
+- Episodes: 395
+Last 5 Episodes:
+- Mean episode length: 90.40000 +/- 21.25653
+- Mean episode reward: -90.40000 +/- 21.25653
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 17.12231
+- Mean episode reward: -89.90909 +/- 17.12231
+
+-------------------- Acrobot-v1 Log 80 --------------------
+Overall:
+- Steps: 62166
+- Episodes: 400
+Last 5 Episodes:
+- Mean episode length: 92.80000 +/- 10.57166
+- Mean episode reward: -92.80000 +/- 10.57166
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 16.91398
+- Mean episode reward: -89.90909 +/- 16.91398
+
+-------------------- Acrobot-v1 Log 81 --------------------
+Overall:
+- Steps: 62608
+- Episodes: 405
+Last 5 Episodes:
+- Mean episode length: 87.40000 +/- 8.75443
+- Mean episode reward: -87.40000 +/- 8.75443
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 9.62435
+- Mean episode reward: -89.90909 +/- 9.62435
+
+-------------------- Acrobot-v1 Log 82 --------------------
+Overall:
+- Steps: 63244
+- Episodes: 410
+Last 5 Episodes:
+- Mean episode length: 126.20000 +/- 62.81847
+- Mean episode reward: -126.20000 +/- 62.81847
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 57.90855
+- Mean episode reward: -99.00000 +/- 57.90855
+
+-------------------- Acrobot-v1 Log 83 --------------------
+Overall:
+- Steps: 63799
+- Episodes: 415
+Last 5 Episodes:
+- Mean episode length: 110.00000 +/- 24.35570
+- Mean episode reward: -110.00000 +/- 24.35570
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 24.51505
+- Mean episode reward: -110.11111 +/- 24.51505
+
+-------------------- Acrobot-v1 Log 84 --------------------
+Overall:
+- Steps: 64270
+- Episodes: 420
+Last 5 Episodes:
+- Mean episode length: 93.20000 +/- 18.34557
+- Mean episode reward: -93.20000 +/- 18.34557
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 26.61954
+- Mean episode reward: -99.00000 +/- 26.61954
+
+-------------------- Acrobot-v1 Log 85 --------------------
+Overall:
+- Steps: 64687
+- Episodes: 425
+Last 5 Episodes:
+- Mean episode length: 82.40000 +/- 11.25344
+- Mean episode reward: -82.40000 +/- 11.25344
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 22.95406
+- Mean episode reward: -82.33333 +/- 22.95406
+
+-------------------- Acrobot-v1 Log 86 --------------------
+Overall:
+- Steps: 65121
+- Episodes: 430
+Last 5 Episodes:
+- Mean episode length: 85.80000 +/- 14.27445
+- Mean episode reward: -85.80000 +/- 14.27445
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 15.99132
+- Mean episode reward: -82.33333 +/- 15.99132
+
+-------------------- Acrobot-v1 Log 87 --------------------
+Overall:
+- Steps: 65525
+- Episodes: 435
+Last 5 Episodes:
+- Mean episode length: 79.80000 +/- 3.86782
+- Mean episode reward: -79.80000 +/- 3.86782
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 11.12305
+- Mean episode reward: -82.33333 +/- 11.12305
+
+-------------------- Acrobot-v1 Log 88 --------------------
+Overall:
+- Steps: 66001
+- Episodes: 440
+Last 5 Episodes:
+- Mean episode length: 94.20000 +/- 21.07510
+- Mean episode reward: -94.20000 +/- 21.07510
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 19.51637
+- Mean episode reward: -82.33333 +/- 19.51637
+
+-------------------- Acrobot-v1 Log 89 --------------------
+Overall:
+- Steps: 66501
+- Episodes: 445
+Last 5 Episodes:
+- Mean episode length: 99.00000 +/- 17.13476
+- Mean episode reward: -99.00000 +/- 17.13476
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 28.07605
+- Mean episode reward: -89.90909 +/- 28.07605
+
+-------------------- Acrobot-v1 Log 90 --------------------
+Overall:
+- Steps: 67044
+- Episodes: 450
+Last 5 Episodes:
+- Mean episode length: 107.60000 +/- 17.68163
+- Mean episode reward: -107.60000 +/- 17.68163
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 18.55802
+- Mean episode reward: -99.00000 +/- 18.55802
+
+-------------------- Acrobot-v1 Log 91 --------------------
+Overall:
+- Steps: 67587
+- Episodes: 455
+Last 5 Episodes:
+- Mean episode length: 107.60000 +/- 31.56327
+- Mean episode reward: -107.60000 +/- 31.56327
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 37.17526
+- Mean episode reward: -99.00000 +/- 37.17526
+
+-------------------- Acrobot-v1 Log 92 --------------------
+Overall:
+- Steps: 68044
+- Episodes: 460
+Last 5 Episodes:
+- Mean episode length: 90.40000 +/- 13.39552
+- Mean episode reward: -90.40000 +/- 13.39552
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 25.72547
+- Mean episode reward: -99.00000 +/- 25.72547
+
+-------------------- Acrobot-v1 Log 93 --------------------
+Overall:
+- Steps: 68565
+- Episodes: 465
+Last 5 Episodes:
+- Mean episode length: 103.20000 +/- 18.13725
+- Mean episode reward: -103.20000 +/- 18.13725
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 27.26121
+- Mean episode reward: -89.90909 +/- 27.26121
+
+-------------------- Acrobot-v1 Log 94 --------------------
+Overall:
+- Steps: 69051
+- Episodes: 470
+Last 5 Episodes:
+- Mean episode length: 96.20000 +/- 12.79687
+- Mean episode reward: -96.20000 +/- 12.79687
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 14.99333
+- Mean episode reward: -99.00000 +/- 14.99333
+
+-------------------- Acrobot-v1 Log 95 --------------------
+Overall:
+- Steps: 69673
+- Episodes: 475
+Last 5 Episodes:
+- Mean episode length: 123.40000 +/- 65.18159
+- Mean episode reward: -123.40000 +/- 65.18159
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 52.50914
+- Mean episode reward: -110.11111 +/- 52.50914
+
+-------------------- Acrobot-v1 Log 96 --------------------
+Overall:
+- Steps: 70155
+- Episodes: 480
+Last 5 Episodes:
+- Mean episode length: 95.40000 +/- 13.23027
+- Mean episode reward: -95.40000 +/- 13.23027
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 51.50285
+- Mean episode reward: -110.11111 +/- 51.50285
+
+-------------------- Acrobot-v1 Log 97 --------------------
+Overall:
+- Steps: 70709
+- Episodes: 485
+Last 5 Episodes:
+- Mean episode length: 109.80000 +/- 38.99949
+- Mean episode reward: -109.80000 +/- 38.99949
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 31.83709
+- Mean episode reward: -99.00000 +/- 31.83709
+
+-------------------- Acrobot-v1 Log 98 --------------------
+Overall:
+- Steps: 71201
+- Episodes: 490
+Last 5 Episodes:
+- Mean episode length: 97.40000 +/- 14.02284
+- Mean episode reward: -97.40000 +/- 14.02284
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 17.89972
+- Mean episode reward: -99.00000 +/- 17.89972
+
+-------------------- Acrobot-v1 Log 99 --------------------
+Overall:
+- Steps: 71628
+- Episodes: 495
+Last 5 Episodes:
+- Mean episode length: 84.40000 +/- 3.44093
+- Mean episode reward: -84.40000 +/- 3.44093
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 11.95792
+- Mean episode reward: -89.90909 +/- 11.95792
+
+-------------------- Acrobot-v1 Log 100 --------------------
+Overall:
+- Steps: 72254
+- Episodes: 500
+Last 5 Episodes:
+- Mean episode length: 124.20000 +/- 42.32919
+- Mean episode reward: -124.20000 +/- 42.32919
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 41.64133
+- Mean episode reward: -99.00000 +/- 41.64133
+
+-------------------- Acrobot-v1 Log 101 --------------------
+Overall:
+- Steps: 72923
+- Episodes: 505
+Last 5 Episodes:
+- Mean episode length: 132.80000 +/- 35.03941
+- Mean episode reward: -132.80000 +/- 35.03941
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 42.16487
+- Mean episode reward: -110.11111 +/- 42.16487
+
+-------------------- Acrobot-v1 Log 102 --------------------
+Overall:
+- Steps: 73371
+- Episodes: 510
+Last 5 Episodes:
+- Mean episode length: 88.60000 +/- 9.66644
+- Mean episode reward: -88.60000 +/- 9.66644
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 46.00652
+- Mean episode reward: -99.00000 +/- 46.00652
+
+-------------------- Acrobot-v1 Log 103 --------------------
+Overall:
+- Steps: 73845
+- Episodes: 515
+Last 5 Episodes:
+- Mean episode length: 93.80000 +/- 12.67123
+- Mean episode reward: -93.80000 +/- 12.67123
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 11.75859
+- Mean episode reward: -89.90909 +/- 11.75859
+
+-------------------- Acrobot-v1 Log 104 --------------------
+Overall:
+- Steps: 74309
+- Episodes: 520
+Last 5 Episodes:
+- Mean episode length: 91.80000 +/- 7.46726
+- Mean episode reward: -91.80000 +/- 7.46726
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 13.52072
+- Mean episode reward: -89.90909 +/- 13.52072
+
+-------------------- Acrobot-v1 Log 105 --------------------
+Overall:
+- Steps: 74732
+- Episodes: 525
+Last 5 Episodes:
+- Mean episode length: 83.60000 +/- 8.82270
+- Mean episode reward: -83.60000 +/- 8.82270
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 21.76516
+- Mean episode reward: -82.33333 +/- 21.76516
+
+-------------------- Acrobot-v1 Log 106 --------------------
+Overall:
+- Steps: 75177
+- Episodes: 530
+Last 5 Episodes:
+- Mean episode length: 88.00000 +/- 13.31165
+- Mean episode reward: -88.00000 +/- 13.31165
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 20.27451
+- Mean episode reward: -82.33333 +/- 20.27451
+
+-------------------- Acrobot-v1 Log 107 --------------------
+Overall:
+- Steps: 75671
+- Episodes: 535
+Last 5 Episodes:
+- Mean episode length: 97.80000 +/- 18.37825
+- Mean episode reward: -97.80000 +/- 18.37825
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 18.58374
+- Mean episode reward: -89.90909 +/- 18.58374
+
+-------------------- Acrobot-v1 Log 108 --------------------
+Overall:
+- Steps: 76170
+- Episodes: 540
+Last 5 Episodes:
+- Mean episode length: 98.80000 +/- 20.18316
+- Mean episode reward: -98.80000 +/- 20.18316
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 32.29538
+- Mean episode reward: -89.90909 +/- 32.29538
+
+-------------------- Acrobot-v1 Log 109 --------------------
+Overall:
+- Steps: 76762
+- Episodes: 545
+Last 5 Episodes:
+- Mean episode length: 117.40000 +/- 66.03817
+- Mean episode reward: -117.40000 +/- 66.03817
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 51.12826
+- Mean episode reward: -110.11111 +/- 51.12826
+
+-------------------- Acrobot-v1 Log 110 --------------------
+Overall:
+- Steps: 77242
+- Episodes: 550
+Last 5 Episodes:
+- Mean episode length: 95.00000 +/- 4.60435
+- Mean episode reward: -95.00000 +/- 4.60435
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 55.96070
+- Mean episode reward: -99.00000 +/- 55.96070
+
+-------------------- Acrobot-v1 Log 111 --------------------
+Overall:
+- Steps: 77722
+- Episodes: 555
+Last 5 Episodes:
+- Mean episode length: 95.00000 +/- 13.22120
+- Mean episode reward: -95.00000 +/- 13.22120
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 18.66185
+- Mean episode reward: -89.90909 +/- 18.66185
+
+-------------------- Acrobot-v1 Log 112 --------------------
+Overall:
+- Steps: 78264
+- Episodes: 560
+Last 5 Episodes:
+- Mean episode length: 107.40000 +/- 57.02140
+- Mean episode reward: -107.40000 +/- 57.02140
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 43.75843
+- Mean episode reward: -99.00000 +/- 43.75843
+
+-------------------- Acrobot-v1 Log 113 --------------------
+Overall:
+- Steps: 78713
+- Episodes: 565
+Last 5 Episodes:
+- Mean episode length: 88.80000 +/- 6.36867
+- Mean episode reward: -88.80000 +/- 6.36867
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 47.39094
+- Mean episode reward: -89.90909 +/- 47.39094
+
+-------------------- Acrobot-v1 Log 114 --------------------
+Overall:
+- Steps: 79200
+- Episodes: 570
+Last 5 Episodes:
+- Mean episode length: 96.40000 +/- 13.32066
+- Mean episode reward: -96.40000 +/- 13.32066
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 13.58779
+- Mean episode reward: -89.90909 +/- 13.58779
+
+-------------------- Acrobot-v1 Log 115 --------------------
+Overall:
+- Steps: 79700
+- Episodes: 575
+Last 5 Episodes:
+- Mean episode length: 99.00000 +/- 18.96312
+- Mean episode reward: -99.00000 +/- 18.96312
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 29.19980
+- Mean episode reward: -89.90909 +/- 29.19980
+
+-------------------- Acrobot-v1 Log 116 --------------------
+Overall:
+- Steps: 80537
+- Episodes: 580
+Last 5 Episodes:
+- Mean episode length: 166.40000 +/- 167.00731
+- Mean episode reward: -166.40000 +/- 167.00731
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 146.40397
+- Mean episode reward: -141.85714 +/- 146.40397
+
+-------------------- Acrobot-v1 Log 117 --------------------
+Overall:
+- Steps: 80995
+- Episodes: 585
+Last 5 Episodes:
+- Mean episode length: 90.60000 +/- 7.22772
+- Mean episode reward: -90.60000 +/- 7.22772
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 120.32744
+- Mean episode reward: -141.85714 +/- 120.32744
+
+-------------------- Acrobot-v1 Log 118 --------------------
+Overall:
+- Steps: 81633
+- Episodes: 590
+Last 5 Episodes:
+- Mean episode length: 126.60000 +/- 71.73172
+- Mean episode reward: -126.60000 +/- 71.73172
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 56.80658
+- Mean episode reward: -110.11111 +/- 56.80658
+
+-------------------- Acrobot-v1 Log 119 --------------------
+Overall:
+- Steps: 82198
+- Episodes: 595
+Last 5 Episodes:
+- Mean episode length: 112.00000 +/- 22.09977
+- Mean episode reward: -112.00000 +/- 22.09977
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 22.28824
+- Mean episode reward: -110.11111 +/- 22.28824
+
+-------------------- Acrobot-v1 Log 120 --------------------
+Overall:
+- Steps: 82658
+- Episodes: 600
+Last 5 Episodes:
+- Mean episode length: 91.00000 +/- 13.54991
+- Mean episode reward: -91.00000 +/- 13.54991
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 22.02272
+- Mean episode reward: -99.00000 +/- 22.02272
+
+-------------------- Acrobot-v1 Log 121 --------------------
+Overall:
+- Steps: 83160
+- Episodes: 605
+Last 5 Episodes:
+- Mean episode length: 99.40000 +/- 27.88978
+- Mean episode reward: -99.40000 +/- 27.88978
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 27.07382
+- Mean episode reward: -89.90909 +/- 27.07382
+
+-------------------- Acrobot-v1 Log 122 --------------------
+Overall:
+- Steps: 83601
+- Episodes: 610
+Last 5 Episodes:
+- Mean episode length: 87.20000 +/- 12.41612
+- Mean episode reward: -87.20000 +/- 12.41612
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 23.92585
+- Mean episode reward: -89.90909 +/- 23.92585
+
+-------------------- Acrobot-v1 Log 123 --------------------
+Overall:
+- Steps: 84030
+- Episodes: 615
+Last 5 Episodes:
+- Mean episode length: 84.80000 +/- 10.96175
+- Mean episode reward: -84.80000 +/- 10.96175
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 16.69498
+- Mean episode reward: -82.33333 +/- 16.69498
+
+-------------------- Acrobot-v1 Log 124 --------------------
+Overall:
+- Steps: 84462
+- Episodes: 620
+Last 5 Episodes:
+- Mean episode length: 85.40000 +/- 9.54149
+- Mean episode reward: -85.40000 +/- 9.54149
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 11.64999
+- Mean episode reward: -82.33333 +/- 11.64999
+
+-------------------- Acrobot-v1 Log 125 --------------------
+Overall:
+- Steps: 84932
+- Episodes: 625
+Last 5 Episodes:
+- Mean episode length: 93.00000 +/- 14.36663
+- Mean episode reward: -93.00000 +/- 14.36663
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 22.41403
+- Mean episode reward: -82.33333 +/- 22.41403
+
+-------------------- Acrobot-v1 Log 126 --------------------
+Overall:
+- Steps: 85394
+- Episodes: 630
+Last 5 Episodes:
+- Mean episode length: 91.40000 +/- 10.89220
+- Mean episode reward: -91.40000 +/- 10.89220
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 14.17074
+- Mean episode reward: -89.90909 +/- 14.17074
+
+-------------------- Acrobot-v1 Log 127 --------------------
+Overall:
+- Steps: 85926
+- Episodes: 635
+Last 5 Episodes:
+- Mean episode length: 105.40000 +/- 32.14094
+- Mean episode reward: -105.40000 +/- 32.14094
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 35.90253
+- Mean episode reward: -89.90909 +/- 35.90253
+
+-------------------- Acrobot-v1 Log 128 --------------------
+Overall:
+- Steps: 86378
+- Episodes: 640
+Last 5 Episodes:
+- Mean episode length: 89.40000 +/- 8.82270
+- Mean episode reward: -89.40000 +/- 8.82270
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 33.53005
+- Mean episode reward: -89.90909 +/- 33.53005
+
+-------------------- Acrobot-v1 Log 129 --------------------
+Overall:
+- Steps: 87006
+- Episodes: 645
+Last 5 Episodes:
+- Mean episode length: 124.60000 +/- 38.44268
+- Mean episode reward: -124.60000 +/- 38.44268
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 45.25041
+- Mean episode reward: -99.00000 +/- 45.25041
+
+-------------------- Acrobot-v1 Log 130 --------------------
+Overall:
+- Steps: 87523
+- Episodes: 650
+Last 5 Episodes:
+- Mean episode length: 102.40000 +/- 18.15048
+- Mean episode reward: -102.40000 +/- 18.15048
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 41.50621
+- Mean episode reward: -110.11111 +/- 41.50621
+
+-------------------- Acrobot-v1 Log 131 --------------------
+Overall:
+- Steps: 88014
+- Episodes: 655
+Last 5 Episodes:
+- Mean episode length: 97.20000 +/- 9.10824
+- Mean episode reward: -97.20000 +/- 9.10824
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 15.56920
+- Mean episode reward: -99.00000 +/- 15.56920
+
+-------------------- Acrobot-v1 Log 132 --------------------
+Overall:
+- Steps: 88860
+- Episodes: 660
+Last 5 Episodes:
+- Mean episode length: 168.20000 +/- 165.59879
+- Mean episode reward: -168.20000 +/- 165.59879
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 146.68278
+- Mean episode reward: -141.85714 +/- 146.68278
+
+-------------------- Acrobot-v1 Log 133 --------------------
+Overall:
+- Steps: 89459
+- Episodes: 665
+Last 5 Episodes:
+- Mean episode length: 118.80000 +/- 58.29717
+- Mean episode reward: -118.80000 +/- 58.29717
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 46.94252
+- Mean episode reward: -99.00000 +/- 46.94252
+
+-------------------- Acrobot-v1 Log 134 --------------------
+Overall:
+- Steps: 89976
+- Episodes: 670
+Last 5 Episodes:
+- Mean episode length: 102.40000 +/- 23.26027
+- Mean episode reward: -102.40000 +/- 23.26027
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 50.68518
+- Mean episode reward: -110.11111 +/- 50.68518
+
+-------------------- Acrobot-v1 Log 135 --------------------
+Overall:
+- Steps: 90486
+- Episodes: 675
+Last 5 Episodes:
+- Mean episode length: 101.00000 +/- 6.26099
+- Mean episode reward: -101.00000 +/- 6.26099
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 19.39588
+- Mean episode reward: -99.00000 +/- 19.39588
+
+-------------------- Acrobot-v1 Log 136 --------------------
+Overall:
+- Steps: 90989
+- Episodes: 680
+Last 5 Episodes:
+- Mean episode length: 99.60000 +/- 26.08141
+- Mean episode reward: -99.60000 +/- 26.08141
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 19.26136
+- Mean episode reward: -99.00000 +/- 19.26136
+
+-------------------- Acrobot-v1 Log 137 --------------------
+Overall:
+- Steps: 91443
+- Episodes: 685
+Last 5 Episodes:
+- Mean episode length: 89.80000 +/- 9.62081
+- Mean episode reward: -89.80000 +/- 9.62081
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 24.54848
+- Mean episode reward: -89.90909 +/- 24.54848
+
+-------------------- Acrobot-v1 Log 138 --------------------
+Overall:
+- Steps: 91893
+- Episodes: 690
+Last 5 Episodes:
+- Mean episode length: 89.00000 +/- 12.39355
+- Mean episode reward: -89.00000 +/- 12.39355
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 10.70645
+- Mean episode reward: -89.90909 +/- 10.70645
+
+-------------------- Acrobot-v1 Log 139 --------------------
+Overall:
+- Steps: 92376
+- Episodes: 695
+Last 5 Episodes:
+- Mean episode length: 95.60000 +/- 21.59259
+- Mean episode reward: -95.60000 +/- 21.59259
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 18.67645
+- Mean episode reward: -89.90909 +/- 18.67645
+
+-------------------- Acrobot-v1 Log 140 --------------------
+Overall:
+- Steps: 92884
+- Episodes: 700
+Last 5 Episodes:
+- Mean episode length: 100.60000 +/- 18.72538
+- Mean episode reward: -100.60000 +/- 18.72538
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 32.37130
+- Mean episode reward: -89.90909 +/- 32.37130
+
+-------------------- Acrobot-v1 Log 141 --------------------
+Overall:
+- Steps: 93386
+- Episodes: 705
+Last 5 Episodes:
+- Mean episode length: 99.40000 +/- 31.67712
+- Mean episode reward: -99.40000 +/- 31.67712
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 24.90783
+- Mean episode reward: -99.00000 +/- 24.90783
+
+-------------------- Acrobot-v1 Log 142 --------------------
+Overall:
+- Steps: 93845
+- Episodes: 710
+Last 5 Episodes:
+- Mean episode length: 90.80000 +/- 11.72007
+- Mean episode reward: -90.80000 +/- 11.72007
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 28.36917
+- Mean episode reward: -89.90909 +/- 28.36917
+
+-------------------- Acrobot-v1 Log 143 --------------------
+Overall:
+- Steps: 94298
+- Episodes: 715
+Last 5 Episodes:
+- Mean episode length: 89.60000 +/- 19.28315
+- Mean episode reward: -89.60000 +/- 19.28315
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 15.25215
+- Mean episode reward: -89.90909 +/- 15.25215
+
+-------------------- Acrobot-v1 Log 144 --------------------
+Overall:
+- Steps: 94763
+- Episodes: 720
+Last 5 Episodes:
+- Mean episode length: 92.00000 +/- 6.81175
+- Mean episode reward: -92.00000 +/- 6.81175
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 28.06045
+- Mean episode reward: -82.33333 +/- 28.06045
+
+-------------------- Acrobot-v1 Log 145 --------------------
+Overall:
+- Steps: 95228
+- Episodes: 725
+Last 5 Episodes:
+- Mean episode length: 92.00000 +/- 11.78134
+- Mean episode reward: -92.00000 +/- 11.78134
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 11.30932
+- Mean episode reward: -89.90909 +/- 11.30932
+
+-------------------- Acrobot-v1 Log 146 --------------------
+Overall:
+- Steps: 95759
+- Episodes: 730
+Last 5 Episodes:
+- Mean episode length: 105.20000 +/- 27.58550
+- Mean episode reward: -105.20000 +/- 27.58550
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 34.69727
+- Mean episode reward: -89.90909 +/- 34.69727
+
+-------------------- Acrobot-v1 Log 147 --------------------
+Overall:
+- Steps: 96237
+- Episodes: 735
+Last 5 Episodes:
+- Mean episode length: 94.60000 +/- 14.54098
+- Mean episode reward: -94.60000 +/- 14.54098
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 22.63625
+- Mean episode reward: -99.00000 +/- 22.63625
+
+-------------------- Acrobot-v1 Log 148 --------------------
+Overall:
+- Steps: 96656
+- Episodes: 740
+Last 5 Episodes:
+- Mean episode length: 82.80000 +/- 8.56505
+- Mean episode reward: -82.80000 +/- 8.56505
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 27.54491
+- Mean episode reward: -82.33333 +/- 27.54491
+
+-------------------- Acrobot-v1 Log 149 --------------------
+Overall:
+- Steps: 97108
+- Episodes: 745
+Last 5 Episodes:
+- Mean episode length: 89.40000 +/- 12.17539
+- Mean episode reward: -89.40000 +/- 12.17539
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 14.75541
+- Mean episode reward: -82.33333 +/- 14.75541
+
+-------------------- Acrobot-v1 Log 150 --------------------
+Overall:
+- Steps: 97544
+- Episodes: 750
+Last 5 Episodes:
+- Mean episode length: 86.20000 +/- 9.57914
+- Mean episode reward: -86.20000 +/- 9.57914
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 17.00163
+- Mean episode reward: -82.33333 +/- 17.00163
+
+-------------------- Acrobot-v1 Log 151 --------------------
+Overall:
+- Steps: 98189
+- Episodes: 755
+Last 5 Episodes:
+- Mean episode length: 128.00000 +/- 79.33473
+- Mean episode reward: -128.00000 +/- 79.33473
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 67.78200
+- Mean episode reward: -99.00000 +/- 67.78200
+
+-------------------- Acrobot-v1 Log 152 --------------------
+Overall:
+- Steps: 98668
+- Episodes: 760
+Last 5 Episodes:
+- Mean episode length: 94.80000 +/- 17.79213
+- Mean episode reward: -94.80000 +/- 17.79213
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 65.64796
+- Mean episode reward: -110.11111 +/- 65.64796
+
+-------------------- Acrobot-v1 Log 153 --------------------
+Overall:
+- Steps: 99089
+- Episodes: 765
+Last 5 Episodes:
+- Mean episode length: 83.20000 +/- 13.04454
+- Mean episode reward: -83.20000 +/- 13.04454
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 16.12708
+- Mean episode reward: -89.90909 +/- 16.12708
+
+-------------------- Acrobot-v1 Log 154 --------------------
+Overall:
+- Steps: 99555
+- Episodes: 770
+Last 5 Episodes:
+- Mean episode length: 92.20000 +/- 18.81914
+- Mean episode reward: -92.20000 +/- 18.81914
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 22.27979
+- Mean episode reward: -82.33333 +/- 22.27979
+
+-------------------- Acrobot-v1 Log 155 --------------------
+Overall:
+- Steps: 100071
+- Episodes: 775
+Last 5 Episodes:
+- Mean episode length: 102.20000 +/- 13.73172
+- Mean episode reward: -102.20000 +/- 13.73172
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 28.30180
+- Mean episode reward: -89.90909 +/- 28.30180
+
+-------------------- Acrobot-v1 Log 156 --------------------
+Overall:
+- Steps: 100502
+- Episodes: 780
+Last 5 Episodes:
+- Mean episode length: 85.20000 +/- 7.35935
+- Mean episode reward: -85.20000 +/- 7.35935
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 17.88069
+- Mean episode reward: -89.90909 +/- 17.88069
+
+-------------------- Acrobot-v1 Log 157 --------------------
+Overall:
+- Steps: 101024
+- Episodes: 785
+Last 5 Episodes:
+- Mean episode length: 103.40000 +/- 3.07246
+- Mean episode reward: -103.40000 +/- 3.07246
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 17.23345
+- Mean episode reward: -89.90909 +/- 17.23345
+
+-------------------- Acrobot-v1 Log 158 --------------------
+Overall:
+- Steps: 101887
+- Episodes: 790
+Last 5 Episodes:
+- Mean episode length: 171.60000 +/- 164.17381
+- Mean episode reward: -171.60000 +/- 164.17381
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 147.79854
+- Mean episode reward: -141.85714 +/- 147.79854
+
+-------------------- Acrobot-v1 Log 159 --------------------
+Overall:
+- Steps: 102371
+- Episodes: 795
+Last 5 Episodes:
+- Mean episode length: 95.80000 +/- 20.73065
+- Mean episode reward: -95.80000 +/- 20.73065
+Last 1000 Steps:
+- Mean episode length: 124.00000 +/- 80.81306
+- Mean episode reward: -124.00000 +/- 80.81306
+
+-------------------- Acrobot-v1 Log 160 --------------------
+Overall:
+- Steps: 103240
+- Episodes: 800
+Last 5 Episodes:
+- Mean episode length: 172.80000 +/- 163.97732
+- Mean episode reward: -172.80000 +/- 163.97732
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 147.64961
+- Mean episode reward: -141.85714 +/- 147.64961
+
+-------------------- Acrobot-v1 Log 161 --------------------
+Overall:
+- Steps: 103727
+- Episodes: 805
+Last 5 Episodes:
+- Mean episode length: 96.40000 +/- 18.61827
+- Mean episode reward: -96.40000 +/- 18.61827
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 149.51295
+- Mean episode reward: -141.85714 +/- 149.51295
+
+-------------------- Acrobot-v1 Log 162 --------------------
+Overall:
+- Steps: 104237
+- Episodes: 810
+Last 5 Episodes:
+- Mean episode length: 101.00000 +/- 20.31748
+- Mean episode reward: -101.00000 +/- 20.31748
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 33.50836
+- Mean episode reward: -89.90909 +/- 33.50836
+
+-------------------- Acrobot-v1 Log 163 --------------------
+Overall:
+- Steps: 104764
+- Episodes: 815
+Last 5 Episodes:
+- Mean episode length: 104.40000 +/- 20.30369
+- Mean episode reward: -104.40000 +/- 20.30369
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 17.93878
+- Mean episode reward: -99.00000 +/- 17.93878
+
+-------------------- Acrobot-v1 Log 164 --------------------
+Overall:
+- Steps: 105328
+- Episodes: 820
+Last 5 Episodes:
+- Mean episode length: 111.80000 +/- 15.84172
+- Mean episode reward: -111.80000 +/- 15.84172
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 36.20497
+- Mean episode reward: -99.00000 +/- 36.20497
+
+-------------------- Acrobot-v1 Log 165 --------------------
+Overall:
+- Steps: 105905
+- Episodes: 825
+Last 5 Episodes:
+- Mean episode length: 114.40000 +/- 43.08410
+- Mean episode reward: -114.40000 +/- 43.08410
+Last 1000 Steps:
+- Mean episode length: 110.11111 +/- 33.96876
+- Mean episode reward: -110.11111 +/- 33.96876
+
+-------------------- Acrobot-v1 Log 166 --------------------
+Overall:
+- Steps: 106746
+- Episodes: 830
+Last 5 Episodes:
+- Mean episode length: 167.20000 +/- 165.95469
+- Mean episode reward: -167.20000 +/- 165.95469
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 145.97693
+- Mean episode reward: -141.85714 +/- 145.97693
+
+-------------------- Acrobot-v1 Log 167 --------------------
+Overall:
+- Steps: 107132
+- Episodes: 835
+Last 5 Episodes:
+- Mean episode length: 76.20000 +/- 7.93473
+- Mean episode reward: -76.20000 +/- 7.93473
+Last 1000 Steps:
+- Mean episode length: 124.00000 +/- 143.26723
+- Mean episode reward: -124.00000 +/- 143.26723
+
+-------------------- Acrobot-v1 Log 168 --------------------
+Overall:
+- Steps: 107685
+- Episodes: 840
+Last 5 Episodes:
+- Mean episode length: 109.60000 +/- 17.14176
+- Mean episode reward: -109.60000 +/- 17.14176
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 22.47607
+- Mean episode reward: -89.90909 +/- 22.47607
+
+-------------------- Acrobot-v1 Log 169 --------------------
+Overall:
+- Steps: 108151
+- Episodes: 845
+Last 5 Episodes:
+- Mean episode length: 92.20000 +/- 7.05408
+- Mean episode reward: -92.20000 +/- 7.05408
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 15.90597
+- Mean episode reward: -99.00000 +/- 15.90597
+
+-------------------- Acrobot-v1 Log 170 --------------------
+Overall:
+- Steps: 108661
+- Episodes: 850
+Last 5 Episodes:
+- Mean episode length: 101.00000 +/- 12.96148
+- Mean episode reward: -101.00000 +/- 12.96148
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 23.75425
+- Mean episode reward: -89.90909 +/- 23.75425
+
+-------------------- Acrobot-v1 Log 171 --------------------
+Overall:
+- Steps: 109083
+- Episodes: 855
+Last 5 Episodes:
+- Mean episode length: 83.40000 +/- 4.54313
+- Mean episode reward: -83.40000 +/- 4.54313
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 14.44396
+- Mean episode reward: -89.90909 +/- 14.44396
+
+-------------------- Acrobot-v1 Log 172 --------------------
+Overall:
+- Steps: 109514
+- Episodes: 860
+Last 5 Episodes:
+- Mean episode length: 85.20000 +/- 7.73046
+- Mean episode reward: -85.20000 +/- 7.73046
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 16.23439
+- Mean episode reward: -82.33333 +/- 16.23439
+
+-------------------- Acrobot-v1 Log 173 --------------------
+Overall:
+- Steps: 109973
+- Episodes: 865
+Last 5 Episodes:
+- Mean episode length: 90.80000 +/- 3.24962
+- Mean episode reward: -90.80000 +/- 3.24962
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 16.64499
+- Mean episode reward: -82.33333 +/- 16.64499
+
+-------------------- Acrobot-v1 Log 174 --------------------
+Overall:
+- Steps: 110494
+- Episodes: 870
+Last 5 Episodes:
+- Mean episode length: 103.20000 +/- 11.75415
+- Mean episode reward: -103.20000 +/- 11.75415
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 24.60397
+- Mean episode reward: -89.90909 +/- 24.60397
+
+-------------------- Acrobot-v1 Log 175 --------------------
+Overall:
+- Steps: 110963
+- Episodes: 875
+Last 5 Episodes:
+- Mean episode length: 92.80000 +/- 10.75918
+- Mean episode reward: -92.80000 +/- 10.75918
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 28.18915
+- Mean episode reward: -89.90909 +/- 28.18915
+
+-------------------- Acrobot-v1 Log 176 --------------------
+Overall:
+- Steps: 111425
+- Episodes: 880
+Last 5 Episodes:
+- Mean episode length: 91.40000 +/- 13.18484
+- Mean episode reward: -91.40000 +/- 13.18484
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 13.41949
+- Mean episode reward: -89.90909 +/- 13.41949
+
+-------------------- Acrobot-v1 Log 177 --------------------
+Overall:
+- Steps: 111901
+- Episodes: 885
+Last 5 Episodes:
+- Mean episode length: 94.20000 +/- 14.38610
+- Mean episode reward: -94.20000 +/- 14.38610
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 16.07626
+- Mean episode reward: -89.90909 +/- 16.07626
+
+-------------------- Acrobot-v1 Log 178 --------------------
+Overall:
+- Steps: 112301
+- Episodes: 890
+Last 5 Episodes:
+- Mean episode length: 79.00000 +/- 5.93296
+- Mean episode reward: -79.00000 +/- 5.93296
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 17.90872
+- Mean episode reward: -82.33333 +/- 17.90872
+
+-------------------- Acrobot-v1 Log 179 --------------------
+Overall:
+- Steps: 112794
+- Episodes: 895
+Last 5 Episodes:
+- Mean episode length: 97.60000 +/- 23.69473
+- Mean episode reward: -97.60000 +/- 23.69473
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 19.38347
+- Mean episode reward: -89.90909 +/- 19.38347
+
+-------------------- Acrobot-v1 Log 180 --------------------
+Overall:
+- Steps: 113265
+- Episodes: 900
+Last 5 Episodes:
+- Mean episode length: 93.20000 +/- 7.78203
+- Mean episode reward: -93.20000 +/- 7.78203
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 24.26166
+- Mean episode reward: -89.90909 +/- 24.26166
+
+-------------------- Acrobot-v1 Log 181 --------------------
+Overall:
+- Steps: 113722
+- Episodes: 905
+Last 5 Episodes:
+- Mean episode length: 90.40000 +/- 10.78147
+- Mean episode reward: -90.40000 +/- 10.78147
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 10.85821
+- Mean episode reward: -89.90909 +/- 10.85821
+
+-------------------- Acrobot-v1 Log 182 --------------------
+Overall:
+- Steps: 114223
+- Episodes: 910
+Last 5 Episodes:
+- Mean episode length: 99.20000 +/- 14.41388
+- Mean episode reward: -99.20000 +/- 14.41388
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 20.10181
+- Mean episode reward: -89.90909 +/- 20.10181
+
+-------------------- Acrobot-v1 Log 183 --------------------
+Overall:
+- Steps: 114807
+- Episodes: 915
+Last 5 Episodes:
+- Mean episode length: 115.80000 +/- 23.30150
+- Mean episode reward: -115.80000 +/- 23.30150
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 37.08099
+- Mean episode reward: -99.00000 +/- 37.08099
+
+-------------------- Acrobot-v1 Log 184 --------------------
+Overall:
+- Steps: 115290
+- Episodes: 920
+Last 5 Episodes:
+- Mean episode length: 95.60000 +/- 11.82540
+- Mean episode reward: -95.60000 +/- 11.82540
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 25.07987
+- Mean episode reward: -99.00000 +/- 25.07987
+
+-------------------- Acrobot-v1 Log 185 --------------------
+Overall:
+- Steps: 116150
+- Episodes: 925
+Last 5 Episodes:
+- Mean episode length: 171.00000 +/- 164.01219
+- Mean episode reward: -171.00000 +/- 164.01219
+Last 1000 Steps:
+- Mean episode length: 141.85714 +/- 147.55380
+- Mean episode reward: -141.85714 +/- 147.55380
+
+-------------------- Acrobot-v1 Log 186 --------------------
+Overall:
+- Steps: 116580
+- Episodes: 930
+Last 5 Episodes:
+- Mean episode length: 85.00000 +/- 11.33137
+- Mean episode reward: -85.00000 +/- 11.33137
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 37.60585
+- Mean episode reward: -99.00000 +/- 37.60585
+
+-------------------- Acrobot-v1 Log 187 --------------------
+Overall:
+- Steps: 117095
+- Episodes: 935
+Last 5 Episodes:
+- Mean episode length: 102.00000 +/- 14.15627
+- Mean episode reward: -102.00000 +/- 14.15627
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 18.54946
+- Mean episode reward: -89.90909 +/- 18.54946
+
+-------------------- Acrobot-v1 Log 188 --------------------
+Overall:
+- Steps: 117606
+- Episodes: 940
+Last 5 Episodes:
+- Mean episode length: 101.20000 +/- 30.54439
+- Mean episode reward: -101.20000 +/- 30.54439
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 25.52646
+- Mean episode reward: -99.00000 +/- 25.52646
+
+-------------------- Acrobot-v1 Log 189 --------------------
+Overall:
+- Steps: 118155
+- Episodes: 945
+Last 5 Episodes:
+- Mean episode length: 108.80000 +/- 41.73919
+- Mean episode reward: -108.80000 +/- 41.73919
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 43.49713
+- Mean episode reward: -99.00000 +/- 43.49713
+
+-------------------- Acrobot-v1 Log 190 --------------------
+Overall:
+- Steps: 118590
+- Episodes: 950
+Last 5 Episodes:
+- Mean episode length: 86.00000 +/- 7.69415
+- Mean episode reward: -86.00000 +/- 7.69415
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 38.70507
+- Mean episode reward: -89.90909 +/- 38.70507
+
+-------------------- Acrobot-v1 Log 191 --------------------
+Overall:
+- Steps: 119111
+- Episodes: 955
+Last 5 Episodes:
+- Mean episode length: 103.20000 +/- 11.75415
+- Mean episode reward: -103.20000 +/- 11.75415
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 19.41628
+- Mean episode reward: -89.90909 +/- 19.41628
+
+-------------------- Acrobot-v1 Log 192 --------------------
+Overall:
+- Steps: 119654
+- Episodes: 960
+Last 5 Episodes:
+- Mean episode length: 107.60000 +/- 9.72831
+- Mean episode reward: -107.60000 +/- 9.72831
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 26.45373
+- Mean episode reward: -99.00000 +/- 26.45373
+
+-------------------- Acrobot-v1 Log 193 --------------------
+Overall:
+- Steps: 120127
+- Episodes: 965
+Last 5 Episodes:
+- Mean episode length: 93.60000 +/- 19.97599
+- Mean episode reward: -93.60000 +/- 19.97599
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 18.26472
+- Mean episode reward: -99.00000 +/- 18.26472
+
+-------------------- Acrobot-v1 Log 194 --------------------
+Overall:
+- Steps: 120678
+- Episodes: 970
+Last 5 Episodes:
+- Mean episode length: 109.20000 +/- 27.73734
+- Mean episode reward: -109.20000 +/- 27.73734
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 24.05826
+- Mean episode reward: -99.00000 +/- 24.05826
+
+-------------------- Acrobot-v1 Log 195 --------------------
+Overall:
+- Steps: 121101
+- Episodes: 975
+Last 5 Episodes:
+- Mean episode length: 83.60000 +/- 4.31741
+- Mean episode reward: -83.60000 +/- 4.31741
+Last 1000 Steps:
+- Mean episode length: 89.90909 +/- 30.47042
+- Mean episode reward: -89.90909 +/- 30.47042
+
+-------------------- Acrobot-v1 Log 196 --------------------
+Overall:
+- Steps: 121578
+- Episodes: 980
+Last 5 Episodes:
+- Mean episode length: 94.40000 +/- 26.70281
+- Mean episode reward: -94.40000 +/- 26.70281
+Last 1000 Steps:
+- Mean episode length: 82.33333 +/- 27.07192
+- Mean episode reward: -82.33333 +/- 27.07192
+
+-------------------- Acrobot-v1 Log 197 --------------------
+Overall:
+- Steps: 122168
+- Episodes: 985
+Last 5 Episodes:
+- Mean episode length: 117.00000 +/- 15.54349
+- Mean episode reward: -117.00000 +/- 15.54349
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 37.86555
+- Mean episode reward: -99.00000 +/- 37.86555
+
+-------------------- Acrobot-v1 Log 198 --------------------
+Overall:
+- Steps: 122678
+- Episodes: 990
+Last 5 Episodes:
+- Mean episode length: 101.00000 +/- 17.75387
+- Mean episode reward: -101.00000 +/- 17.75387
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 27.61159
+- Mean episode reward: -99.00000 +/- 27.61159
+
+-------------------- Acrobot-v1 Log 199 --------------------
+Overall:
+- Steps: 123232
+- Episodes: 995
+Last 5 Episodes:
+- Mean episode length: 109.80000 +/- 16.86891
+- Mean episode reward: -109.80000 +/- 16.86891
+Last 1000 Steps:
+- Mean episode length: 99.00000 +/- 26.08064
+- Mean episode reward: -99.00000 +/- 26.08064
+

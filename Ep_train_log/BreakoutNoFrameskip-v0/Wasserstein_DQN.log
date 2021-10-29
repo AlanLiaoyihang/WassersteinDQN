@@ -1,0 +1,2937 @@
+-------------------- BreakoutNoFrameskip-v0 Log 0 --------------------
+Overall:
+- Steps: 23
+- Episodes: 0
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+
+-------------------- BreakoutNoFrameskip-v0 Log 1 --------------------
+Overall:
+- Steps: 138
+- Episodes: 5
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+
+-------------------- BreakoutNoFrameskip-v0 Log 2 --------------------
+Overall:
+- Steps: 253
+- Episodes: 10
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+
+-------------------- BreakoutNoFrameskip-v0 Log 3 --------------------
+Overall:
+- Steps: 439
+- Episodes: 15
+Last 5 Episodes:
+- Mean episode length: 36.20000 +/- 30.41316
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 26.43750 +/- 18.23105
+- Mean episode reward: 0.12500 +/- 0.48412
+
+-------------------- BreakoutNoFrameskip-v0 Log 4 --------------------
+Overall:
+- Steps: 554
+- Episodes: 20
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 25.38095 +/- 16.02521
+- Mean episode reward: 0.09524 +/- 0.42592
+
+-------------------- BreakoutNoFrameskip-v0 Log 5 --------------------
+Overall:
+- Steps: 788
+- Episodes: 25
+Last 5 Episodes:
+- Mean episode length: 45.80000 +/- 30.99935
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 29.30769 +/- 21.37714
+- Mean episode reward: 0.19231 +/- 0.55603
+
+-------------------- BreakoutNoFrameskip-v0 Log 6 --------------------
+Overall:
+- Steps: 901
+- Episodes: 30
+Last 5 Episodes:
+- Mean episode length: 21.60000 +/- 0.80000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 28.06452 +/- 19.78422
+- Mean episode reward: 0.16129 +/- 0.51411
+
+-------------------- BreakoutNoFrameskip-v0 Log 7 --------------------
+Overall:
+- Steps: 1087
+- Episodes: 35
+Last 5 Episodes:
+- Mean episode length: 36.20000 +/- 29.41020
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 29.19444 +/- 21.56620
+- Mean episode reward: 0.19444 +/- 0.56860
+
+-------------------- BreakoutNoFrameskip-v0 Log 8 --------------------
+Overall:
+- Steps: 1275
+- Episodes: 40
+Last 5 Episodes:
+- Mean episode length: 36.60000 +/- 29.20000
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 30.09756 +/- 22.76476
+- Mean episode reward: 0.21951 +/- 0.60535
+
+-------------------- BreakoutNoFrameskip-v0 Log 9 --------------------
+Overall:
+- Steps: 1390
+- Episodes: 45
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 29.21739 +/- 21.63925
+- Mean episode reward: 0.19565 +/- 0.57557
+
+-------------------- BreakoutNoFrameskip-v0 Log 10 --------------------
+Overall:
+- Steps: 1505
+- Episodes: 50
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 28.50980 +/- 20.66291
+- Mean episode reward: 0.17647 +/- 0.54972
+
+-------------------- BreakoutNoFrameskip-v0 Log 11 --------------------
+Overall:
+- Steps: 1680
+- Episodes: 55
+Last 5 Episodes:
+- Mean episode length: 34.00000 +/- 24.00000
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 29.00000 +/- 21.04078
+- Mean episode reward: 0.19643 +/- 0.58001
+
+-------------------- BreakoutNoFrameskip-v0 Log 12 --------------------
+Overall:
+- Steps: 1795
+- Episodes: 60
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 28.42623 +/- 20.25126
+- Mean episode reward: 0.18033 +/- 0.55834
+
+-------------------- BreakoutNoFrameskip-v0 Log 13 --------------------
+Overall:
+- Steps: 1962
+- Episodes: 65
+Last 5 Episodes:
+- Mean episode length: 32.40000 +/- 13.58823
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 28.72727 +/- 19.85290
+- Mean episode reward: 0.19697 +/- 0.55650
+
+-------------------- BreakoutNoFrameskip-v0 Log 14 --------------------
+Overall:
+- Steps: 2149
+- Episodes: 70
+Last 5 Episodes:
+- Mean episode length: 36.40000 +/- 19.32460
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 29.76923 +/- 20.79258
+- Mean episode reward: 0.23077 +/- 0.57564
+
+-------------------- BreakoutNoFrameskip-v0 Log 15 --------------------
+Overall:
+- Steps: 2264
+- Episodes: 75
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 29.76923 +/- 20.17292
+- Mean episode reward: 0.23077 +/- 0.57564
+
+-------------------- BreakoutNoFrameskip-v0 Log 16 --------------------
+Overall:
+- Steps: 2424
+- Episodes: 80
+Last 5 Episodes:
+- Mean episode length: 31.00000 +/- 19.01578
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 29.30303 +/- 19.47335
+- Mean episode reward: 0.21212 +/- 0.53697
+
+-------------------- BreakoutNoFrameskip-v0 Log 17 --------------------
+Overall:
+- Steps: 2539
+- Episodes: 85
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 29.30303 +/- 19.47335
+- Mean episode reward: 0.21212 +/- 0.53697
+
+-------------------- BreakoutNoFrameskip-v0 Log 18 --------------------
+Overall:
+- Steps: 2776
+- Episodes: 90
+Last 5 Episodes:
+- Mean episode length: 46.40000 +/- 31.79056
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 29.30303 +/- 19.64763
+- Mean episode reward: 0.21212 +/- 0.53697
+
+-------------------- BreakoutNoFrameskip-v0 Log 19 --------------------
+Overall:
+- Steps: 2891
+- Episodes: 95
+Last 5 Episodes:
+- Mean episode length: 22.00000 +/- 0.00000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 29.30303 +/- 19.66459
+- Mean episode reward: 0.21212 +/- 0.53697
+
+-------------------- BreakoutNoFrameskip-v0 Log 20 --------------------
+Overall:
+- Steps: 3032
+- Episodes: 100
+Last 5 Episodes:
+- Mean episode length: 27.20000 +/- 11.42629
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 28.41176 +/- 17.87558
+- Mean episode reward: 0.19118 +/- 0.49281
+
+-------------------- BreakoutNoFrameskip-v0 Log 21 --------------------
+Overall:
+- Steps: 3143
+- Episodes: 105
+Last 5 Episodes:
+- Mean episode length: 21.20000 +/- 0.97980
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 27.98551 +/- 16.21191
+- Mean episode reward: 0.18841 +/- 0.48976
+
+-------------------- BreakoutNoFrameskip-v0 Log 22 --------------------
+Overall:
+- Steps: 3376
+- Episodes: 110
+Last 5 Episodes:
+- Mean episode length: 45.60000 +/- 31.80314
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 29.30303 +/- 18.83338
+- Mean episode reward: 0.21212 +/- 0.50797
+
+-------------------- BreakoutNoFrameskip-v0 Log 23 --------------------
+Overall:
+- Steps: 3533
+- Episodes: 115
+Last 5 Episodes:
+- Mean episode length: 30.40000 +/- 18.82126
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 29.76923 +/- 18.59427
+- Mean episode reward: 0.23077 +/- 0.51944
+
+-------------------- BreakoutNoFrameskip-v0 Log 24 --------------------
+Overall:
+- Steps: 3771
+- Episodes: 120
+Last 5 Episodes:
+- Mean episode length: 46.60000 +/- 32.09735
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 31.25806 +/- 21.52263
+- Mean episode reward: 0.25806 +/- 0.53688
+
+-------------------- BreakoutNoFrameskip-v0 Log 25 --------------------
+Overall:
+- Steps: 3960
+- Episodes: 125
+Last 5 Episodes:
+- Mean episode length: 36.80000 +/- 18.99895
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 31.78689 +/- 22.02243
+- Mean episode reward: 0.26230 +/- 0.54024
+
+-------------------- BreakoutNoFrameskip-v0 Log 26 --------------------
+Overall:
+- Steps: 4174
+- Episodes: 130
+Last 5 Episodes:
+- Mean episode length: 41.80000 +/- 28.83331
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 32.89831 +/- 22.99425
+- Mean episode reward: 0.28814 +/- 0.58370
+
+-------------------- BreakoutNoFrameskip-v0 Log 27 --------------------
+Overall:
+- Steps: 4363
+- Episodes: 135
+Last 5 Episodes:
+- Mean episode length: 36.80000 +/- 30.60980
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 34.71429 +/- 24.69725
+- Mean episode reward: 0.33929 +/- 0.63462
+
+-------------------- BreakoutNoFrameskip-v0 Log 28 --------------------
+Overall:
+- Steps: 4704
+- Episodes: 140
+Last 5 Episodes:
+- Mean episode length: 67.20000 +/- 29.13005
+- Mean episode reward: 1.20000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 38.21569 +/- 27.00204
+- Mean episode reward: 0.45098 +/- 0.72257
+
+-------------------- BreakoutNoFrameskip-v0 Log 29 --------------------
+Overall:
+- Steps: 4896
+- Episodes: 145
+Last 5 Episodes:
+- Mean episode length: 37.40000 +/- 19.99600
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 39.00000 +/- 27.08284
+- Mean episode reward: 0.46000 +/- 0.69886
+
+-------------------- BreakoutNoFrameskip-v0 Log 30 --------------------
+Overall:
+- Steps: 5114
+- Episodes: 150
+Last 5 Episodes:
+- Mean episode length: 42.60000 +/- 29.28208
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 41.55319 +/- 28.92088
+- Mean episode reward: 0.53191 +/- 0.73950
+
+-------------------- BreakoutNoFrameskip-v0 Log 31 --------------------
+Overall:
+- Steps: 5307
+- Episodes: 155
+Last 5 Episodes:
+- Mean episode length: 37.60000 +/- 31.20000
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 42.47826 +/- 28.76421
+- Mean episode reward: 0.56522 +/- 0.77044
+
+-------------------- BreakoutNoFrameskip-v0 Log 32 --------------------
+Overall:
+- Steps: 5418
+- Episodes: 160
+Last 5 Episodes:
+- Mean episode length: 21.20000 +/- 0.97980
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 39.81633 +/- 28.61616
+- Mean episode reward: 0.48980 +/- 0.73185
+
+-------------------- BreakoutNoFrameskip-v0 Log 33 --------------------
+Overall:
+- Steps: 5700
+- Episodes: 165
+Last 5 Episodes:
+- Mean episode length: 55.40000 +/- 54.93851
+- Mean episode reward: 0.80000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 42.47826 +/- 32.51203
+- Mean episode reward: 0.56522 +/- 0.82494
+
+-------------------- BreakoutNoFrameskip-v0 Log 34 --------------------
+Overall:
+- Steps: 5954
+- Episodes: 170
+Last 5 Episodes:
+- Mean episode length: 49.80000 +/- 29.60000
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 42.47826 +/- 33.60690
+- Mean episode reward: 0.56522 +/- 0.82494
+
+-------------------- BreakoutNoFrameskip-v0 Log 35 --------------------
+Overall:
+- Steps: 6172
+- Episodes: 175
+Last 5 Episodes:
+- Mean episode length: 42.60000 +/- 29.28208
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 42.47826 +/- 33.75019
+- Mean episode reward: 0.56522 +/- 0.82494
+
+-------------------- BreakoutNoFrameskip-v0 Log 36 --------------------
+Overall:
+- Steps: 6524
+- Episodes: 180
+Last 5 Episodes:
+- Mean episode length: 69.40000 +/- 59.92862
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 44.45455 +/- 38.36692
+- Mean episode reward: 0.61364 +/- 0.93459
+
+-------------------- BreakoutNoFrameskip-v0 Log 37 --------------------
+Overall:
+- Steps: 6774
+- Episodes: 185
+Last 5 Episodes:
+- Mean episode length: 49.00000 +/- 14.93988
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 43.44444 +/- 37.21025
+- Mean episode reward: 0.60000 +/- 0.90431
+
+-------------------- BreakoutNoFrameskip-v0 Log 38 --------------------
+Overall:
+- Steps: 7107
+- Episodes: 190
+Last 5 Episodes:
+- Mean episode length: 65.60000 +/- 53.60075
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 47.78049 +/- 41.97648
+- Mean episode reward: 0.70732 +/- 1.04167
+
+-------------------- BreakoutNoFrameskip-v0 Log 39 --------------------
+Overall:
+- Steps: 7397
+- Episodes: 195
+Last 5 Episodes:
+- Mean episode length: 57.00000 +/- 19.08926
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 41.81337
+- Mean episode reward: 0.86111 +/- 1.03152
+
+-------------------- BreakoutNoFrameskip-v0 Log 40 --------------------
+Overall:
+- Steps: 7615
+- Episodes: 200
+Last 5 Episodes:
+- Mean episode length: 42.60000 +/- 29.28208
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 38.19573
+- Mean episode reward: 0.88889 +/- 0.99381
+
+-------------------- BreakoutNoFrameskip-v0 Log 41 --------------------
+Overall:
+- Steps: 8011
+- Episodes: 205
+Last 5 Episodes:
+- Mean episode length: 78.20000 +/- 57.84254
+- Mean episode reward: 1.40000 +/- 1.49666
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 44.01924
+- Mean episode reward: 1.00000 +/- 1.12815
+
+-------------------- BreakoutNoFrameskip-v0 Log 42 --------------------
+Overall:
+- Steps: 8199
+- Episodes: 210
+Last 5 Episodes:
+- Mean episode length: 36.60000 +/- 29.20000
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 44.16925
+- Mean episode reward: 0.91429 +/- 1.13065
+
+-------------------- BreakoutNoFrameskip-v0 Log 43 --------------------
+Overall:
+- Steps: 8404
+- Episodes: 215
+Last 5 Episodes:
+- Mean episode length: 40.00000 +/- 22.87357
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 39.55548
+- Mean episode reward: 0.86111 +/- 1.05811
+
+-------------------- BreakoutNoFrameskip-v0 Log 44 --------------------
+Overall:
+- Steps: 8517
+- Episodes: 220
+Last 5 Episodes:
+- Mean episode length: 21.60000 +/- 0.80000
+- Mean episode reward: 0.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 47.78049 +/- 37.63853
+- Mean episode reward: 0.68293 +/- 0.97378
+
+-------------------- BreakoutNoFrameskip-v0 Log 45 --------------------
+Overall:
+- Steps: 8829
+- Episodes: 225
+Last 5 Episodes:
+- Mean episode length: 61.40000 +/- 34.65602
+- Mean episode reward: 1.00000 +/- 0.89443
+Last 2000 Steps:
+- Mean episode length: 49.00000 +/- 39.65098
+- Mean episode reward: 0.70000 +/- 1.02956
+
+-------------------- BreakoutNoFrameskip-v0 Log 46 --------------------
+Overall:
+- Steps: 9015
+- Episodes: 230
+Last 5 Episodes:
+- Mean episode length: 36.20000 +/- 30.41316
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 47.78049 +/- 36.07480
+- Mean episode reward: 0.68293 +/- 0.97378
+
+-------------------- BreakoutNoFrameskip-v0 Log 47 --------------------
+Overall:
+- Steps: 9471
+- Episodes: 235
+Last 5 Episodes:
+- Mean episode length: 90.20000 +/- 49.19106
+- Mean episode reward: 1.60000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 42.65445
+- Mean episode reward: 0.78378 +/- 1.09384
+
+-------------------- BreakoutNoFrameskip-v0 Log 48 --------------------
+Overall:
+- Steps: 9687
+- Episodes: 240
+Last 5 Episodes:
+- Mean episode length: 42.20000 +/- 23.15513
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 50.28205 +/- 41.74707
+- Mean episode reward: 0.69231 +/- 1.06588
+
+-------------------- BreakoutNoFrameskip-v0 Log 49 --------------------
+Overall:
+- Steps: 9991
+- Episodes: 245
+Last 5 Episodes:
+- Mean episode length: 59.80000 +/- 55.53521
+- Mean episode reward: 1.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 47.78049 +/- 39.62293
+- Mean episode reward: 0.63415 +/- 1.03018
+
+-------------------- BreakoutNoFrameskip-v0 Log 50 --------------------
+Overall:
+- Steps: 10329
+- Episodes: 250
+Last 5 Episodes:
+- Mean episode length: 66.60000 +/- 24.43440
+- Mean episode reward: 1.00000 +/- 0.63246
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 40.83583
+- Mean episode reward: 0.75676 +/- 1.05024
+
+-------------------- BreakoutNoFrameskip-v0 Log 51 --------------------
+Overall:
+- Steps: 10761
+- Episodes: 255
+Last 5 Episodes:
+- Mean episode length: 85.40000 +/- 57.36410
+- Mean episode reward: 1.60000 +/- 1.74356
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 46.26353
+- Mean episode reward: 1.00000 +/- 1.27000
+
+-------------------- BreakoutNoFrameskip-v0 Log 52 --------------------
+Overall:
+- Steps: 11132
+- Episodes: 260
+Last 5 Episodes:
+- Mean episode length: 73.20000 +/- 35.50437
+- Mean episode reward: 1.20000 +/- 0.97980
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 46.32662
+- Mean episode reward: 1.06667 +/- 1.28927
+
+-------------------- BreakoutNoFrameskip-v0 Log 53 --------------------
+Overall:
+- Steps: 11398
+- Episodes: 265
+Last 5 Episodes:
+- Mean episode length: 52.20000 +/- 29.21917
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 41.76576
+- Mean episode reward: 1.03226 +/- 1.17731
+
+-------------------- BreakoutNoFrameskip-v0 Log 54 --------------------
+Overall:
+- Steps: 11645
+- Episodes: 270
+Last 5 Episodes:
+- Mean episode length: 48.40000 +/- 27.87544
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 42.47941
+- Mean episode reward: 1.00000 +/- 1.17260
+
+-------------------- BreakoutNoFrameskip-v0 Log 55 --------------------
+Overall:
+- Steps: 11874
+- Episodes: 275
+Last 5 Episodes:
+- Mean episode length: 44.80000 +/- 22.40893
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 38.35561
+- Mean episode reward: 1.09677 +/- 1.08820
+
+-------------------- BreakoutNoFrameskip-v0 Log 56 --------------------
+Overall:
+- Steps: 12112
+- Episodes: 280
+Last 5 Episodes:
+- Mean episode length: 46.60000 +/- 31.31517
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 37.83532
+- Mean episode reward: 1.00000 +/- 1.04447
+
+-------------------- BreakoutNoFrameskip-v0 Log 57 --------------------
+Overall:
+- Steps: 12419
+- Episodes: 285
+Last 5 Episodes:
+- Mean episode length: 60.40000 +/- 20.26425
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 38.01120
+- Mean episode reward: 0.94118 +/- 1.02731
+
+-------------------- BreakoutNoFrameskip-v0 Log 58 --------------------
+Overall:
+- Steps: 12760
+- Episodes: 290
+Last 5 Episodes:
+- Mean episode length: 67.20000 +/- 50.29274
+- Mean episode reward: 1.40000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 34.66702
+- Mean episode reward: 0.88889 +/- 0.90608
+
+-------------------- BreakoutNoFrameskip-v0 Log 59 --------------------
+Overall:
+- Steps: 12998
+- Episodes: 295
+Last 5 Episodes:
+- Mean episode length: 46.60000 +/- 31.68343
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 35.44081
+- Mean episode reward: 0.86486 +/- 0.93468
+
+-------------------- BreakoutNoFrameskip-v0 Log 60 --------------------
+Overall:
+- Steps: 13192
+- Episodes: 300
+Last 5 Episodes:
+- Mean episode length: 37.80000 +/- 20.67269
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 49.00000 +/- 32.35583
+- Mean episode reward: 0.75000 +/- 0.85878
+
+-------------------- BreakoutNoFrameskip-v0 Log 61 --------------------
+Overall:
+- Steps: 13599
+- Episodes: 305
+Last 5 Episodes:
+- Mean episode length: 80.40000 +/- 38.49467
+- Mean episode reward: 1.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 34.79818
+- Mean episode reward: 0.88889 +/- 0.90608
+
+-------------------- BreakoutNoFrameskip-v0 Log 62 --------------------
+Overall:
+- Steps: 13916
+- Episodes: 310
+Last 5 Episodes:
+- Mean episode length: 62.40000 +/- 53.40262
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 39.80678
+- Mean episode reward: 0.91429 +/- 1.05211
+
+-------------------- BreakoutNoFrameskip-v0 Log 63 --------------------
+Overall:
+- Steps: 14181
+- Episodes: 315
+Last 5 Episodes:
+- Mean episode length: 52.00000 +/- 1.41421
+- Mean episode reward: 1.60000 +/- 1.20000
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 38.71002
+- Mean episode reward: 1.05714 +/- 1.11977
+
+-------------------- BreakoutNoFrameskip-v0 Log 64 --------------------
+Overall:
+- Steps: 14589
+- Episodes: 320
+Last 5 Episodes:
+- Mean episode length: 80.60000 +/- 38.65023
+- Mean episode reward: 1.60000 +/- 1.01980
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 42.68562
+- Mean episode reward: 1.21875 +/- 1.21795
+
+-------------------- BreakoutNoFrameskip-v0 Log 65 --------------------
+Overall:
+- Steps: 14839
+- Episodes: 325
+Last 5 Episodes:
+- Mean episode length: 49.00000 +/- 15.38831
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 35.63250
+- Mean episode reward: 1.11765 +/- 1.05062
+
+-------------------- BreakoutNoFrameskip-v0 Log 66 --------------------
+Overall:
+- Steps: 15387
+- Episodes: 330
+Last 5 Episodes:
+- Mean episode length: 108.60000 +/- 50.57114
+- Mean episode reward: 3.00000 +/- 1.26491
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 42.05220
+- Mean episode reward: 1.60714 +/- 1.29116
+
+-------------------- BreakoutNoFrameskip-v0 Log 67 --------------------
+Overall:
+- Steps: 15800
+- Episodes: 335
+Last 5 Episodes:
+- Mean episode length: 81.60000 +/- 48.87781
+- Mean episode reward: 1.60000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 42.02247
+- Mean episode reward: 1.60714 +/- 1.29116
+
+-------------------- BreakoutNoFrameskip-v0 Log 68 --------------------
+Overall:
+- Steps: 16054
+- Episodes: 340
+Last 5 Episodes:
+- Mean episode length: 49.80000 +/- 15.57434
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 42.54362
+- Mean episode reward: 1.57143 +/- 1.32095
+
+-------------------- BreakoutNoFrameskip-v0 Log 69 --------------------
+Overall:
+- Steps: 16538
+- Episodes: 345
+Last 5 Episodes:
+- Mean episode length: 95.80000 +/- 84.58463
+- Mean episode reward: 2.20000 +/- 2.63818
+Last 2000 Steps:
+- Mean episode length: 75.92308 +/- 54.80239
+- Mean episode reward: 1.65385 +/- 1.66277
+
+-------------------- BreakoutNoFrameskip-v0 Log 70 --------------------
+Overall:
+- Steps: 16923
+- Episodes: 350
+Last 5 Episodes:
+- Mean episode length: 76.00000 +/- 57.12092
+- Mean episode reward: 1.40000 +/- 1.49666
+Last 2000 Steps:
+- Mean episode length: 82.33333 +/- 58.71447
+- Mean episode reward: 1.83333 +/- 1.79505
+
+-------------------- BreakoutNoFrameskip-v0 Log 71 --------------------
+Overall:
+- Steps: 17212
+- Episodes: 355
+Last 5 Episodes:
+- Mean episode length: 56.80000 +/- 20.19307
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 73.07407 +/- 56.86431
+- Mean episode reward: 1.40741 +/- 1.63886
+
+-------------------- BreakoutNoFrameskip-v0 Log 72 --------------------
+Overall:
+- Steps: 17550
+- Episodes: 360
+Last 5 Episodes:
+- Mean episode length: 66.60000 +/- 31.85969
+- Mean episode reward: 1.60000 +/- 1.74356
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 53.30231
+- Mean episode reward: 1.34483 +/- 1.66663
+
+-------------------- BreakoutNoFrameskip-v0 Log 73 --------------------
+Overall:
+- Steps: 17967
+- Episodes: 365
+Last 5 Episodes:
+- Mean episode length: 82.40000 +/- 63.75453
+- Mean episode reward: 1.40000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 73.07407 +/- 56.47020
+- Mean episode reward: 1.44444 +/- 1.68508
+
+-------------------- BreakoutNoFrameskip-v0 Log 74 --------------------
+Overall:
+- Steps: 18374
+- Episodes: 370
+Last 5 Episodes:
+- Mean episode length: 80.40000 +/- 37.07614
+- Mean episode reward: 1.80000 +/- 1.72047
+Last 2000 Steps:
+- Mean episode length: 75.92308 +/- 48.34963
+- Mean episode reward: 1.57692 +/- 1.69100
+
+-------------------- BreakoutNoFrameskip-v0 Log 75 --------------------
+Overall:
+- Steps: 18692
+- Episodes: 375
+Last 5 Episodes:
+- Mean episode length: 62.60000 +/- 52.93241
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 47.43298
+- Mean episode reward: 1.39286 +/- 1.49617
+
+-------------------- BreakoutNoFrameskip-v0 Log 76 --------------------
+Overall:
+- Steps: 19072
+- Episodes: 380
+Last 5 Episodes:
+- Mean episode length: 75.00000 +/- 48.66621
+- Mean episode reward: 1.40000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 47.59534
+- Mean episode reward: 1.39286 +/- 1.49617
+
+-------------------- BreakoutNoFrameskip-v0 Log 77 --------------------
+Overall:
+- Steps: 19342
+- Episodes: 385
+Last 5 Episodes:
+- Mean episode length: 53.00000 +/- 17.79888
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 47.84781
+- Mean episode reward: 1.34483 +/- 1.49195
+
+-------------------- BreakoutNoFrameskip-v0 Log 78 --------------------
+Overall:
+- Steps: 19868
+- Episodes: 390
+Last 5 Episodes:
+- Mean episode length: 104.20000 +/- 46.96978
+- Mean episode reward: 2.80000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 75.92308 +/- 45.33798
+- Mean episode reward: 1.61538 +/- 1.44320
+
+-------------------- BreakoutNoFrameskip-v0 Log 79 --------------------
+Overall:
+- Steps: 20164
+- Episodes: 395
+Last 5 Episodes:
+- Mean episode length: 58.20000 +/- 34.45809
+- Mean episode reward: 1.00000 +/- 0.89443
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 45.39149
+- Mean episode reward: 1.39286 +/- 1.29116
+
+-------------------- BreakoutNoFrameskip-v0 Log 80 --------------------
+Overall:
+- Steps: 20673
+- Episodes: 400
+Last 5 Episodes:
+- Mean episode length: 100.80000 +/- 51.50301
+- Mean episode reward: 2.00000 +/- 1.41421
+Last 2000 Steps:
+- Mean episode length: 75.92308 +/- 47.35539
+- Mean episode reward: 1.57692 +/- 1.30599
+
+-------------------- BreakoutNoFrameskip-v0 Log 81 --------------------
+Overall:
+- Steps: 20943
+- Episodes: 405
+Last 5 Episodes:
+- Mean episode length: 53.00000 +/- 29.74559
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 75.92308 +/- 45.09300
+- Mean episode reward: 1.57692 +/- 1.33512
+
+-------------------- BreakoutNoFrameskip-v0 Log 82 --------------------
+Overall:
+- Steps: 21355
+- Episodes: 410
+Last 5 Episodes:
+- Mean episode length: 81.40000 +/- 62.89865
+- Mean episode reward: 1.60000 +/- 1.62481
+Last 2000 Steps:
+- Mean episode length: 79.00000 +/- 50.57035
+- Mean episode reward: 1.64000 +/- 1.41082
+
+-------------------- BreakoutNoFrameskip-v0 Log 83 --------------------
+Overall:
+- Steps: 21740
+- Episodes: 415
+Last 5 Episodes:
+- Mean episode length: 76.00000 +/- 11.52389
+- Mean episode reward: 1.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 73.07407 +/- 44.81148
+- Mean episode reward: 1.44444 +/- 1.25708
+
+-------------------- BreakoutNoFrameskip-v0 Log 84 --------------------
+Overall:
+- Steps: 22017
+- Episodes: 420
+Last 5 Episodes:
+- Mean episode length: 54.40000 +/- 8.73155
+- Mean episode reward: 2.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 73.07407 +/- 41.95141
+- Mean episode reward: 1.55556 +/- 1.28620
+
+-------------------- BreakoutNoFrameskip-v0 Log 85 --------------------
+Overall:
+- Steps: 22210
+- Episodes: 425
+Last 5 Episodes:
+- Mean episode length: 37.60000 +/- 20.33322
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 39.52917
+- Mean episode reward: 1.33333 +/- 1.24722
+
+-------------------- BreakoutNoFrameskip-v0 Log 86 --------------------
+Overall:
+- Steps: 22475
+- Episodes: 430
+Last 5 Episodes:
+- Mean episode length: 52.00000 +/- 28.89983
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 37.79798
+- Mean episode reward: 1.21875 +/- 1.19201
+
+-------------------- BreakoutNoFrameskip-v0 Log 87 --------------------
+Overall:
+- Steps: 22918
+- Episodes: 435
+Last 5 Episodes:
+- Mean episode length: 87.60000 +/- 49.08197
+- Mean episode reward: 1.80000 +/- 1.32665
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 40.31799
+- Mean episode reward: 1.29032 +/- 1.27491
+
+-------------------- BreakoutNoFrameskip-v0 Log 88 --------------------
+Overall:
+- Steps: 23185
+- Episodes: 440
+Last 5 Episodes:
+- Mean episode length: 52.40000 +/- 17.63633
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 36.85020
+- Mean episode reward: 1.25000 +/- 1.19896
+
+-------------------- BreakoutNoFrameskip-v0 Log 89 --------------------
+Overall:
+- Steps: 23509
+- Episodes: 445
+Last 5 Episodes:
+- Mean episode length: 63.80000 +/- 28.56151
+- Mean episode reward: 1.20000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 31.67060
+- Mean episode reward: 1.21212 +/- 1.09427
+
+-------------------- BreakoutNoFrameskip-v0 Log 90 --------------------
+Overall:
+- Steps: 23823
+- Episodes: 450
+Last 5 Episodes:
+- Mean episode length: 61.80000 +/- 9.70361
+- Mean episode reward: 1.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 31.17358
+- Mean episode reward: 1.17647 +/- 1.07020
+
+-------------------- BreakoutNoFrameskip-v0 Log 91 --------------------
+Overall:
+- Steps: 24070
+- Episodes: 455
+Last 5 Episodes:
+- Mean episode length: 48.40000 +/- 28.13254
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 31.96868
+- Mean episode reward: 1.03030 +/- 0.83430
+
+-------------------- BreakoutNoFrameskip-v0 Log 92 --------------------
+Overall:
+- Steps: 24363
+- Episodes: 460
+Last 5 Episodes:
+- Mean episode length: 57.60000 +/- 44.14793
+- Mean episode reward: 1.00000 +/- 1.09545
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 34.78239
+- Mean episode reward: 1.03030 +/- 0.90403
+
+-------------------- BreakoutNoFrameskip-v0 Log 93 --------------------
+Overall:
+- Steps: 24812
+- Episodes: 465
+Last 5 Episodes:
+- Mean episode length: 88.80000 +/- 35.15338
+- Mean episode reward: 1.80000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 31.26300
+- Mean episode reward: 1.09375 +/- 0.84259
+
+-------------------- BreakoutNoFrameskip-v0 Log 94 --------------------
+Overall:
+- Steps: 25269
+- Episodes: 470
+Last 5 Episodes:
+- Mean episode length: 90.40000 +/- 59.70126
+- Mean episode reward: 1.80000 +/- 1.72047
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 42.05947
+- Mean episode reward: 1.27586 +/- 1.14158
+
+-------------------- BreakoutNoFrameskip-v0 Log 95 --------------------
+Overall:
+- Steps: 25600
+- Episodes: 475
+Last 5 Episodes:
+- Mean episode length: 65.20000 +/- 53.20677
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 45.80655
+- Mean episode reward: 1.27586 +/- 1.25661
+
+-------------------- BreakoutNoFrameskip-v0 Log 96 --------------------
+Overall:
+- Steps: 25875
+- Episodes: 480
+Last 5 Episodes:
+- Mean episode length: 54.00000 +/- 8.02496
+- Mean episode reward: 1.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 45.54610
+- Mean episode reward: 1.27586 +/- 1.25661
+
+-------------------- BreakoutNoFrameskip-v0 Log 97 --------------------
+Overall:
+- Steps: 26269
+- Episodes: 485
+Last 5 Episodes:
+- Mean episode length: 77.80000 +/- 44.56187
+- Mean episode reward: 1.60000 +/- 1.20000
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 45.93662
+- Mean episode reward: 1.35714 +/- 1.28770
+
+-------------------- BreakoutNoFrameskip-v0 Log 98 --------------------
+Overall:
+- Steps: 26688
+- Episodes: 490
+Last 5 Episodes:
+- Mean episode length: 82.80000 +/- 57.09781
+- Mean episode reward: 1.80000 +/- 1.72047
+Last 2000 Steps:
+- Mean episode length: 73.07407 +/- 49.41204
+- Mean episode reward: 1.44444 +/- 1.39665
+
+-------------------- BreakoutNoFrameskip-v0 Log 99 --------------------
+Overall:
+- Steps: 26920
+- Episodes: 495
+Last 5 Episodes:
+- Mean episode length: 45.40000 +/- 11.75755
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 46.89001
+- Mean episode reward: 1.42857 +/- 1.34771
+
+-------------------- BreakoutNoFrameskip-v0 Log 100 --------------------
+Overall:
+- Steps: 27300
+- Episodes: 500
+Last 5 Episodes:
+- Mean episode length: 75.00000 +/- 45.01111
+- Mean episode reward: 2.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 43.81578
+- Mean episode reward: 1.43333 +/- 1.30852
+
+-------------------- BreakoutNoFrameskip-v0 Log 101 --------------------
+Overall:
+- Steps: 27590
+- Episodes: 505
+Last 5 Episodes:
+- Mean episode length: 57.00000 +/- 18.88915
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 39.33879
+- Mean episode reward: 1.32258 +/- 1.20180
+
+-------------------- BreakoutNoFrameskip-v0 Log 102 --------------------
+Overall:
+- Steps: 28021
+- Episodes: 510
+Last 5 Episodes:
+- Mean episode length: 85.20000 +/- 47.75940
+- Mean episode reward: 2.20000 +/- 2.13542
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 40.51118
+- Mean episode reward: 1.46667 +/- 1.43139
+
+-------------------- BreakoutNoFrameskip-v0 Log 103 --------------------
+Overall:
+- Steps: 28259
+- Episodes: 515
+Last 5 Episodes:
+- Mean episode length: 46.60000 +/- 22.21351
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 41.69929
+- Mean episode reward: 1.35484 +/- 1.47119
+
+-------------------- BreakoutNoFrameskip-v0 Log 104 --------------------
+Overall:
+- Steps: 28529
+- Episodes: 520
+Last 5 Episodes:
+- Mean episode length: 53.00000 +/- 49.20976
+- Mean episode reward: 0.80000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 41.87529
+- Mean episode reward: 1.35484 +/- 1.51441
+
+-------------------- BreakoutNoFrameskip-v0 Log 105 --------------------
+Overall:
+- Steps: 28693
+- Episodes: 525
+Last 5 Episodes:
+- Mean episode length: 31.80000 +/- 19.60000
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 38.03768
+- Mean episode reward: 1.08571 +/- 1.33890
+
+-------------------- BreakoutNoFrameskip-v0 Log 106 --------------------
+Overall:
+- Steps: 29007
+- Episodes: 530
+Last 5 Episodes:
+- Mean episode length: 61.80000 +/- 31.73894
+- Mean episode reward: 1.00000 +/- 0.63246
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 40.48927
+- Mean episode reward: 1.08824 +/- 1.37985
+
+-------------------- BreakoutNoFrameskip-v0 Log 107 --------------------
+Overall:
+- Steps: 29410
+- Episodes: 535
+Last 5 Episodes:
+- Mean episode length: 79.60000 +/- 24.19587
+- Mean episode reward: 1.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 37.69410
+- Mean episode reward: 1.03030 +/- 1.19303
+
+-------------------- BreakoutNoFrameskip-v0 Log 108 --------------------
+Overall:
+- Steps: 29732
+- Episodes: 540
+Last 5 Episodes:
+- Mean episode length: 63.40000 +/- 33.21205
+- Mean episode reward: 1.00000 +/- 0.63246
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 40.04841
+- Mean episode reward: 1.03030 +/- 1.21817
+
+-------------------- BreakoutNoFrameskip-v0 Log 109 --------------------
+Overall:
+- Steps: 30255
+- Episodes: 545
+Last 5 Episodes:
+- Mean episode length: 103.60000 +/- 63.00667
+- Mean episode reward: 2.20000 +/- 1.93907
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 46.12177
+- Mean episode reward: 1.06452 +/- 1.18962
+
+-------------------- BreakoutNoFrameskip-v0 Log 110 --------------------
+Overall:
+- Steps: 30653
+- Episodes: 550
+Last 5 Episodes:
+- Mean episode length: 78.60000 +/- 45.75850
+- Mean episode reward: 1.60000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 73.07407 +/- 45.45729
+- Mean episode reward: 1.33333 +/- 1.24722
+
+-------------------- BreakoutNoFrameskip-v0 Log 111 --------------------
+Overall:
+- Steps: 30882
+- Episodes: 555
+Last 5 Episodes:
+- Mean episode length: 44.80000 +/- 12.05653
+- Mean episode reward: 2.00000 +/- 1.67332
+Last 2000 Steps:
+- Mean episode length: 73.07407 +/- 42.74379
+- Mean episode reward: 1.59259 +/- 1.36787
+
+-------------------- BreakoutNoFrameskip-v0 Log 112 --------------------
+Overall:
+- Steps: 31188
+- Episodes: 560
+Last 5 Episodes:
+- Mean episode length: 60.20000 +/- 52.17049
+- Mean episode reward: 1.20000 +/- 1.60000
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 46.62803
+- Mean episode reward: 1.60714 +/- 1.49617
+
+-------------------- BreakoutNoFrameskip-v0 Log 113 --------------------
+Overall:
+- Steps: 31445
+- Episodes: 565
+Last 5 Episodes:
+- Mean episode length: 50.40000 +/- 3.92938
+- Mean episode reward: 2.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 45.58242
+- Mean episode reward: 1.75862 +/- 1.56811
+
+-------------------- BreakoutNoFrameskip-v0 Log 114 --------------------
+Overall:
+- Steps: 31729
+- Episodes: 570
+Last 5 Episodes:
+- Mean episode length: 55.80000 +/- 56.75350
+- Mean episode reward: 1.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 49.75934
+- Mean episode reward: 1.64516 +/- 1.67618
+
+-------------------- BreakoutNoFrameskip-v0 Log 115 --------------------
+Overall:
+- Steps: 32039
+- Episodes: 575
+Last 5 Episodes:
+- Mean episode length: 61.00000 +/- 64.91225
+- Mean episode reward: 1.20000 +/- 1.93907
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 51.32720
+- Mean episode reward: 1.54545 +/- 1.74236
+
+-------------------- BreakoutNoFrameskip-v0 Log 116 --------------------
+Overall:
+- Steps: 32408
+- Episodes: 580
+Last 5 Episodes:
+- Mean episode length: 72.80000 +/- 59.38821
+- Mean episode reward: 1.60000 +/- 1.74356
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 47.20358
+- Mean episode reward: 1.54545 +/- 1.65311
+
+-------------------- BreakoutNoFrameskip-v0 Log 117 --------------------
+Overall:
+- Steps: 32647
+- Episodes: 585
+Last 5 Episodes:
+- Mean episode length: 46.80000 +/- 22.24770
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 46.26400
+- Mean episode reward: 1.36111 +/- 1.63559
+
+-------------------- BreakoutNoFrameskip-v0 Log 118 --------------------
+Overall:
+- Steps: 32982
+- Episodes: 590
+Last 5 Episodes:
+- Mean episode length: 66.00000 +/- 30.82207
+- Mean episode reward: 1.00000 +/- 0.63246
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 44.34356
+- Mean episode reward: 1.20000 +/- 1.45012
+
+-------------------- BreakoutNoFrameskip-v0 Log 119 --------------------
+Overall:
+- Steps: 33261
+- Episodes: 595
+Last 5 Episodes:
+- Mean episode length: 54.80000 +/- 6.67533
+- Mean episode reward: 1.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 43.84027
+- Mean episode reward: 1.23529 +/- 1.41544
+
+-------------------- BreakoutNoFrameskip-v0 Log 120 --------------------
+Overall:
+- Steps: 33548
+- Episodes: 600
+Last 5 Episodes:
+- Mean episode length: 56.40000 +/- 49.53221
+- Mean episode reward: 0.80000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 45.16705
+- Mean episode reward: 1.09375 +/- 1.25895
+
+-------------------- BreakoutNoFrameskip-v0 Log 121 --------------------
+Overall:
+- Steps: 33767
+- Episodes: 605
+Last 5 Episodes:
+- Mean episode length: 42.80000 +/- 29.65400
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 44.10180
+- Mean episode reward: 1.00000 +/- 1.21268
+
+-------------------- BreakoutNoFrameskip-v0 Log 122 --------------------
+Overall:
+- Steps: 33938
+- Episodes: 610
+Last 5 Episodes:
+- Mean episode length: 33.20000 +/- 13.71714
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 37.40205
+- Mean episode reward: 0.91667 +/- 1.03749
+
+-------------------- BreakoutNoFrameskip-v0 Log 123 --------------------
+Overall:
+- Steps: 34318
+- Episodes: 615
+Last 5 Episodes:
+- Mean episode length: 75.00000 +/- 22.28004
+- Mean episode reward: 1.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 31.07111
+- Mean episode reward: 0.88889 +/- 0.80890
+
+-------------------- BreakoutNoFrameskip-v0 Log 124 --------------------
+Overall:
+- Steps: 34569
+- Episodes: 620
+Last 5 Episodes:
+- Mean episode length: 49.20000 +/- 24.67711
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 30.66113
+- Mean episode reward: 0.83784 +/- 0.75386
+
+-------------------- BreakoutNoFrameskip-v0 Log 125 --------------------
+Overall:
+- Steps: 34862
+- Episodes: 625
+Last 5 Episodes:
+- Mean episode length: 57.60000 +/- 25.38188
+- Mean episode reward: 1.00000 +/- 0.63246
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 29.39107
+- Mean episode reward: 0.86486 +/- 0.74115
+
+-------------------- BreakoutNoFrameskip-v0 Log 126 --------------------
+Overall:
+- Steps: 35176
+- Episodes: 630
+Last 5 Episodes:
+- Mean episode length: 61.80000 +/- 52.66650
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 35.31859
+- Mean episode reward: 0.89189 +/- 0.92368
+
+-------------------- BreakoutNoFrameskip-v0 Log 127 --------------------
+Overall:
+- Steps: 35678
+- Episodes: 635
+Last 5 Episodes:
+- Mean episode length: 99.40000 +/- 55.00764
+- Mean episode reward: 2.00000 +/- 1.67332
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 41.03254
+- Mean episode reward: 1.16129 +/- 1.13867
+
+-------------------- BreakoutNoFrameskip-v0 Log 128 --------------------
+Overall:
+- Steps: 35938
+- Episodes: 640
+Last 5 Episodes:
+- Mean episode length: 51.00000 +/- 1.26491
+- Mean episode reward: 1.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 39.45912
+- Mean episode reward: 1.23333 +/- 1.08577
+
+-------------------- BreakoutNoFrameskip-v0 Log 129 --------------------
+Overall:
+- Steps: 36205
+- Episodes: 645
+Last 5 Episodes:
+- Mean episode length: 52.40000 +/- 17.41953
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 39.52135
+- Mean episode reward: 1.12500 +/- 1.08253
+
+-------------------- BreakoutNoFrameskip-v0 Log 130 --------------------
+Overall:
+- Steps: 36490
+- Episodes: 650
+Last 5 Episodes:
+- Mean episode length: 56.00000 +/- 18.18791
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 37.63995
+- Mean episode reward: 1.16129 +/- 1.05025
+
+-------------------- BreakoutNoFrameskip-v0 Log 131 --------------------
+Overall:
+- Steps: 36661
+- Episodes: 655
+Last 5 Episodes:
+- Mean episode length: 33.20000 +/- 13.71714
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 37.98953
+- Mean episode reward: 1.00000 +/- 1.05719
+
+-------------------- BreakoutNoFrameskip-v0 Log 132 --------------------
+Overall:
+- Steps: 36905
+- Episodes: 660
+Last 5 Episodes:
+- Mean episode length: 47.80000 +/- 15.74039
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 33.64873
+- Mean episode reward: 0.97143 +/- 0.94069
+
+-------------------- BreakoutNoFrameskip-v0 Log 133 --------------------
+Overall:
+- Steps: 37241
+- Episodes: 665
+Last 5 Episodes:
+- Mean episode length: 66.20000 +/- 27.93134
+- Mean episode reward: 1.80000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 33.74539
+- Mean episode reward: 1.05714 +/- 1.01257
+
+-------------------- BreakoutNoFrameskip-v0 Log 134 --------------------
+Overall:
+- Steps: 37443
+- Episodes: 670
+Last 5 Episodes:
+- Mean episode length: 39.40000 +/- 15.06785
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 29.83282
+- Mean episode reward: 1.00000 +/- 0.95860
+
+-------------------- BreakoutNoFrameskip-v0 Log 135 --------------------
+Overall:
+- Steps: 37677
+- Episodes: 675
+Last 5 Episodes:
+- Mean episode length: 45.80000 +/- 22.68392
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 47.78049 +/- 21.45729
+- Mean episode reward: 0.85366 +/- 0.71775
+
+-------------------- BreakoutNoFrameskip-v0 Log 136 --------------------
+Overall:
+- Steps: 38097
+- Episodes: 680
+Last 5 Episodes:
+- Mean episode length: 83.00000 +/- 59.24525
+- Mean episode reward: 1.80000 +/- 1.72047
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 31.92300
+- Mean episode reward: 1.00000 +/- 1.01342
+
+-------------------- BreakoutNoFrameskip-v0 Log 137 --------------------
+Overall:
+- Steps: 38521
+- Episodes: 685
+Last 5 Episodes:
+- Mean episode length: 83.80000 +/- 56.05497
+- Mean episode reward: 1.60000 +/- 1.74356
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 40.44195
+- Mean episode reward: 1.08571 +/- 1.25063
+
+-------------------- BreakoutNoFrameskip-v0 Log 138 --------------------
+Overall:
+- Steps: 38969
+- Episodes: 690
+Last 5 Episodes:
+- Mean episode length: 88.60000 +/- 43.87984
+- Mean episode reward: 2.60000 +/- 1.49666
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 45.57637
+- Mean episode reward: 1.55172 +/- 1.49911
+
+-------------------- BreakoutNoFrameskip-v0 Log 139 --------------------
+Overall:
+- Steps: 39306
+- Episodes: 695
+Last 5 Episodes:
+- Mean episode length: 66.40000 +/- 58.47598
+- Mean episode reward: 1.00000 +/- 1.26491
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 51.12357
+- Mean episode reward: 1.41379 +/- 1.52037
+
+-------------------- BreakoutNoFrameskip-v0 Log 140 --------------------
+Overall:
+- Steps: 39738
+- Episodes: 700
+Last 5 Episodes:
+- Mean episode length: 85.40000 +/- 69.49705
+- Mean episode reward: 1.80000 +/- 1.93907
+Last 2000 Steps:
+- Mean episode length: 79.00000 +/- 58.93250
+- Mean episode reward: 1.72000 +/- 1.73251
+
+-------------------- BreakoutNoFrameskip-v0 Log 141 --------------------
+Overall:
+- Steps: 39950
+- Episodes: 705
+Last 5 Episodes:
+- Mean episode length: 41.40000 +/- 23.76215
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 75.92308 +/- 56.25965
+- Mean episode reward: 1.57692 +/- 1.69100
+
+-------------------- BreakoutNoFrameskip-v0 Log 142 --------------------
+Overall:
+- Steps: 40343
+- Episodes: 710
+Last 5 Episodes:
+- Mean episode length: 77.60000 +/- 48.59053
+- Mean episode reward: 1.60000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 75.92308 +/- 56.63576
+- Mean episode reward: 1.61538 +/- 1.68881
+
+-------------------- BreakoutNoFrameskip-v0 Log 143 --------------------
+Overall:
+- Steps: 40681
+- Episodes: 715
+Last 5 Episodes:
+- Mean episode length: 66.60000 +/- 46.11984
+- Mean episode reward: 1.00000 +/- 1.09545
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 51.25897
+- Mean episode reward: 1.34483 +/- 1.51489
+
+-------------------- BreakoutNoFrameskip-v0 Log 144 --------------------
+Overall:
+- Steps: 41053
+- Episodes: 720
+Last 5 Episodes:
+- Mean episode length: 73.40000 +/- 22.35710
+- Mean episode reward: 1.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 46.52980
+- Mean episode reward: 1.16667 +/- 1.26711
+
+-------------------- BreakoutNoFrameskip-v0 Log 145 --------------------
+Overall:
+- Steps: 41320
+- Episodes: 725
+Last 5 Episodes:
+- Mean episode length: 52.40000 +/- 19.94593
+- Mean episode reward: 1.60000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 45.22192
+- Mean episode reward: 1.30000 +/- 1.32035
+
+-------------------- BreakoutNoFrameskip-v0 Log 146 --------------------
+Overall:
+- Steps: 41556
+- Episodes: 730
+Last 5 Episodes:
+- Mean episode length: 46.20000 +/- 21.80275
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 40.96487
+- Mean episode reward: 1.22581 +/- 1.26261
+
+-------------------- BreakoutNoFrameskip-v0 Log 147 --------------------
+Overall:
+- Steps: 41803
+- Episodes: 735
+Last 5 Episodes:
+- Mean episode length: 48.40000 +/- 15.57691
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 34.66340
+- Mean episode reward: 1.02857 +/- 1.02778
+
+-------------------- BreakoutNoFrameskip-v0 Log 148 --------------------
+Overall:
+- Steps: 42070
+- Episodes: 740
+Last 5 Episodes:
+- Mean episode length: 52.40000 +/- 17.44248
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 27.03769
+- Mean episode reward: 1.02857 +/- 0.84467
+
+-------------------- BreakoutNoFrameskip-v0 Log 149 --------------------
+Overall:
+- Steps: 42479
+- Episodes: 745
+Last 5 Episodes:
+- Mean episode length: 80.80000 +/- 49.25607
+- Mean episode reward: 1.60000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 29.88751
+- Mean episode reward: 1.08824 +/- 0.95078
+
+-------------------- BreakoutNoFrameskip-v0 Log 150 --------------------
+Overall:
+- Steps: 42764
+- Episodes: 750
+Last 5 Episodes:
+- Mean episode length: 56.00000 +/- 55.91422
+- Mean episode reward: 1.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 35.54489
+- Mean episode reward: 1.11765 +/- 1.07825
+
+-------------------- BreakoutNoFrameskip-v0 Log 151 --------------------
+Overall:
+- Steps: 43212
+- Episodes: 755
+Last 5 Episodes:
+- Mean episode length: 88.60000 +/- 52.03307
+- Mean episode reward: 2.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 42.69195
+- Mean episode reward: 1.09091 +/- 1.18995
+
+-------------------- BreakoutNoFrameskip-v0 Log 152 --------------------
+Overall:
+- Steps: 43585
+- Episodes: 760
+Last 5 Episodes:
+- Mean episode length: 73.60000 +/- 16.97763
+- Mean episode reward: 1.80000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 42.48634
+- Mean episode reward: 1.33333 +/- 1.27366
+
+-------------------- BreakoutNoFrameskip-v0 Log 153 --------------------
+Overall:
+- Steps: 43964
+- Episodes: 765
+Last 5 Episodes:
+- Mean episode length: 74.80000 +/- 61.86243
+- Mean episode reward: 1.40000 +/- 1.85472
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 49.86011
+- Mean episode reward: 1.46429 +/- 1.49957
+
+-------------------- BreakoutNoFrameskip-v0 Log 154 --------------------
+Overall:
+- Steps: 44140
+- Episodes: 770
+Last 5 Episodes:
+- Mean episode length: 34.20000 +/- 14.94523
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 50.08715
+- Mean episode reward: 1.37931 +/- 1.51802
+
+-------------------- BreakoutNoFrameskip-v0 Log 155 --------------------
+Overall:
+- Steps: 44481
+- Episodes: 775
+Last 5 Episodes:
+- Mean episode length: 67.20000 +/- 48.22613
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 48.80597
+- Mean episode reward: 1.30000 +/- 1.50886
+
+-------------------- BreakoutNoFrameskip-v0 Log 156 --------------------
+Overall:
+- Steps: 44838
+- Episodes: 780
+Last 5 Episodes:
+- Mean episode length: 70.40000 +/- 61.91801
+- Mean episode reward: 1.40000 +/- 1.85472
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 50.44525
+- Mean episode reward: 1.37931 +/- 1.58471
+
+-------------------- BreakoutNoFrameskip-v0 Log 157 --------------------
+Overall:
+- Steps: 45147
+- Episodes: 785
+Last 5 Episodes:
+- Mean episode length: 60.80000 +/- 11.95659
+- Mean episode reward: 1.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 43.62218
+- Mean episode reward: 1.25806 +/- 1.39047
+
+-------------------- BreakoutNoFrameskip-v0 Log 158 --------------------
+Overall:
+- Steps: 45472
+- Episodes: 790
+Last 5 Episodes:
+- Mean episode length: 64.00000 +/- 19.56528
+- Mean episode reward: 1.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 42.94400
+- Mean episode reward: 1.21875 +/- 1.36323
+
+-------------------- BreakoutNoFrameskip-v0 Log 159 --------------------
+Overall:
+- Steps: 45736
+- Episodes: 795
+Last 5 Episodes:
+- Mean episode length: 51.80000 +/- 1.60000
+- Mean episode reward: 1.60000 +/- 1.20000
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 42.64294
+- Mean episode reward: 1.21212 +/- 1.34294
+
+-------------------- BreakoutNoFrameskip-v0 Log 160 --------------------
+Overall:
+- Steps: 45945
+- Episodes: 800
+Last 5 Episodes:
+- Mean episode length: 40.80000 +/- 23.03389
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 35.07804
+- Mean episode reward: 1.05556 +/- 1.12902
+
+-------------------- BreakoutNoFrameskip-v0 Log 161 --------------------
+Overall:
+- Steps: 46280
+- Episodes: 805
+Last 5 Episodes:
+- Mean episode length: 66.00000 +/- 39.60303
+- Mean episode reward: 1.00000 +/- 0.89443
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 34.35284
+- Mean episode reward: 1.15152 +/- 1.10429
+
+-------------------- BreakoutNoFrameskip-v0 Log 162 --------------------
+Overall:
+- Steps: 46760
+- Episodes: 810
+Last 5 Episodes:
+- Mean episode length: 95.00000 +/- 35.64828
+- Mean episode reward: 1.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 30.03425
+- Mean episode reward: 1.25806 +/- 0.91467
+
+-------------------- BreakoutNoFrameskip-v0 Log 163 --------------------
+Overall:
+- Steps: 47203
+- Episodes: 815
+Last 5 Episodes:
+- Mean episode length: 87.60000 +/- 23.03562
+- Mean episode reward: 1.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 33.12305
+- Mean episode reward: 1.31034 +/- 0.95062
+
+-------------------- BreakoutNoFrameskip-v0 Log 164 --------------------
+Overall:
+- Steps: 47600
+- Episodes: 820
+Last 5 Episodes:
+- Mean episode length: 78.40000 +/- 55.93782
+- Mean episode reward: 3.00000 +/- 1.67332
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 40.90444
+- Mean episode reward: 1.64286 +/- 1.34202
+
+-------------------- BreakoutNoFrameskip-v0 Log 165 --------------------
+Overall:
+- Steps: 47802
+- Episodes: 825
+Last 5 Episodes:
+- Mean episode length: 39.40000 +/- 14.22111
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 41.44251
+- Mean episode reward: 1.44828 +/- 1.30215
+
+-------------------- BreakoutNoFrameskip-v0 Log 166 --------------------
+Overall:
+- Steps: 48120
+- Episodes: 830
+Last 5 Episodes:
+- Mean episode length: 62.60000 +/- 32.73897
+- Mean episode reward: 1.00000 +/- 0.63246
+Last 2000 Steps:
+- Mean episode length: 70.42857 +/- 41.49736
+- Mean episode reward: 1.53571 +/- 1.26723
+
+-------------------- BreakoutNoFrameskip-v0 Log 167 --------------------
+Overall:
+- Steps: 48426
+- Episodes: 835
+Last 5 Episodes:
+- Mean episode length: 60.20000 +/- 55.60000
+- Mean episode reward: 1.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 45.46198
+- Mean episode reward: 1.48276 +/- 1.38017
+
+-------------------- BreakoutNoFrameskip-v0 Log 168 --------------------
+Overall:
+- Steps: 48711
+- Episodes: 840
+Last 5 Episodes:
+- Mean episode length: 56.00000 +/- 30.17946
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 41.02625
+- Mean episode reward: 1.35484 +/- 1.33316
+
+-------------------- BreakoutNoFrameskip-v0 Log 169 --------------------
+Overall:
+- Steps: 49060
+- Episodes: 845
+Last 5 Episodes:
+- Mean episode length: 68.80000 +/- 36.52616
+- Mean episode reward: 1.20000 +/- 0.97980
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 41.37708
+- Mean episode reward: 1.28125 +/- 1.32840
+
+-------------------- BreakoutNoFrameskip-v0 Log 170 --------------------
+Overall:
+- Steps: 49254
+- Episodes: 850
+Last 5 Episodes:
+- Mean episode length: 37.80000 +/- 31.60000
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 42.54956
+- Mean episode reward: 1.11429 +/- 1.34741
+
+-------------------- BreakoutNoFrameskip-v0 Log 171 --------------------
+Overall:
+- Steps: 49589
+- Episodes: 855
+Last 5 Episodes:
+- Mean episode length: 66.00000 +/- 54.23283
+- Mean episode reward: 1.00000 +/- 1.09545
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 40.63759
+- Mean episode reward: 0.83333 +/- 0.98601
+
+-------------------- BreakoutNoFrameskip-v0 Log 172 --------------------
+Overall:
+- Steps: 49806
+- Episodes: 860
+Last 5 Episodes:
+- Mean episode length: 42.40000 +/- 18.74673
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 40.62029
+- Mean episode reward: 0.85714 +/- 0.98974
+
+-------------------- BreakoutNoFrameskip-v0 Log 173 --------------------
+Overall:
+- Steps: 50192
+- Episodes: 865
+Last 5 Episodes:
+- Mean episode length: 76.20000 +/- 58.31089
+- Mean episode reward: 1.60000 +/- 1.74356
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 45.67370
+- Mean episode reward: 0.94118 +/- 1.21125
+
+-------------------- BreakoutNoFrameskip-v0 Log 174 --------------------
+Overall:
+- Steps: 50556
+- Episodes: 870
+Last 5 Episodes:
+- Mean episode length: 71.80000 +/- 49.52737
+- Mean episode reward: 1.40000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 45.17120
+- Mean episode reward: 1.06250 +/- 1.19733
+
+-------------------- BreakoutNoFrameskip-v0 Log 175 --------------------
+Overall:
+- Steps: 50932
+- Episodes: 875
+Last 5 Episodes:
+- Mean episode length: 74.20000 +/- 61.12741
+- Mean episode reward: 1.40000 +/- 1.85472
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 48.68012
+- Mean episode reward: 1.03030 +/- 1.33677
+
+-------------------- BreakoutNoFrameskip-v0 Log 176 --------------------
+Overall:
+- Steps: 51262
+- Episodes: 880
+Last 5 Episodes:
+- Mean episode length: 65.00000 +/- 64.72712
+- Mean episode reward: 1.20000 +/- 1.93907
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 54.75359
+- Mean episode reward: 1.20000 +/- 1.53623
+
+-------------------- BreakoutNoFrameskip-v0 Log 177 --------------------
+Overall:
+- Steps: 51423
+- Episodes: 885
+Last 5 Episodes:
+- Mean episode length: 31.20000 +/- 19.41546
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 50.39116
+- Mean episode reward: 1.06061 +/- 1.47585
+
+-------------------- BreakoutNoFrameskip-v0 Log 178 --------------------
+Overall:
+- Steps: 51780
+- Episodes: 890
+Last 5 Episodes:
+- Mean episode length: 70.40000 +/- 62.16945
+- Mean episode reward: 1.40000 +/- 1.85472
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 56.44802
+- Mean episode reward: 1.19355 +/- 1.65431
+
+-------------------- BreakoutNoFrameskip-v0 Log 179 --------------------
+Overall:
+- Steps: 51987
+- Episodes: 895
+Last 5 Episodes:
+- Mean episode length: 40.40000 +/- 23.37178
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 56.72301
+- Mean episode reward: 1.09375 +/- 1.66507
+
+-------------------- BreakoutNoFrameskip-v0 Log 180 --------------------
+Overall:
+- Steps: 52321
+- Episodes: 900
+Last 5 Episodes:
+- Mean episode length: 65.80000 +/- 44.61569
+- Mean episode reward: 1.40000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 53.80753
+- Mean episode reward: 1.09375 +/- 1.58823
+
+-------------------- BreakoutNoFrameskip-v0 Log 181 --------------------
+Overall:
+- Steps: 52654
+- Episodes: 905
+Last 5 Episodes:
+- Mean episode length: 65.60000 +/- 57.56596
+- Mean episode reward: 1.20000 +/- 1.60000
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 54.09472
+- Mean episode reward: 1.06061 +/- 1.59430
+
+-------------------- BreakoutNoFrameskip-v0 Log 182 --------------------
+Overall:
+- Steps: 52895
+- Episodes: 910
+Last 5 Episodes:
+- Mean episode length: 47.20000 +/- 21.77522
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 47.48359
+- Mean episode reward: 0.91667 +/- 1.38193
+
+-------------------- BreakoutNoFrameskip-v0 Log 183 --------------------
+Overall:
+- Steps: 53240
+- Episodes: 915
+Last 5 Episodes:
+- Mean episode length: 68.00000 +/- 42.47823
+- Mean episode reward: 1.20000 +/- 0.97980
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 44.21629
+- Mean episode reward: 0.91667 +/- 1.23322
+
+-------------------- BreakoutNoFrameskip-v0 Log 184 --------------------
+Overall:
+- Steps: 53548
+- Episodes: 920
+Last 5 Episodes:
+- Mean episode length: 60.60000 +/- 35.47168
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 45.84417
+- Mean episode reward: 1.06250 +/- 1.27322
+
+-------------------- BreakoutNoFrameskip-v0 Log 185 --------------------
+Overall:
+- Steps: 53927
+- Episodes: 925
+Last 5 Episodes:
+- Mean episode length: 74.80000 +/- 61.08158
+- Mean episode reward: 1.40000 +/- 1.85472
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 45.80454
+- Mean episode reward: 1.09677 +/- 1.27898
+
+-------------------- BreakoutNoFrameskip-v0 Log 186 --------------------
+Overall:
+- Steps: 54245
+- Episodes: 930
+Last 5 Episodes:
+- Mean episode length: 62.60000 +/- 36.38461
+- Mean episode reward: 1.00000 +/- 0.89443
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 45.05010
+- Mean episode reward: 0.96970 +/- 1.19303
+
+-------------------- BreakoutNoFrameskip-v0 Log 187 --------------------
+Overall:
+- Steps: 54553
+- Episodes: 935
+Last 5 Episodes:
+- Mean episode length: 60.60000 +/- 65.15704
+- Mean episode reward: 1.20000 +/- 1.93907
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 46.72284
+- Mean episode reward: 1.09677 +/- 1.32847
+
+-------------------- BreakoutNoFrameskip-v0 Log 188 --------------------
+Overall:
+- Steps: 54765
+- Episodes: 940
+Last 5 Episodes:
+- Mean episode length: 41.40000 +/- 23.76215
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 46.07500
+- Mean episode reward: 0.96970 +/- 1.26694
+
+-------------------- BreakoutNoFrameskip-v0 Log 189 --------------------
+Overall:
+- Steps: 55171
+- Episodes: 945
+Last 5 Episodes:
+- Mean episode length: 80.20000 +/- 61.60974
+- Mean episode reward: 1.60000 +/- 1.85472
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 50.53831
+- Mean episode reward: 1.06452 +/- 1.45769
+
+-------------------- BreakoutNoFrameskip-v0 Log 190 --------------------
+Overall:
+- Steps: 55580
+- Episodes: 950
+Last 5 Episodes:
+- Mean episode length: 80.80000 +/- 56.51690
+- Mean episode reward: 1.40000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 55.00263
+- Mean episode reward: 1.16667 +/- 1.55099
+
+-------------------- BreakoutNoFrameskip-v0 Log 191 --------------------
+Overall:
+- Steps: 55816
+- Episodes: 955
+Last 5 Episodes:
+- Mean episode length: 46.20000 +/- 21.28286
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 49.81312
+- Mean episode reward: 1.09677 +/- 1.39942
+
+-------------------- BreakoutNoFrameskip-v0 Log 192 --------------------
+Overall:
+- Steps: 56150
+- Episodes: 960
+Last 5 Episodes:
+- Mean episode length: 65.80000 +/- 45.38899
+- Mean episode reward: 1.00000 +/- 1.09545
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 50.49072
+- Mean episode reward: 1.03125 +/- 1.38032
+
+-------------------- BreakoutNoFrameskip-v0 Log 193 --------------------
+Overall:
+- Steps: 56369
+- Episodes: 965
+Last 5 Episodes:
+- Mean episode length: 42.80000 +/- 19.12485
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 49.33289
+- Mean episode reward: 1.06452 +/- 1.36631
+
+-------------------- BreakoutNoFrameskip-v0 Log 194 --------------------
+Overall:
+- Steps: 56755
+- Episodes: 970
+Last 5 Episodes:
+- Mean episode length: 76.20000 +/- 55.40181
+- Mean episode reward: 1.20000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 49.19472
+- Mean episode reward: 1.03226 +/- 1.23089
+
+-------------------- BreakoutNoFrameskip-v0 Log 195 --------------------
+Overall:
+- Steps: 56975
+- Episodes: 975
+Last 5 Episodes:
+- Mean episode length: 43.00000 +/- 29.82616
+- Mean episode reward: 1.20000 +/- 1.60000
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 49.14074
+- Mean episode reward: 1.09375 +/- 1.33134
+
+-------------------- BreakoutNoFrameskip-v0 Log 196 --------------------
+Overall:
+- Steps: 57165
+- Episodes: 980
+Last 5 Episodes:
+- Mean episode length: 37.00000 +/- 20.31748
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 42.27781
+- Mean episode reward: 0.88889 +/- 1.09994
+
+-------------------- BreakoutNoFrameskip-v0 Log 197 --------------------
+Overall:
+- Steps: 57356
+- Episodes: 985
+Last 5 Episodes:
+- Mean episode length: 37.20000 +/- 19.46689
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 41.59778
+- Mean episode reward: 0.86486 +/- 1.09451
+
+-------------------- BreakoutNoFrameskip-v0 Log 198 --------------------
+Overall:
+- Steps: 57669
+- Episodes: 990
+Last 5 Episodes:
+- Mean episode length: 61.60000 +/- 52.93619
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 50.28205 +/- 39.40256
+- Mean episode reward: 0.82051 +/- 1.08301
+
+-------------------- BreakoutNoFrameskip-v0 Log 199 --------------------
+Overall:
+- Steps: 58102
+- Episodes: 995
+Last 5 Episodes:
+- Mean episode length: 85.60000 +/- 52.31673
+- Mean episode reward: 1.80000 +/- 1.60000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 42.54112
+- Mean episode reward: 0.97222 +/- 1.23572
+
+-------------------- BreakoutNoFrameskip-v0 Log 200 --------------------
+Overall:
+- Steps: 58346
+- Episodes: 1000
+Last 5 Episodes:
+- Mean episode length: 47.80000 +/- 33.08414
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 43.88586
+- Mean episode reward: 0.94444 +/- 1.26808
+
+-------------------- BreakoutNoFrameskip-v0 Log 201 --------------------
+Overall:
+- Steps: 58703
+- Episodes: 1005
+Last 5 Episodes:
+- Mean episode length: 70.40000 +/- 61.91801
+- Mean episode reward: 1.40000 +/- 1.85472
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 44.41687
+- Mean episode reward: 1.00000 +/- 1.37437
+
+-------------------- BreakoutNoFrameskip-v0 Log 202 --------------------
+Overall:
+- Steps: 59159
+- Episodes: 1010
+Last 5 Episodes:
+- Mean episode length: 90.20000 +/- 65.26684
+- Mean episode reward: 1.80000 +/- 2.13542
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 53.85397
+- Mean episode reward: 1.16129 +/- 1.58820
+
+-------------------- BreakoutNoFrameskip-v0 Log 203 --------------------
+Overall:
+- Steps: 59446
+- Episodes: 1015
+Last 5 Episodes:
+- Mean episode length: 56.40000 +/- 29.70926
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 65.66667 +/- 50.22173
+- Mean episode reward: 1.20000 +/- 1.51438
+
+-------------------- BreakoutNoFrameskip-v0 Log 204 --------------------
+Overall:
+- Steps: 59764
+- Episodes: 1020
+Last 5 Episodes:
+- Mean episode length: 62.60000 +/- 10.74430
+- Mean episode reward: 1.00000 +/- 0.00000
+Last 2000 Steps:
+- Mean episode length: 67.96552 +/- 50.27681
+- Mean episode reward: 1.24138 +/- 1.50069
+
+-------------------- BreakoutNoFrameskip-v0 Log 205 --------------------
+Overall:
+- Steps: 60045
+- Episodes: 1025
+Last 5 Episodes:
+- Mean episode length: 55.20000 +/- 55.99071
+- Mean episode reward: 1.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 48.29270
+- Mean episode reward: 1.12903 +/- 1.43104
+
+-------------------- BreakoutNoFrameskip-v0 Log 206 --------------------
+Overall:
+- Steps: 60250
+- Episodes: 1030
+Last 5 Episodes:
+- Mean episode length: 40.00000 +/- 25.27449
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 48.35478
+- Mean episode reward: 1.12903 +/- 1.43104
+
+-------------------- BreakoutNoFrameskip-v0 Log 207 --------------------
+Overall:
+- Steps: 60536
+- Episodes: 1035
+Last 5 Episodes:
+- Mean episode length: 56.20000 +/- 55.47035
+- Mean episode reward: 1.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 50.23870
+- Mean episode reward: 1.16129 +/- 1.52605
+
+-------------------- BreakoutNoFrameskip-v0 Log 208 --------------------
+Overall:
+- Steps: 60916
+- Episodes: 1040
+Last 5 Episodes:
+- Mean episode length: 75.00000 +/- 26.25262
+- Mean episode reward: 2.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 47.17322
+- Mean episode reward: 1.18750 +/- 1.50909
+
+-------------------- BreakoutNoFrameskip-v0 Log 209 --------------------
+Overall:
+- Steps: 61264
+- Episodes: 1045
+Last 5 Episodes:
+- Mean episode length: 68.60000 +/- 50.49990
+- Mean episode reward: 1.40000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 42.15048
+- Mean episode reward: 1.15152 +/- 1.30549
+
+-------------------- BreakoutNoFrameskip-v0 Log 210 --------------------
+Overall:
+- Steps: 61497
+- Episodes: 1050
+Last 5 Episodes:
+- Mean episode length: 45.60000 +/- 21.14332
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 41.08399
+- Mean episode reward: 1.05714 +/- 1.28603
+
+-------------------- BreakoutNoFrameskip-v0 Log 211 --------------------
+Overall:
+- Steps: 61666
+- Episodes: 1055
+Last 5 Episodes:
+- Mean episode length: 32.80000 +/- 14.06272
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 53.05405 +/- 40.47151
+- Mean episode reward: 1.00000 +/- 1.27343
+
+-------------------- BreakoutNoFrameskip-v0 Log 212 --------------------
+Overall:
+- Steps: 61949
+- Episodes: 1060
+Last 5 Episodes:
+- Mean episode length: 55.60000 +/- 23.93825
+- Mean episode reward: 1.60000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 37.05210
+- Mean episode reward: 1.13889 +/- 1.31556
+
+-------------------- BreakoutNoFrameskip-v0 Log 213 --------------------
+Overall:
+- Steps: 62110
+- Episodes: 1065
+Last 5 Episodes:
+- Mean episode length: 31.20000 +/- 19.41546
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 50.28205 +/- 36.75626
+- Mean episode reward: 0.97436 +/- 1.27072
+
+-------------------- BreakoutNoFrameskip-v0 Log 214 --------------------
+Overall:
+- Steps: 62394
+- Episodes: 1070
+Last 5 Episodes:
+- Mean episode length: 55.80000 +/- 55.72217
+- Mean episode reward: 1.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 39.35342
+- Mean episode reward: 1.11111 +/- 1.36987
+
+-------------------- BreakoutNoFrameskip-v0 Log 215 --------------------
+Overall:
+- Steps: 62612
+- Episodes: 1075
+Last 5 Episodes:
+- Mean episode length: 42.60000 +/- 30.64376
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 49.00000 +/- 36.71103
+- Mean episode reward: 0.92500 +/- 1.25275
+
+-------------------- BreakoutNoFrameskip-v0 Log 216 --------------------
+Overall:
+- Steps: 63007
+- Episodes: 1080
+Last 5 Episodes:
+- Mean episode length: 78.00000 +/- 45.76899
+- Mean episode reward: 1.40000 +/- 1.01980
+Last 2000 Steps:
+- Mean episode length: 51.63158 +/- 39.85066
+- Mean episode reward: 0.92105 +/- 1.15580
+
+-------------------- BreakoutNoFrameskip-v0 Log 217 --------------------
+Overall:
+- Steps: 63340
+- Episodes: 1085
+Last 5 Episodes:
+- Mean episode length: 65.60000 +/- 52.72798
+- Mean episode reward: 1.00000 +/- 1.09545
+Last 2000 Steps:
+- Mean episode length: 51.63158 +/- 39.90741
+- Mean episode reward: 0.86842 +/- 1.10432
+
+-------------------- BreakoutNoFrameskip-v0 Log 218 --------------------
+Overall:
+- Steps: 63623
+- Episodes: 1090
+Last 5 Episodes:
+- Mean episode length: 55.60000 +/- 30.00400
+- Mean episode reward: 0.80000 +/- 0.74833
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 41.10383
+- Mean episode reward: 0.94444 +/- 1.12902
+
+-------------------- BreakoutNoFrameskip-v0 Log 219 --------------------
+Overall:
+- Steps: 64045
+- Episodes: 1095
+Last 5 Episodes:
+- Mean episode length: 83.40000 +/- 44.81785
+- Mean episode reward: 2.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 45.78687
+- Mean episode reward: 1.12500 +/- 1.24373
+
+-------------------- BreakoutNoFrameskip-v0 Log 220 --------------------
+Overall:
+- Steps: 64279
+- Episodes: 1100
+Last 5 Episodes:
+- Mean episode length: 45.80000 +/- 21.62776
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 42.35782
+- Mean episode reward: 1.16129 +/- 1.16665
+
+-------------------- BreakoutNoFrameskip-v0 Log 221 --------------------
+Overall:
+- Steps: 64597
+- Episodes: 1105
+Last 5 Episodes:
+- Mean episode length: 62.60000 +/- 48.08160
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 44.06877
+- Mean episode reward: 1.16129 +/- 1.22070
+
+-------------------- BreakoutNoFrameskip-v0 Log 222 --------------------
+Overall:
+- Steps: 64767
+- Episodes: 1110
+Last 5 Episodes:
+- Mean episode length: 33.00000 +/- 14.31084
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 40.86669
+- Mean episode reward: 1.02941 +/- 1.15007
+
+-------------------- BreakoutNoFrameskip-v0 Log 223 --------------------
+Overall:
+- Steps: 64908
+- Episodes: 1115
+Last 5 Episodes:
+- Mean episode length: 27.20000 +/- 10.40000
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 39.91063
+- Mean episode reward: 0.94444 +/- 1.15336
+
+-------------------- BreakoutNoFrameskip-v0 Log 224 --------------------
+Overall:
+- Steps: 65201
+- Episodes: 1120
+Last 5 Episodes:
+- Mean episode length: 57.60000 +/- 46.08514
+- Mean episode reward: 1.00000 +/- 1.09545
+Last 2000 Steps:
+- Mean episode length: 51.63158 +/- 37.20457
+- Mean episode reward: 0.89474 +/- 1.11896
+
+-------------------- BreakoutNoFrameskip-v0 Log 225 --------------------
+Overall:
+- Steps: 65615
+- Episodes: 1125
+Last 5 Episodes:
+- Mean episode length: 81.80000 +/- 56.86968
+- Mean episode reward: 2.20000 +/- 1.93907
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 43.85801
+- Mean episode reward: 1.08333 +/- 1.40188
+
+-------------------- BreakoutNoFrameskip-v0 Log 226 --------------------
+Overall:
+- Steps: 65851
+- Episodes: 1130
+Last 5 Episodes:
+- Mean episode length: 46.20000 +/- 22.66627
+- Mean episode reward: 0.60000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 50.28205 +/- 38.24278
+- Mean episode reward: 0.94872 +/- 1.28000
+
+-------------------- BreakoutNoFrameskip-v0 Log 227 --------------------
+Overall:
+- Steps: 66164
+- Episodes: 1135
+Last 5 Episodes:
+- Mean episode length: 61.60000 +/- 45.68413
+- Mean episode reward: 1.00000 +/- 1.09545
+Last 2000 Steps:
+- Mean episode length: 50.28205 +/- 41.30745
+- Mean episode reward: 0.87179 +/- 1.24405
+
+-------------------- BreakoutNoFrameskip-v0 Log 228 --------------------
+Overall:
+- Steps: 66496
+- Episodes: 1140
+Last 5 Episodes:
+- Mean episode length: 65.40000 +/- 31.76539
+- Mean episode reward: 1.00000 +/- 0.63246
+Last 2000 Steps:
+- Mean episode length: 50.28205 +/- 39.69819
+- Mean episode reward: 0.84615 +/- 1.14441
+
+-------------------- BreakoutNoFrameskip-v0 Log 229 --------------------
+Overall:
+- Steps: 66854
+- Episodes: 1145
+Last 5 Episodes:
+- Mean episode length: 70.60000 +/- 31.55693
+- Mean episode reward: 2.00000 +/- 1.67332
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 42.49345
+- Mean episode reward: 1.18182 +/- 1.38070
+
+-------------------- BreakoutNoFrameskip-v0 Log 230 --------------------
+Overall:
+- Steps: 67172
+- Episodes: 1150
+Last 5 Episodes:
+- Mean episode length: 62.60000 +/- 54.66846
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 43.57631
+- Mean episode reward: 1.29032 +/- 1.44118
+
+-------------------- BreakoutNoFrameskip-v0 Log 231 --------------------
+Overall:
+- Steps: 67580
+- Episodes: 1155
+Last 5 Episodes:
+- Mean episode length: 80.60000 +/- 48.86144
+- Mean episode reward: 1.60000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 41.74799
+- Mean episode reward: 1.22581 +/- 1.26261
+
+-------------------- BreakoutNoFrameskip-v0 Log 232 --------------------
+Overall:
+- Steps: 67741
+- Episodes: 1160
+Last 5 Episodes:
+- Mean episode length: 31.20000 +/- 19.41546
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 42.09365
+- Mean episode reward: 1.12121 +/- 1.27345
+
+-------------------- BreakoutNoFrameskip-v0 Log 233 --------------------
+Overall:
+- Steps: 67962
+- Episodes: 1165
+Last 5 Episodes:
+- Mean episode length: 43.20000 +/- 31.10884
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 43.08785
+- Mean episode reward: 1.15625 +/- 1.30167
+
+-------------------- BreakoutNoFrameskip-v0 Log 234 --------------------
+Overall:
+- Steps: 68260
+- Episodes: 1170
+Last 5 Episodes:
+- Mean episode length: 58.60000 +/- 26.39394
+- Mean episode reward: 1.00000 +/- 0.63246
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 40.36421
+- Mean episode reward: 1.12121 +/- 1.24943
+
+-------------------- BreakoutNoFrameskip-v0 Log 235 --------------------
+Overall:
+- Steps: 68646
+- Episodes: 1175
+Last 5 Episodes:
+- Mean episode length: 76.20000 +/- 52.36564
+- Mean episode reward: 2.20000 +/- 2.48193
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 43.90965
+- Mean episode reward: 1.24242 +/- 1.61490
+
+-------------------- BreakoutNoFrameskip-v0 Log 236 --------------------
+Overall:
+- Steps: 68976
+- Episodes: 1180
+Last 5 Episodes:
+- Mean episode length: 65.00000 +/- 54.37647
+- Mean episode reward: 1.00000 +/- 1.26491
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 48.00564
+- Mean episode reward: 1.12121 +/- 1.53263
+
+-------------------- BreakoutNoFrameskip-v0 Log 237 --------------------
+Overall:
+- Steps: 69261
+- Episodes: 1185
+Last 5 Episodes:
+- Mean episode length: 56.00000 +/- 43.83606
+- Mean episode reward: 0.80000 +/- 0.97980
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 45.04405
+- Mean episode reward: 1.09091 +/- 1.46398
+
+-------------------- BreakoutNoFrameskip-v0 Log 238 --------------------
+Overall:
+- Steps: 69597
+- Episodes: 1190
+Last 5 Episodes:
+- Mean episode length: 66.20000 +/- 39.05074
+- Mean episode reward: 1.00000 +/- 0.89443
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 42.85267
+- Mean episode reward: 0.97143 +/- 1.36247
+
+-------------------- BreakoutNoFrameskip-v0 Log 239 --------------------
+Overall:
+- Steps: 69738
+- Episodes: 1195
+Last 5 Episodes:
+- Mean episode length: 27.20000 +/- 11.42629
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 42.65784
+- Mean episode reward: 0.94444 +/- 1.35287
+
+-------------------- BreakoutNoFrameskip-v0 Log 240 --------------------
+Overall:
+- Steps: 69945
+- Episodes: 1200
+Last 5 Episodes:
+- Mean episode length: 40.40000 +/- 36.80000
+- Mean episode reward: 0.40000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 42.98672
+- Mean episode reward: 0.91667 +/- 1.36168
+
+-------------------- BreakoutNoFrameskip-v0 Log 241 --------------------
+Overall:
+- Steps: 70309
+- Episodes: 1205
+Last 5 Episodes:
+- Mean episode length: 71.80000 +/- 67.15475
+- Mean episode reward: 1.40000 +/- 1.95959
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 50.16267
+- Mean episode reward: 0.97143 +/- 1.55813
+
+-------------------- BreakoutNoFrameskip-v0 Log 242 --------------------
+Overall:
+- Steps: 70669
+- Episodes: 1210
+Last 5 Episodes:
+- Mean episode length: 71.00000 +/- 54.54539
+- Mean episode reward: 1.40000 +/- 1.49666
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 49.78156
+- Mean episode reward: 0.91176 +/- 1.29178
+
+-------------------- BreakoutNoFrameskip-v0 Log 243 --------------------
+Overall:
+- Steps: 71015
+- Episodes: 1215
+Last 5 Episodes:
+- Mean episode length: 68.20000 +/- 34.79310
+- Mean episode reward: 1.20000 +/- 0.97980
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 47.67381
+- Mean episode reward: 0.94118 +/- 1.25888
+
+-------------------- BreakoutNoFrameskip-v0 Log 244 --------------------
+Overall:
+- Steps: 71269
+- Episodes: 1220
+Last 5 Episodes:
+- Mean episode length: 49.80000 +/- 38.15966
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 46.47835
+- Mean episode reward: 0.88571 +/- 1.23685
+
+-------------------- BreakoutNoFrameskip-v0 Log 245 --------------------
+Overall:
+- Steps: 71501
+- Episodes: 1225
+Last 5 Episodes:
+- Mean episode length: 45.40000 +/- 35.58427
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 45.70281
+- Mean episode reward: 0.86111 +/- 1.22821
+
+-------------------- BreakoutNoFrameskip-v0 Log 246 --------------------
+Overall:
+- Steps: 71850
+- Episodes: 1230
+Last 5 Episodes:
+- Mean episode length: 68.80000 +/- 49.97359
+- Mean episode reward: 1.40000 +/- 1.35647
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 48.07560
+- Mean episode reward: 0.97059 +/- 1.31698
+
+-------------------- BreakoutNoFrameskip-v0 Log 247 --------------------
+Overall:
+- Steps: 72119
+- Episodes: 1235
+Last 5 Episodes:
+- Mean episode length: 52.80000 +/- 43.53573
+- Mean episode reward: 0.80000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 56.14286 +/- 44.00853
+- Mean episode reward: 0.91429 +/- 1.15564
+
+-------------------- BreakoutNoFrameskip-v0 Log 248 --------------------
+Overall:
+- Steps: 72366
+- Episodes: 1240
+Last 5 Episodes:
+- Mean episode length: 48.40000 +/- 14.82700
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 39.66660
+- Mean episode reward: 1.00000 +/- 1.11144
+
+-------------------- BreakoutNoFrameskip-v0 Log 249 --------------------
+Overall:
+- Steps: 72509
+- Episodes: 1245
+Last 5 Episodes:
+- Mean episode length: 27.60000 +/- 11.20000
+- Mean episode reward: 0.20000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 51.63158 +/- 37.52502
+- Mean episode reward: 0.81579 +/- 0.96941
+
+-------------------- BreakoutNoFrameskip-v0 Log 250 --------------------
+Overall:
+- Steps: 72936
+- Episodes: 1250
+Last 5 Episodes:
+- Mean episode length: 84.40000 +/- 33.51776
+- Mean episode reward: 1.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 51.63158 +/- 38.41218
+- Mean episode reward: 0.81579 +/- 0.96941
+
+-------------------- BreakoutNoFrameskip-v0 Log 251 --------------------
+Overall:
+- Steps: 73399
+- Episodes: 1255
+Last 5 Episodes:
+- Mean episode length: 91.60000 +/- 61.67852
+- Mean episode reward: 2.00000 +/- 2.00000
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 44.54956
+- Mean episode reward: 1.06061 +/- 1.27777
+
+-------------------- BreakoutNoFrameskip-v0 Log 252 --------------------
+Overall:
+- Steps: 73647
+- Episodes: 1260
+Last 5 Episodes:
+- Mean episode length: 48.60000 +/- 14.85396
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 39.60353
+- Mean episode reward: 1.02941 +/- 1.15007
+
+-------------------- BreakoutNoFrameskip-v0 Log 253 --------------------
+Overall:
+- Steps: 74009
+- Episodes: 1265
+Last 5 Episodes:
+- Mean episode length: 71.40000 +/- 52.05997
+- Mean episode reward: 1.20000 +/- 1.16619
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 43.33952
+- Mean episode reward: 1.16129 +/- 1.22070
+
+-------------------- BreakoutNoFrameskip-v0 Log 254 --------------------
+Overall:
+- Steps: 74229
+- Episodes: 1270
+Last 5 Episodes:
+- Mean episode length: 43.00000 +/- 30.02665
+- Mean episode reward: 0.60000 +/- 0.80000
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 43.56461
+- Mean episode reward: 1.03030 +/- 1.19303
+
+-------------------- BreakoutNoFrameskip-v0 Log 255 --------------------
+Overall:
+- Steps: 74478
+- Episodes: 1275
+Last 5 Episodes:
+- Mean episode length: 48.80000 +/- 14.93185
+- Mean episode reward: 0.80000 +/- 0.40000
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 42.79499
+- Mean episode reward: 1.16129 +/- 1.16665
+
+-------------------- BreakoutNoFrameskip-v0 Log 256 --------------------
+Overall:
+- Steps: 74928
+- Episodes: 1280
+Last 5 Episodes:
+- Mean episode length: 89.00000 +/- 56.93856
+- Mean episode reward: 2.00000 +/- 1.67332
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 47.68977
+- Mean episode reward: 1.19355 +/- 1.35407
+
+-------------------- BreakoutNoFrameskip-v0 Log 257 --------------------
+Overall:
+- Steps: 75228
+- Episodes: 1285
+Last 5 Episodes:
+- Mean episode length: 59.00000 +/- 35.74353
+- Mean episode reward: 1.00000 +/- 0.89443
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 44.78398
+- Mean episode reward: 1.19355 +/- 1.28061
+
+-------------------- BreakoutNoFrameskip-v0 Log 258 --------------------
+Overall:
+- Steps: 75434
+- Episodes: 1290
+Last 5 Episodes:
+- Mean episode length: 40.20000 +/- 15.70223
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 39.26866
+- Mean episode reward: 1.11765 +/- 1.15720
+
+-------------------- BreakoutNoFrameskip-v0 Log 259 --------------------
+Overall:
+- Steps: 75639
+- Episodes: 1295
+Last 5 Episodes:
+- Mean episode length: 40.00000 +/- 22.90851
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 40.22951
+- Mean episode reward: 1.00000 +/- 1.17851
+
+-------------------- BreakoutNoFrameskip-v0 Log 260 --------------------
+Overall:
+- Steps: 75994
+- Episodes: 1300
+Last 5 Episodes:
+- Mean episode length: 70.00000 +/- 53.35166
+- Mean episode reward: 1.20000 +/- 1.46969
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 40.17354
+- Mean episode reward: 1.00000 +/- 1.22474
+
+-------------------- BreakoutNoFrameskip-v0 Log 261 --------------------
+Overall:
+- Steps: 76303
+- Episodes: 1305
+Last 5 Episodes:
+- Mean episode length: 60.80000 +/- 64.94736
+- Mean episode reward: 1.20000 +/- 1.93907
+Last 2000 Steps:
+- Mean episode length: 57.82353 +/- 46.24199
+- Mean episode reward: 1.11765 +/- 1.40931
+
+-------------------- BreakoutNoFrameskip-v0 Log 262 --------------------
+Overall:
+- Steps: 76687
+- Episodes: 1310
+Last 5 Episodes:
+- Mean episode length: 75.80000 +/- 40.16665
+- Mean episode reward: 1.20000 +/- 0.97980
+Last 2000 Steps:
+- Mean episode length: 59.60606 +/- 48.77899
+- Mean episode reward: 1.12121 +/- 1.45139
+
+-------------------- BreakoutNoFrameskip-v0 Log 263 --------------------
+Overall:
+- Steps: 76876
+- Episodes: 1315
+Last 5 Episodes:
+- Mean episode length: 36.80000 +/- 18.99895
+- Mean episode reward: 0.40000 +/- 0.48990
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 41.78679
+- Mean episode reward: 0.97222 +/- 1.25800
+
+-------------------- BreakoutNoFrameskip-v0 Log 264 --------------------
+Overall:
+- Steps: 77160
+- Episodes: 1320
+Last 5 Episodes:
+- Mean episode length: 55.80000 +/- 55.72217
+- Mean episode reward: 1.00000 +/- 1.54919
+Last 2000 Steps:
+- Mean episode length: 54.55556 +/- 44.73654
+- Mean episode reward: 0.94444 +/- 1.33218
+
+-------------------- BreakoutNoFrameskip-v0 Log 265 --------------------
+Overall:
+- Steps: 77610
+- Episodes: 1325
+Last 5 Episodes:
+- Mean episode length: 89.00000 +/- 39.04869
+- Mean episode reward: 1.60000 +/- 1.01980
+Last 2000 Steps:
+- Mean episode length: 61.50000 +/- 50.45914
+- Mean episode reward: 1.03125 +/- 1.35749
+
+-------------------- BreakoutNoFrameskip-v0 Log 266 --------------------
+Overall:
+- Steps: 77961
+- Episodes: 1330
+Last 5 Episodes:
+- Mean episode length: 69.20000 +/- 49.38583
+- Mean episode reward: 2.00000 +/- 1.67332
+Last 2000 Steps:
+- Mean episode length: 63.51613 +/- 49.30672
+- Mean episode reward: 1.22581 +/- 1.43031
+
